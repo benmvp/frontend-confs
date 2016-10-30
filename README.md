@@ -4,7 +4,7 @@
 
 So you want to speak at conferences, but one of the things holding you back is that you don't know _where_ to speak. Unless you're plugged into the "speakers community," you may only find out about conferences after the call for proposals (CFP) has passed!
 
-The goal of this repo is to list the conferences that have **frontend-related** speaking opportunities. These could be frontend-specific conferences (like JSConf or CSSConf) or be more general conferences that have frontend tracks. Most of the conferences below won't have active calls for proposals at any given moment. But hopefully by knowing about certain conferences and when they typically take place, you'll be able to identify the conferences you would like to speak at in future.
+The goal of this repo is to list the conferences that have **frontend-related** speaking opportunities. These could be frontend-specific conferences (like JSConf or CSSConf) or be more general conferences that have frontend tracks. Most of the conferences below won't have active calls for proposals at any given moment. However, hopefully by knowing that certain conferences exist and when they typically take place, you'll be able to identify the conferences you would like to speak at in future.
 
 ## Contributing
 
@@ -14,10 +14,28 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 
 ### January
 
+#### [NDC London](http://ndc-london.com/)
+**Location:** London, United Kingdom  
+**Date:** January 16 to January 20, 2017  
+**Submission deadline:** October 1, 2016   
+**Travel expenses covered?** Yes  
+**Code of conduct:** [Yes](http://ndc-london.com/page/code-of-conduct)  
+
+-
+
+#### [DNN Summit](http://www.dnnsummit.org/)
+**Location:** Denver, Colorado  
+**Date:** January 20, 2017  
+**Submission deadline:** September 16, 2016   
+**Travel expenses covered?** No  
+**Code of conduct:** No  
+
+-
+
 #### [BuzzJS](http://buzzjs.com/)
 **Location:** New York City, New York  
 **Date:** January 27, 2017  
-**Submission deadline:** November 30, 2016
+**Submission deadline:** November 30, 2016  
 **Travel expenses covered?** No  
 **Code of conduct:** [Yes](http://confcodeofconduct.com/)  
 
@@ -54,12 +72,39 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 
 -
 
+#### [ConFoo Montreal](https://confoo.ca/en/)
+**Location:** Montreal, Canada  
+**Date:** March 8 to March 10, 2017  
+**Submission deadline:** September 20, 2016  
+**Travel expenses covered?** Yes  
+**Code of conduct:** [Yes](https:/confoo.ca/en/code-of-conduct)  
+
+-
+
+#### [NationJS Node Day](http://nationjs.com/)
+**Location:** Washington, D.C.  
+**Date:** March 11, 2016  
+**Submission deadline:** January 28, 2016  
+**Travel expenses covered?** Yes  
+**Code of conduct:** [Yes](http://nationjs.com/conduct)
+
+-
+
 #### [Devoxx US](http://devoxx.us/)
 **Location:** San Jose, California  
 **Date:** March 21 to March 23, 2017  
 **Submission deadline:** October 11, 2016  
 **Travel expenses covered?** No  
 **Code of conduct:** [Yes](https://devoxx.us/codeofconduct/)  
+
+-
+
+#### [React London](https://react.london/)
+**Location:** London, United Kingdom  
+**Date:** March 28, 2017  
+**Submission deadline:** Unknown  
+**Travel expenses covered?** No  
+**Code of conduct:** [Yes](https://react.london/code-of-conduct)  
 
 -
 
@@ -74,29 +119,213 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 
 ### April
 
+#### [Prairie Dev Con](http://www.prairiedevcon.com/)
+**Location:** Winnipeg, Canada  
+**Date:** April 11 to April 12, 2016  
+**Submission deadline:** January 11, 2016  
+**Travel expenses covered?** Yes  
+**Code of conduct:** No  
+
 -----
 
 ### May
+
+#### [O'Reilly OSCON Austin](http://conferences.oreilly.com/oscon/oscon-tx)
+**Location:** Austin, Texas  
+**Date:** May 10 to May 11, 2017  
+**Submission deadline:** October 25, 2016  
+**Travel expenses covered?** Yes  
+**Code of conduct:** [Yes](http://oreilly.com/conferences/code-of-conduct.html)  
+
+-
+
+#### [Syntax Code & Craft Convention](https://2017.syntaxcon.com/)
+**Location:** Charleston, South Carolina  
+**Date:** May 11 to May 12, 2017  
+**Submission deadline:** December 2, 2016  
+**Travel expenses covered?** No  
+**Code of conduct:** [Yes](https://2017.syntaxcon.com/about/code-of-conduct/)  
+
+-
+
+#### [DevSum](http://www.devsum.se/)
+**Location:** Stockholm, Sweden  
+**Date:** May 11 to May 12, 2017  
+**Submission deadline:** December 2, 2016  
+**Travel expenses covered?** No  
+**Code of conduct:** None
+
+-
+
+#### [Space City JS](http://www.spacecity.codes/)
+**Location:** Houston, Texas  
+**Date:** May 14, 2016  
+**Submission deadline:** January 15, 2016  
+**Travel expenses covered?** No  
+**Code of conduct:** [Yes](http://www.spacecity.codes/#Conduct)  
+
+-
+
+#### [ReactEurope](https://www.react-europe.org/)
+**Location:** Paris, France  
+**Date:** May 18 to May 19, 2017  
+**Submission deadline:** January 8, 2017  
+**Travel expenses covered?** Yes  
+**Code of conduct:** [Yes](http://confcodeofconduct.com/)  
 
 -----
 
 ### June
 
+#### [CSSConf Nordic](http://cssconf.no/)
+**Location:** Oslo, Norway  
+**Date:** June 1, 2016  
+**Submission deadline:** January 31, 2016  
+**Travel expenses covered?** Yes  
+**Code of conduct:** [Yes](http://confcodeofconduct.com/)  
+
+-
+
+#### [NDC Oslo](http://ndcoslo.com/)
+**Location:** Oslo, Norway  
+**Date:** June 12 to June 16, 2017  
+**Submission deadline:** February 15, 2017  
+**Travel expenses covered?** Yes  
+**Code of conduct:** [Yes](http://ndcoslo.com/page/code-of-conduct)  
+
+-
+
+#### [Dinosaurjs](https://dinosaurjs.org/)
+**Location:** Denver, Colorado  
+**Date:** June 24, 2016  
+**Submission deadline:** March 14, 2016  
+**Travel expenses covered?** Yes  
+**Code of conduct:** [Yes](https://dinosaurjs.org/code-of-conduct)  
+
+-
+
+#### [You Gotta Love Frontend](http://yougottalovefrontend.com/)
+**Location:** Tel Aviv, Israel  
+**Date:** June 27 to June 28, 2016  
+**Submission deadline:** March 31, 2016  
+**Travel expenses covered?** Yes  
+**Code of conduct:** [Yes](http://yougottalovefrontend.com/resources/codeofconduct.html)  
+
 -----
 
 ### July
+
+#### [FullStack](https://skillsmatter.com/conferences/7278-fullstack-2016-the-conference-on-javascript-node-and-internet-of-things)
+**Location:** London, United Kingdom  
+**Date:** July 13 to July 15, 2016  
+**Submission deadline:** March 29, 2016  
+**Travel expenses covered?** Case-by-case basis  
+**Code of conduct:** [Yes](https://skillsmatter.com/go/code-of-conduct)  
+
+-
+
+#### [Front Porch Austin](http://frontporch.io/austin/)
+**Location:** Austin, Texas  
+**Date:** July 19, 2016  
+**Submission deadline:** March 1, 2016  
+**Travel expenses covered?** Yes  
+**Code of conduct:** [Yes](http://frontporch.io/conduct)  
+
+-
+
+#### [NodeSummit](http://nodesummit.com/)
+**Location:** San Francisco, California  
+**Date:** July 27 to July 28, 2016  
+**Submission deadline:** May 1, 2016  
+**Travel expenses covered?** No  
+**Code of conduct:** [Yes](http://nodesummit.com/node-summit-code-of-conduct/)  
 
 -----
 
 ### August
 
+#### [NDC Sydney](http://ndcsydney.com/)
+**Location:** Sydney, Australia  
+**Date:** August 14 to August 18, 2017  
+**Submission deadline:** April 1, 2017  
+**Travel expenses covered?** Yes  
+**Code of conduct:** [Yes](http://ndcsydney.com/page/code-of-conduct)  
+
+-
+
+#### [React Rally](http://www.reactrally.com/)
+**Location:** Salt Lake City, Utah  
+**Date:** August 25 to August 26, 2016  
+**Submission deadline:** April 27, 2016  
+**Travel expenses covered?** Yes  
+**Code of conduct:** [Yes](http://www.reactrally.com/conduct)  
+
 -----
 
 ### September
 
+#### [Nordic.js](http://nordicjs.com/)
+**Location:** Stockholm, Sweden  
+**Date:** September 8 to September 9, 2016  
+**Submission deadline:** Rolling  
+**Travel expenses covered?** Yes  
+**Code of conduct:** Yes
+
+-
+
+#### [NationJS Browser Day](http://nationjs.com/)
+**Location:** Washington, D.C.  
+**Date:** September 16, 2016  
+**Submission deadline:** June 30, 2016  
+**Travel expenses covered?** Yes  
+**Code of conduct:** [Yes](http://nationjs.com/conduct)
+
 -----
 
 ### October
+
+#### [Full Stack Toronto](https://fsto.co/)
+**Location:** Toronto, Canada  
+**Date:** October 17 to October 18, 2016  
+**Submission deadline:** July 31, 2016  
+**Travel expenses covered?** Yes  
+**Code of conduct:** [Yes](https://fsto.co/code-of-conduct)  
+
+-
+
+#### [CSS Dev Conf](http://cssdevconf.com)
+**Location:** San Antonia, Texas  
+**Date:** October 18 to October 19, 2016  
+**Submission deadline:** April 1, 2016  
+**Travel expenses covered?** Yes  
+**Code of conduct:** [Yes](http://cssdevconf.com/#anti-harrassment-policy)  
+
+-
+
+#### [Hackference](http://hackference.co.uk)
+**Location:** Birmingham, United Kingdom  
+**Date:** October 21, 2016  
+**Submission deadline:** May 31, 2016  
+**Travel expenses covered?** Yes  
+**Code of conduct:** [Yes](http://hackference.co.uk/code-of-conduct.html)  
+
+-
+
+#### [Connect.Tech](http://connect.tech/)
+**Location:** Atlanta, Georgia  
+**Date:** October 21 to October 22, 2016  
+**Submission deadline:** June 30, 2016  
+**Travel expenses covered?** Case-by-case basis  
+**Code of conduct:** [Yes](http://connect.tech/conduct.html)  
+
+-
+
+#### [Front Porch Dallas](http://frontporch.io/dallas/)
+**Location:** Dallas, Texas  
+**Date:** October 24, 2016  
+**Submission deadline:** March 1, 2016  
+**Travel expenses covered?** Yes  
+**Code of conduct:** [Yes](http://frontporch.io/conduct)  
 
 -----
 
@@ -105,17 +334,26 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 #### [Thunder Plains](http://thunderplainsconf.com/)
 **Location:** Oklahoma City, Oklahoma  
 **Date:** November 3 to November 4, 2016  
-**CFP closed:** June 30, 2016  
+**Submission deadline:** June 30, 2016  
 **Travel expenses covered?** Yes  
 **Code of conduct:** [Yes](https://github.com/techlahoma/CodeOfConduct/wiki/Techlahoma-Code-ofConduct)  
+
+-
+
+#### [Nodevember](http://nodevember.org/)
+**Location:** Nashville, Tennessee  
+**Date:** November 20 to November 21, 2016  
+**Submission deadline:** August 15, 2016  
+**Travel expenses covered?** Case-by-case basis  
+**Code of conduct:** [Yes](http://nodevember.org/conduct.html)  
 
 -----
 
 ### December
 
-#### [ConFoo Vancouver](https://confoo.ca/en/yvr2016/)
+#### [ConFoo Vancouver](https://confoo.ca/en/)
 **Location:** Vancouver, Canada  
 **Date:** December 5 to December 7, 2016  
-**CFP closed:** June 6, 2016  
+**Submission deadline:** June 6, 2016  
 **Travel expenses covered?** Yes  
 **Code of conduct:** [Yes](https:/confoo.ca/en/code-of-conduct)  
