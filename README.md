@@ -18,7 +18,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 **Location:** London, United Kingdom  
 **Date:** January 16 to January 20, 2017  
 **Submission deadline:** October 1, 2016   
-**Travel expenses covered?** Yes  
+**Travel/accommodations covered?** Yes  
 **Code of conduct:** [Yes](http://ndc-london.com/page/code-of-conduct)  
 
 -
@@ -27,7 +27,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 **Location:** Denver, Colorado  
 **Date:** January 20, 2017  
 **Submission deadline:** September 16, 2016   
-**Travel expenses covered?** No  
+**Travel/accommodations covered?** No  
 **Code of conduct:** No  
 
 -
@@ -36,7 +36,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 **Location:** New York City, New York  
 **Date:** January 27, 2017  
 **Submission deadline:** November 30, 2016  
-**Travel expenses covered?** No  
+**Travel/accommodations covered?** No  
 **Code of conduct:** [Yes](http://confcodeofconduct.com/)  
 
 -----
@@ -47,7 +47,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 **Location:** San Francisco, California  
 **Date:** February 13 to February 14, 2017  
 **Submission deadline:** November 22, 2016  
-**Travel expenses covered?** No  
+**Travel/accommodations covered?** No  
 **Code of conduct:** [Yes](http://confcodeofconduct.com/)  
 
 -
@@ -56,7 +56,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 **Location:** Atlanta, Georgia  
 **Date:** February 20 to February 22, 2017  
 **Submission deadline:** November 1, 2016  
-**Travel expenses covered?** Case-by-case basis  
+**Travel/accommodations covered?** Case-by-case basis  
 **Code of conduct:** [Yes](https://devnexus.com/s/code-of-conduct)  
 
 -----
@@ -67,7 +67,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 **Location:** San Francisco, California  
 **Date:** March 1, 2017  
 **Submission deadline:** November 15, 2016  
-**Travel expenses covered?** No  
+**Travel/accommodations covered?** No  
 **Code of conduct:** [Yes](http://confcodeofconduct.com)  
 
 -
@@ -76,7 +76,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 **Location:** Montreal, Canada  
 **Date:** March 8 to March 10, 2017  
 **Submission deadline:** September 20, 2016  
-**Travel expenses covered?** Yes  
+**Travel/accommodations covered?** Yes  
 **Code of conduct:** [Yes](https:/confoo.ca/en/code-of-conduct)  
 
 -
@@ -85,7 +85,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 **Location:** Washington, D.C.  
 **Date:** March 11, 2016  
 **Submission deadline:** January 28, 2016  
-**Travel expenses covered?** Yes  
+**Travel/accommodations covered?** Yes  
 **Code of conduct:** [Yes](http://nationjs.com/conduct)
 
 -
@@ -94,7 +94,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 **Location:** San Jose, California  
 **Date:** March 21 to March 23, 2017  
 **Submission deadline:** October 11, 2016  
-**Travel expenses covered?** No  
+**Travel/accommodations covered?** No  
 **Code of conduct:** [Yes](https://devoxx.us/codeofconduct/)  
 
 -
@@ -103,7 +103,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 **Location:** London, United Kingdom  
 **Date:** March 28, 2017  
 **Submission deadline:** Unknown  
-**Travel expenses covered?** No  
+**Travel/accommodations covered?** No  
 **Code of conduct:** [Yes](https://react.london/code-of-conduct)  
 
 -
@@ -112,7 +112,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 **Location:** Oxford, United Kingdom  
 **Date:** March 30 to March 31, 2017  
 **Submission deadline:** August 26, 2016  
-**Travel expenses covered?** Yes plus £250 honorarium  
+**Travel/accommodations covered?** Yes plus £250 honorarium  
 **Code of conduct:** [Yes](http://2016.render-conf.com/code-of-conduct)  
 
 -----
@@ -123,7 +123,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 **Location:** Winnipeg, Canada  
 **Date:** April 11 to April 12, 2016  
 **Submission deadline:** January 11, 2016  
-**Travel expenses covered?** Yes  
+**Travel/accommodations covered?** Yes  
 **Code of conduct:** No  
 
 -----
@@ -134,7 +134,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 **Location:** Austin, Texas  
 **Date:** May 10 to May 11, 2017  
 **Submission deadline:** October 25, 2016  
-**Travel expenses covered?** Yes  
+**Travel/accommodations covered?** Yes  
 **Code of conduct:** [Yes](http://oreilly.com/conferences/code-of-conduct.html)  
 
 -
@@ -143,7 +143,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 **Location:** Charleston, South Carolina  
 **Date:** May 11 to May 12, 2017  
 **Submission deadline:** December 2, 2016  
-**Travel expenses covered?** No  
+**Travel/accommodations covered?** Yes  
 **Code of conduct:** [Yes](https://2017.syntaxcon.com/about/code-of-conduct/)  
 
 -
@@ -152,7 +152,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 **Location:** Stockholm, Sweden  
 **Date:** May 11 to May 12, 2017  
 **Submission deadline:** December 2, 2016  
-**Travel expenses covered?** No  
+**Travel/accommodations covered?** No  
 **Code of conduct:** None
 
 -
@@ -161,7 +161,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 **Location:** Houston, Texas  
 **Date:** May 14, 2016  
 **Submission deadline:** January 15, 2016  
-**Travel expenses covered?** No  
+**Travel/accommodations covered?** No  
 **Code of conduct:** [Yes](http://www.spacecity.codes/#Conduct)  
 
 -
@@ -170,7 +170,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 **Location:** Paris, France  
 **Date:** May 18 to May 19, 2017  
 **Submission deadline:** January 8, 2017  
-**Travel expenses covered?** Yes  
+**Travel/accommodations covered?** Yes  
 **Code of conduct:** [Yes](http://confcodeofconduct.com/)  
 
 -----
@@ -181,7 +181,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 **Location:** Oslo, Norway  
 **Date:** June 1, 2016  
 **Submission deadline:** January 31, 2016  
-**Travel expenses covered?** Yes  
+**Travel/accommodations covered?** Yes  
 **Code of conduct:** [Yes](http://confcodeofconduct.com/)  
 
 -
@@ -190,7 +190,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 **Location:** Oslo, Norway  
 **Date:** June 12 to June 16, 2017  
 **Submission deadline:** February 15, 2017  
-**Travel expenses covered?** Yes  
+**Travel/accommodations covered?** Yes  
 **Code of conduct:** [Yes](http://ndcoslo.com/page/code-of-conduct)  
 
 -
@@ -199,7 +199,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 **Location:** Denver, Colorado  
 **Date:** June 24, 2016  
 **Submission deadline:** March 14, 2016  
-**Travel expenses covered?** Yes  
+**Travel/accommodations covered?** Yes  
 **Code of conduct:** [Yes](https://dinosaurjs.org/code-of-conduct)  
 
 -
@@ -208,7 +208,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 **Location:** Tel Aviv, Israel  
 **Date:** June 27 to June 28, 2016  
 **Submission deadline:** March 31, 2016  
-**Travel expenses covered?** Yes  
+**Travel/accommodations covered?** Yes  
 **Code of conduct:** [Yes](http://yougottalovefrontend.com/resources/codeofconduct.html)  
 
 -----
@@ -219,7 +219,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 **Location:** London, United Kingdom  
 **Date:** July 13 to July 15, 2016  
 **Submission deadline:** March 29, 2016  
-**Travel expenses covered?** Case-by-case basis  
+**Travel/accommodations covered?** Case-by-case basis  
 **Code of conduct:** [Yes](https://skillsmatter.com/go/code-of-conduct)  
 
 -
@@ -228,7 +228,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 **Location:** Austin, Texas  
 **Date:** July 19, 2016  
 **Submission deadline:** March 1, 2016  
-**Travel expenses covered?** Yes  
+**Travel/accommodations covered?** Yes  
 **Code of conduct:** [Yes](http://frontporch.io/conduct)  
 
 -
@@ -237,7 +237,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 **Location:** San Francisco, California  
 **Date:** July 27 to July 28, 2016  
 **Submission deadline:** May 1, 2016  
-**Travel expenses covered?** No  
+**Travel/accommodations covered?** No  
 **Code of conduct:** [Yes](http://nodesummit.com/node-summit-code-of-conduct/)  
 
 -----
@@ -248,7 +248,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 **Location:** Sydney, Australia  
 **Date:** August 14 to August 18, 2017  
 **Submission deadline:** April 1, 2017  
-**Travel expenses covered?** Yes  
+**Travel/accommodations covered?** Yes  
 **Code of conduct:** [Yes](http://ndcsydney.com/page/code-of-conduct)  
 
 -
@@ -257,7 +257,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 **Location:** Salt Lake City, Utah  
 **Date:** August 25 to August 26, 2016  
 **Submission deadline:** April 27, 2016  
-**Travel expenses covered?** Yes  
+**Travel/accommodations covered?** Yes  
 **Code of conduct:** [Yes](http://www.reactrally.com/conduct)  
 
 -----
@@ -268,7 +268,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 **Location:** Stockholm, Sweden  
 **Date:** September 8 to September 9, 2016  
 **Submission deadline:** Rolling  
-**Travel expenses covered?** Yes  
+**Travel/accommodations covered?** Yes  
 **Code of conduct:** Yes
 
 -
@@ -277,7 +277,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 **Location:** Washington, D.C.  
 **Date:** September 16, 2016  
 **Submission deadline:** June 30, 2016  
-**Travel expenses covered?** Yes  
+**Travel/accommodations covered?** Yes  
 **Code of conduct:** [Yes](http://nationjs.com/conduct)
 
 -----
@@ -288,7 +288,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 **Location:** Toronto, Canada  
 **Date:** October 17 to October 18, 2016  
 **Submission deadline:** July 31, 2016  
-**Travel expenses covered?** Yes  
+**Travel/accommodations covered?** Yes  
 **Code of conduct:** [Yes](https://fsto.co/code-of-conduct)  
 
 -
@@ -297,7 +297,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 **Location:** San Antonia, Texas  
 **Date:** October 18 to October 19, 2016  
 **Submission deadline:** April 1, 2016  
-**Travel expenses covered?** Yes  
+**Travel/accommodations covered?** Yes  
 **Code of conduct:** [Yes](http://cssdevconf.com/#anti-harrassment-policy)  
 
 -
@@ -306,7 +306,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 **Location:** Birmingham, United Kingdom  
 **Date:** October 21, 2016  
 **Submission deadline:** May 31, 2016  
-**Travel expenses covered?** Yes  
+**Travel/accommodations covered?** Yes  
 **Code of conduct:** [Yes](http://hackference.co.uk/code-of-conduct.html)  
 
 -
@@ -315,7 +315,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 **Location:** Atlanta, Georgia  
 **Date:** October 21 to October 22, 2016  
 **Submission deadline:** June 30, 2016  
-**Travel expenses covered?** Case-by-case basis  
+**Travel/accommodations covered?** Case-by-case basis  
 **Code of conduct:** [Yes](http://connect.tech/conduct.html)  
 
 -
@@ -324,7 +324,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 **Location:** Dallas, Texas  
 **Date:** October 24, 2016  
 **Submission deadline:** March 1, 2016  
-**Travel expenses covered?** Yes  
+**Travel/accommodations covered?** Yes  
 **Code of conduct:** [Yes](http://frontporch.io/conduct)  
 
 -----
@@ -335,7 +335,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 **Location:** Oklahoma City, Oklahoma  
 **Date:** November 3 to November 4, 2016  
 **Submission deadline:** June 30, 2016  
-**Travel expenses covered?** Yes  
+**Travel/accommodations covered?** Yes  
 **Code of conduct:** [Yes](https://github.com/techlahoma/CodeOfConduct/wiki/Techlahoma-Code-ofConduct)  
 
 -
@@ -344,7 +344,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 **Location:** Nashville, Tennessee  
 **Date:** November 20 to November 21, 2016  
 **Submission deadline:** August 15, 2016  
-**Travel expenses covered?** Case-by-case basis  
+**Travel/accommodations covered?** Case-by-case basis  
 **Code of conduct:** [Yes](http://nodevember.org/conduct.html)  
 
 -----
@@ -355,5 +355,5 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 **Location:** Vancouver, Canada  
 **Date:** December 5 to December 7, 2016  
 **Submission deadline:** June 6, 2016  
-**Travel expenses covered?** Yes  
+**Travel/accommodations covered?** Yes  
 **Code of conduct:** [Yes](https:/confoo.ca/en/code-of-conduct)  
