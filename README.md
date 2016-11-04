@@ -126,6 +126,15 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 **Travel/accommodations covered?** Yes  
 **Code of conduct:** No  
 
+-
+
+#### [Front End Design Conference](http://frontenddesignconference.com/)
+**Location:** St. Petersburg, Florida  
+**Date:** April 19 to April 21, 2017  
+**Submission deadline:** February 1, 2017  
+**Travel/accommodations covered?** No  
+**Code of conduct:** [Yes](http://frontenddesignconference.com/terms.php)  
+
 -----
 
 ### May
