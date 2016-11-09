@@ -28,7 +28,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 **Date:** January 20, 2017  
 **Submission deadline:** September 16, 2016   
 **Travel/accommodations covered?** No  
-**Code of conduct:** No  
+**Code of conduct:** None  
 
 -
 
@@ -69,6 +69,15 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 **Submission deadline:** November 15, 2016  
 **Travel/accommodations covered?** No  
 **Code of conduct:** [Yes](http://confcodeofconduct.com)  
+
+-
+
+#### [Mobile+Web DevCon](http://mobilewebdevconference.com/)
+**Location:** San Francisco, California  
+**Date:** March 1 to March 3, 2017  
+**Submission deadline:** Rolling  
+**Travel/accommodations covered?** No  
+**Code of conduct:** None
 
 -
 
@@ -124,7 +133,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 **Date:** April 11 to April 12, 2016  
 **Submission deadline:** January 11, 2016  
 **Travel/accommodations covered?** Yes  
-**Code of conduct:** No  
+**Code of conduct:** None  
 
 -
 
