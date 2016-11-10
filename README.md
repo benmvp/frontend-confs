@@ -117,6 +117,15 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 
 -
 
+#### [EmberConf](http://emberconf.com/)
+**Location:** Portland, Oregon  
+**Date:** March 28 to March 29, 2017  
+**Submission deadline:** November 18, 2017  
+**Travel/accommodations covered?** $500 honorarium  
+**Code of conduct:** [Yes](http://emberconf.com/about.html#code-of-conduct)  
+
+-
+
 #### [Render](http://render-conf.com/)
 **Location:** Oxford, United Kingdom  
 **Date:** March 30 to March 31, 2017  
@@ -190,6 +199,15 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 **Submission deadline:** January 8, 2017  
 **Travel/accommodations covered?** Yes  
 **Code of conduct:** [Yes](http://confcodeofconduct.com/)  
+
+-
+
+#### [Angular Cruise](https://ngcruise.com/)
+**Location:** Miami, Florida  
+**Date:** May 29 to June 2, 2017  
+**Submission deadline:** January 15, 2017  
+**Travel/accommodations covered?** No  
+**Code of conduct:** [Yes](https://ngcruise.com/#/conduct#conduct)  
 
 -----
 
