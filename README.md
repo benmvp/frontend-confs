@@ -137,6 +137,15 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 
 ### April
 
+#### [ng-conf](https://www.ng-conf.org/)
+**Location:** Salt Lake City, Utah  
+**Date:** April 5 to April 7, 2017  
+**Submission deadline:** January 8, 2017  
+**Travel/accommodations covered?** Yes  
+**Code of conduct:** [Yes](https://www.ng-conf.org/wp-content/uploads/2016/11/ng_conf_sign_code-of_conduct_24x36_print_4.pdf)  
+
+-
+
 #### [Prairie Dev Con](http://www.prairiedevcon.com/)
 **Location:** Winnipeg, Canada  
 **Date:** April 11 to April 12, 2016  
