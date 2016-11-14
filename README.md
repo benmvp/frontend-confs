@@ -111,8 +111,8 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 #### [React London](https://react.london/)
 **Location:** London, United Kingdom  
 **Date:** March 28, 2017  
-**Submission deadline:** Unknown  
-**Travel/accommodations covered?** No  
+**Submission deadline:** January 31, 2017  
+**Travel/accommodations covered?** Yes  
 **Code of conduct:** [Yes](https://react.london/code-of-conduct)  
 
 -
