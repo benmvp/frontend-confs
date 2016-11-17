@@ -166,6 +166,15 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 
 ### May
 
+#### [CSSConf EU](http://cssconf.eu)
+**Location:** Berlin, Germany  
+**Date:** May 5, 2017  
+**Submission deadline:** January 10, 2017  
+**Travel/accommodations covered?** Yes  
+**Code of conduct:** [Yes](http://cssconf.eu/call-for-speakers/#code-of-conduct)  
+
+-
+
 #### [O'Reilly OSCON Austin](http://conferences.oreilly.com/oscon/oscon-tx)
 **Location:** Austin, Texas  
 **Date:** May 10 to May 11, 2017  
