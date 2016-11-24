@@ -175,6 +175,15 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 
 -
 
+#### [JSConf EU](http://jsconf.eu)
+**Location:** Berlin, Germany  
+**Date:** May 6-7, 2017  
+**Submission deadline:** January 1, 2017  
+**Travel/accommodations covered?** Yes  
+**Code of conduct:** [Yes](http://2017.jsconf.eu/code-of-conduct)  
+
+-
+
 #### [O'Reilly OSCON Austin](http://conferences.oreilly.com/oscon/oscon-tx)
 **Location:** Austin, Texas  
 **Date:** May 10 to May 11, 2017  
