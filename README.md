@@ -258,6 +258,15 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 
 -
 
+#### [O'Reilly Fluent](http://conferences.oreilly.com/fluent/fl-ca)  
+**Location:** San Jose, California  
+**Date:** June 19 to June 22, 2017  
+**Submission deadline:** January 12, 2017  
+**Travel/accommodations covered?** Yes  
+**Code of conduct:** [Yes](http://oreilly.com/conferences/code-of-conduct.html)  
+
+-
+
 #### [Dinosaurjs](https://dinosaurjs.org/)
 **Location:** Denver, Colorado  
 **Date:** June 24, 2016  
