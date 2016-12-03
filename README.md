@@ -162,6 +162,15 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 **Travel/accommodations covered?** No  
 **Code of conduct:** [Yes](http://frontenddesignconference.com/terms.php)  
 
+-
+
+#### [React Amsterdam](https://react.amsterdam/)
+**Location:** Amsterdam, The Netherlands  
+**Date:** April 21, 2017  
+**Submission deadline:** January 15, 2017  
+**Travel/accommodations covered?** Yes  
+**Code of conduct:** [Yes](http://confcodeofconduct.com/)
+
 -----
 
 ### May
@@ -331,6 +340,15 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 **Submission deadline:** April 27, 2016  
 **Travel/accommodations covered?** Yes  
 **Code of conduct:** [Yes](http://www.reactrally.com/conduct)  
+
+-
+
+#### [Web Summer Camp](http://websummercamp.com/)
+**Location:** Rovinj, Croatia  
+**Date:** August 30 to September 2, 2017  
+**Submission deadline:** March 31, 2017  
+**Travel/accommodations covered?** Yes  
+**Code of conduct:** Unspecified  
 
 -----
 
