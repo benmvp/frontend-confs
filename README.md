@@ -305,6 +305,15 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 
 -
 
+#### [Coder Cruise](https://www.codercruise.com/)
+**Location:** New Orleans, Louisiana  
+**Date:** July 16 to July 23, 2017  
+**Submission deadline:** January 6, 2017  
+**Travel/accommodations covered?** No  
+**Code of conduct:** [Yes](https://www.codercruise.com/code-of-conduct)  
+
+-
+
 #### [Front Porch Austin](http://frontporch.io/austin/)
 **Location:** Austin, Texas  
 **Date:** July 19, 2016  
@@ -427,6 +436,15 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 **Submission deadline:** June 30, 2016  
 **Travel/accommodations covered?** Yes  
 **Code of conduct:** [Yes](https://github.com/techlahoma/CodeOfConduct/wiki/Techlahoma-Code-ofConduct)  
+
+-
+
+#### [AngularConnect](http://angularconnect.com/)
+**Location:** London, United Kingdom  
+**Date:** November 7 to November 8, 2017  
+**Submission deadline:** March 31, 2017  
+**Travel/accommodations covered?** Yes  
+**Code of conduct:** [Yes](http://angularconnect.com/2017/code-of-conduct/)  
 
 -
 
