@@ -108,6 +108,15 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 
 -
 
+#### [JazzCon.Tech](http://jazzcon.tech/)
+**Location:** New Orleans, Louisiana  
+**Date:** March 22 to March 24, 2017  
+**Submission deadline:** December 31, 2016  
+**Travel/accommodations covered?** Yes  
+**Code of conduct:** [Yes](http://jazzcon.tech/#inline-content)  
+
+-
+
 #### [React London](https://react.london/)
 **Location:** London, United Kingdom  
 **Date:** March 28, 2017  
