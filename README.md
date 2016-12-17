@@ -394,8 +394,8 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 
 #### [Full Stack Toronto](https://fsto.co/)
 **Location:** Toronto, Canada  
-**Date:** October 17 to October 18, 2016  
-**Submission deadline:** July 31, 2016  
+**Date:** October 23 to October 24, 2017  
+**Submission deadline:** Ongoing  
 **Travel/accommodations covered?** Yes  
 **Code of conduct:** [Yes](https://fsto.co/code-of-conduct)  
 
