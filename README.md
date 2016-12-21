@@ -229,7 +229,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 
 -
 
-#### [Space City JS](http://www.spacecity.codes/)
+#### [Space City JS](http://spacecity.codes/)
 **Location:** Houston, Texas  
 **Date:** May 14, 2016  
 **Submission deadline:** January 15, 2016  
