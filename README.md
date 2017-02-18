@@ -180,6 +180,13 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 **Travel/accommodations covered?** Yes  
 **Code of conduct:** [Yes](http://confcodeofconduct.com/)
 
+#### [Active Indgredients](https://activeingredients.info)
+**Location:** San Francisco, California  
+**Date:** April 28, 2017  
+**Submission deadline:** March 17, 2017  
+**Travel/accommodations covered?** No  
+**Code of conduct:** [Yes](https://www.papercall.io/active-ingredients-web#) 
+
 -----
 
 ### May
