@@ -40,6 +40,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [React Conf](http://conf.reactjs.org/) | Santa Clara, California | March 13 - 14, 2017 | January 3, 2017 | No | [Yes](http://conf.reactjs.org/code-of-conduct) |
 | [Devoxx US](http://devoxx.us/) | San Jose, California | March 21 - 23, 2017 | October 11, 2016 | No | [Yes](https://devoxx.us/codeofconduct/) |
 | [JazzCon.Tech](http://jazzcon.tech/) | New Orleans, Louisiana | March 22 - 24, 2017 | December 31, 2016 | Yes | [Yes](http://jazzcon.tech/#inline-content) |
+| [JSUnconf](http://jsunconf.eu/) | Hamburg, Germany | March 25 - 26, 2017 | Rolling | Yes | [Yes](http://2017.jsunconf.eu/coc/) |
 | [React London](https://react.london/) | London, United Kingdom | March 28, 2017 | January 31, 2017 | Yes | [Yes](https://react.london/code-of-conduct) |
 | [EmberConf](http://emberconf.com/) | Portland, Oregon | March 28 - 29, 2017 | November 18, 2016 | $500 honorarium | [Yes](http://emberconf.com/about.html#code-of-conduct) |
 | [Render](http://render-conf.com/) | Oxford, United Kingdom | March 30 - 31, 2017 | August 26, 2016 | Yes (plus £250 honorarium) | [Yes](http://2016.render-conf.com/code-of-conduct) |
@@ -133,6 +134,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [Thunder Plains](http://thunderplainsconf.com/) | Oklahoma City, Oklahoma | November 3 - 4, 2016 | June 30, 2016 | Yes | [Yes](https://github.com/techlahoma/CodeOfConduct/wiki/Techlahoma-Code-ofConduct) |
 | [AngularConnect](http://angularconnect.com/) | London, United Kingdom | November 7 - 8, 2017 |  March 31, 2017 | Yes | [Yes](http://angularconnect.com/2017/code-of-conduct/) |
 | [Nodevember](http://nodevember.org/) | Nashville, Tennessee | November 20 - 21, 2016 | August 15, 2016 | Case-by-case basis | [Yes](http://nodevember.org/conduct.html) |
+| [dotJS](https://2017.dotjs.io/) | Paris, France | November 30 - December 1, 2017 | Rolling | Yes | No |
 
 
 ### December
