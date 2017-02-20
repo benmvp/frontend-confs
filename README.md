@@ -64,10 +64,14 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [CSSConf EU](http://cssconf.eu) | Berlin, Germany | May 5, 2017 | January 10, 2017 | Yes | [Yes](http://cssconf.eu/call-for-speakers/#code-of-conduct) |
 | [JSConf EU](http://jsconf.eu) | Berlin, Germany | May 6 - 7, 2017 | January 1, 2017 | Yes | [Yes](http://2017.jsconf.eu/code-of-conduct) |
 | [O'Reilly OSCON Austin](http://conferences.oreilly.com/oscon/oscon-tx) | Austin, Texas | May 10 - 11, 2017 | October 25, 2016 | Yes | [Yes](http://oreilly.com/conferences/code-of-conduct.html) |
+| [JS Day](https://jsday.it) | Verona, Italy | May 10 - 11, 2017 | January 31, 2017 | Yes | Unspecified |
 | [Syntax Code & Craft Convention](https://2017.syntaxcon.com/) | Charleston, South Carolina | May 11 - 12, 2017 | December 2, 2016 | Yes | [Yes](https://2017.syntaxcon.com/about/code-of-conduct/) |
 | [DevSum](http://www.devsum.se/) | Stockholm, Sweden |  May 11 - 12, 2017 | December 2, 2016 | No | Unspecified |
 | [Space City JS](http://spacecity.codes/) | Houston, Texas | May 14, 2016 | January 15, 2016 | No | [Yes](http://www.spacecity.codes/#Conduct) |
 | [ReactEurope](https://www.react-europe.org/) | Paris, France | May 18 - 19, 2017 | January 8, 2017 | Yes | [Yes](http://confcodeofconduct.com/) |
+| [DEVit Web Conference](http://devitconf.org/) | Thessaloniki, Greece | May 20 - 21, 2017 | January 31, 2017 | Yes | [Yes](http://devitconf.org/code-of-conduct) |
+| [Front-Trends](http://front-trends.com) | Warsaw, Poland | May 24 - 26, 2017 | Rolling | Yes | [Yes](https://2017.front-trends.com/code-of-conduct/) |
+| [Frontend United](http://frontendunited.org/) | Athens, Greece | May 26 - 27, 2017 | Rolling | Ask | [Yes](https://www.google.com/url?q=http://2016.frontendunited.org/code-of-conduct&sa=D&ust=1487622987088000&usg=AFQjCNE6DXoComopdAE1VrNzrO24s1NyCg) |
 | [Angular Cruise](https://ngcruise.com/) | Miami, Florida | May 29 - June 2, 2017 | January 15, 2017 | No | [Yes](https://ngcruise.com/#/conduct#conduct) |
 
 
@@ -77,6 +81,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
 | [CSSConf Nordic](http://cssconf.no/) | Oslo, Norway | June 1, 2016 | January 31, 2016 | Yes | [Yes](http://confcodeofconduct.com/) |
 | [RevolutionConf](https://revolutionconf.com/) | Virginia Beach, Virginia | June 1 - 2, 2017 | January 31, 2017 | Maybe / Yes | [Yes](https://revolutionconf.com/code-of-conduct) |
+| [Web Rebels](https://webrebels.org/) | Oslo, Norway | June 1 - 2, 2017 | January 29, 2017 | Yes | [Yes](https://webrebels.org/about#coc) |
 | [Music City Code](https://www.musiccitycode.com/) | Nashville, Tennessee | June 2 - 3, 2017 | March 1, 2017 | Maybe | [Yes](https://www.musiccitycode.com/p/code-of-conduct-3) |
 | [Prairie Dev Con](http://www.prairiedevcon.com/) | Winnipeg, Canada | June 6 - 7, 2017 | February 24, 2017 | Yes (North America) | [Yes](http://www.prairiedevcon.com/CodeOfConduct) |
 | [NDC Oslo](http://ndcoslo.com/) | Oslo, Norway | June 12 - 16, 2017 | February 15, 2017 | Yes | [Yes](http://ndcoslo.com/page/code-of-conduct) |
@@ -84,7 +89,6 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [O'Reilly Fluent](http://conferences.oreilly.com/fluent/fl-ca) | San Jose, California | June 19 - 22, 2017 | January 12, 2017 | Yes | [Yes](http://oreilly.com/conferences/code-of-conduct.html) |
 | [Dinosaurjs](https://dinosaurjs.org/) | Denver, Colorado | June 15, 2017 | March 15, 2017 | Yes | [Yes](https://dinosaurjs.org/code-of-conduct) |
 | [O'Reilly Fluent](https://conferences.oreilly.com/fluent/fl-ca) | San Francisco, California | June 19 - 22, 2017 | January 12, 2017 | Yes | [Yes](http://oreilly.com/conferences/code-of-conduct.html) |
-| [You Gotta Love Frontend](http://yougottalovefrontend.com/) | Tel Aviv, Israel | June 27 - 28, 2016 | March 31, 2016 | Yes | [Yes](http://yougottalovefrontend.com/resources/codeofconduct.html) |
 
 
 ### July
@@ -106,6 +110,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [NDC Sydney](http://ndcsydney.com/) | Sydney, Australia | August 14 - 18, 2017 | April 1, 2017 | Yes | [Yes](http://ndcsydney.com/page/code-of-conduct) |
 | [React Rally](http://www.reactrally.com/) | Salt Lake City, Utah | August 25 - 26, 2016 | April 27, 2016 | Yes | [Yes](http://www.reactrally.com/conduct) |
 | [Web Summer Camp](http://websummercamp.com/) | Rovinj, Croatia | August 30 - September 2, 2017 | March 31, 2017 | Yes | Unspecified |
+| [Frontend Conference Zurich](https://frontendconf.ch/) | Zurich, Switzerland | August 31 - September 1, 2017 | April 30, 2017 | Yes | [Yes](https://frontendconf.ch/about/#code-of-conduct) |
 
 
 ### September
@@ -120,10 +125,11 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 
 | Conference | Location | Date | Submission Deadline | Flight / Hotel? | CoC? |
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
-| [Full Stack Toronto](https://fsto.co/) | Toronto, Canada | October 23 - 24, 2017 | Ongoing | Yes | [Yes](https://fsto.co/code-of-conduct) |
+| [ReactJSDay](http://www.reactjsday.it) | Verona, Italy | October 6, 2016 | August 28, 2017 | 1 hotel night | Unspecified |
 | [CSS Dev Conf](http://cssdevconf.com) | San Antonia, Texas | October 18 - 19, 2016 | April 1, 2016 | Yes | [Yes](http://cssdevconf.com/#anti-harrassment-policy) |
 | [Hackference](http://hackference.co.uk) | Birmingham, United Kingdom | October 21, 2016 | May 31, 2016 |Yes | [Yes](http://hackference.co.uk/code-of-conduct.html) |
 | [Connect.Tech](http://connect.tech/) | Atlanta, Georgia | October 21 - 22, 2016 | June 30, 2016 | Case-by-case basis | [Yes](http://connect.tech/conduct.html) |
+| [Full Stack Toronto](https://fsto.co/) | Toronto, Canada | October 23 - 24, 2017 | Ongoing | Yes | [Yes](https://fsto.co/code-of-conduct) |
 | [Front Porch Dallas](http://frontporch.io/dallas/) | Dallas, Texas | October 24, 2016 | March 1, 2016 | Yes | [Yes](http://frontporch.io/conduct) |
 
 
