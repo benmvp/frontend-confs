@@ -126,8 +126,8 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 
 | Conference | Location | Date | Submission Deadline | Flight / Hotel? | CoC? |
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
-| [ReactJSDay](http://www.reactjsday.it) | Verona, Italy | October 6, 2016 | August 28, 2017 | 1 hotel night | Unspecified |
-| [CSS Dev Conf](http://cssdevconf.com) | San Antonia, Texas | October 18 - 19, 2016 | April 1, 2016 | Yes | [Yes](http://cssdevconf.com/#anti-harrassment-policy) |
+| [ReactJSDay](http://www.reactjsday.it) | Verona, Italy | October 6, 2017 | August 28, 2017 | 1 hotel night | Unspecified |
+| [CSS Dev Conf](http://cssdevconf.com) | New Orleans, Louisiana | October 9 - 11, 2017 | March 27, 2017 | Yes | [Yes](http://cssdevconf.com/#anti-harrassment-policy) |
 | [Hackference](http://hackference.co.uk) | Birmingham, United Kingdom | October 21, 2016 | May 31, 2016 |Yes | [Yes](http://hackference.co.uk/code-of-conduct.html) |
 | [Connect.Tech](http://connect.tech/) | Atlanta, Georgia | October 21 - 22, 2016 | June 30, 2016 | Case-by-case basis | [Yes](http://connect.tech/conduct.html) |
 | [Full Stack Toronto](https://fsto.co/) | Toronto, Canada | October 23 - 24, 2017 | Ongoing | Yes | [Yes](https://fsto.co/code-of-conduct) |
