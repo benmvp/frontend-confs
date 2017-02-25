@@ -141,11 +141,12 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [Thunder Plains](http://thunderplainsconf.com/) | Oklahoma City, Oklahoma | November 3 - 4, 2016 | June 30, 2016 | Yes | [Yes](https://github.com/techlahoma/CodeOfConduct/wiki/Techlahoma-Code-ofConduct) |
 | [AngularConnect](http://angularconnect.com/) | London, United Kingdom | November 7 - 8, 2017 |  March 31, 2017 | Yes | [Yes](http://angularconnect.com/2017/code-of-conduct/) |
 | [Nodevember](http://nodevember.org/) | Nashville, Tennessee | November 20 - 21, 2016 | August 15, 2016 | Case-by-case basis | [Yes](http://nodevember.org/conduct.html) |
-| [dotJS](https://2017.dotjs.io/) | Paris, France | November 30 - December 1, 2017 | Rolling | Yes | Unspecified |
+| [dotCSS](https://2017.dotcss.io/) | Paris, France | November 30, 2017 | Rolling | Yes | Unspecified |
 
 
 ### December
 
 | Conference | Location | Date | Submission Deadline | Flight / Hotel? | CoC? |
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
+| [dotJS](https://2017.dotjs.io/) | Paris, France | December 1, 2017 | Rolling | Yes | Unspecified |
 | [ConFoo Vancouver](https://confoo.ca/en/) | Vancouver, Canada | December 5 - 7, 2016 | June 6, 2016 | Yes | [Yes](https:/confoo.ca/en/code-of-conduct) |
