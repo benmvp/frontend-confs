@@ -100,7 +100,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [FullStack](https://skillsmatter.com/conferences/8264-fullstack-2017-the-conference-on-javascript-node-and-internet-of-things) | London, United Kingdom | July 12 - 14, 2017 | March 29, 2017 | Case-by-case basis | [Yes](https://skillsmatter.com/go/code-of-conduct) |
 | [Coder Cruise](https://www.codercruise.com/) | New Orleans, Louisiana | July 16 - 23, 2017 | January 6, 2017 | No | [Yes](https://www.codercruise.com/code-of-conduct) |
 | [Front Porch Austin](http://frontporch.io/austin/) | Austin, Texas | July 19, 2016 | March 1, 2016 | Yes | [Yes](http://frontporch.io/conduct) |
-| [NodeSummit](http://nodesummit.com/) | San Francisco, California |  July 25 - 27, 2016 | Rolling | No | [Yes](http://nodesummit.com/node-summit-code-of-conduct/) |
+| [NodeSummit](http://nodesummit.com/) | San Francisco, California |  July 25 - 27, 2017 | Rolling | No | [Yes](http://nodesummit.com/node-summit-code-of-conduct/) |
 
 
 ### August
@@ -108,7 +108,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | Conference | Location | Date | Submission Deadline | Flight / Hotel? | CoC? |
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
 | [Kansas City Developer Conference](http://www.kcdc.info/index.html) | Kansas City, Missouri | August 3-4, 2017 | March 5, 2017 | Yes | [Yes](http://www.kcdc.info/index.html#code) |
-| [NDC Sydney](http://ndcsydney.com/) | Sydney, Australia | August 14 - 18, 2017 | April 1, 2017 | Yes | [Yes](http://ndcsydney.com/page/code-of-conduct) |
+| [NDC Sydney](http://ndcsydney.com/) | Sydney, Australia | August 14 - 18, 2017 | April 15, 2017 | Yes | [Yes](http://ndcsydney.com/page/code-of-conduct) |
 | [React Rally](http://www.reactrally.com/) | Salt Lake City, Utah | August 25 - 26, 2016 | April 27, 2016 | Yes | [Yes](http://www.reactrally.com/conduct) |
 | [Web Summer Camp](http://websummercamp.com/) | Rovinj, Croatia | August 30 - September 2, 2017 | March 31, 2017 | Yes | Unspecified |
 | [Frontend Conference Zurich](https://frontendconf.ch/) | Zurich, Switzerland | August 31 - September 1, 2017 | April 30, 2017 | Yes | [Yes](https://frontendconf.ch/about/#code-of-conduct) |
