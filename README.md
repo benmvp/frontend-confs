@@ -131,6 +131,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [Hackference](http://hackference.co.uk) | Birmingham, United Kingdom | October 21, 2016 | May 31, 2016 |Yes | [Yes](http://hackference.co.uk/code-of-conduct.html) |
 | [Connect.Tech](http://connect.tech/) | Atlanta, Georgia | October 21 - 22, 2016 | June 30, 2016 | Case-by-case basis | [Yes](http://connect.tech/conduct.html) |
 | [Full Stack Toronto](https://fsto.co/) | Toronto, Canada | October 23 - 24, 2017 | Ongoing | Yes | [Yes](https://fsto.co/code-of-conduct) |
+| [All Things Open](https://allthingsopen.org/) | Raleigh, North Carolina | October 23 - 24, 2017 | March 28, 2017 | No | [Yes](https://allthingsopen.org/code-of-conduct/) |
 | [Front Porch Dallas](http://frontporch.io/dallas/) | Dallas, Texas | October 24, 2016 | March 1, 2016 | Yes | [Yes](http://frontporch.io/conduct) |
 
 
