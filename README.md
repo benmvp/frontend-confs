@@ -87,8 +87,8 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [UX Burlington](http://uxburlington.com/) | Burlington, Vermont | June 8-9, 2017 | March 15, 2017 | Ask | [Yes](http://uxburlington.com/conduct/) |
 | [NDC Oslo](http://ndcoslo.com/) | Oslo, Norway | June 12 - 16, 2017 | February 15, 2017 | Yes | [Yes](http://ndcoslo.com/page/code-of-conduct) |
 | [Converge SE](http://convergese.com/) | Columbia, South Carolina | June 14 - 16, 2017 | February 1, 2017 | Unknown | Unspecified |
-| [O'Reilly Fluent](http://conferences.oreilly.com/fluent/fl-ca) | San Jose, California | June 19 - 22, 2017 | January 12, 2017 | Yes | [Yes](http://oreilly.com/conferences/code-of-conduct.html) |
 | [Dinosaurjs](https://dinosaurjs.org/) | Denver, Colorado | June 15, 2017 | March 15, 2017 | Yes | [Yes](https://dinosaurjs.org/code-of-conduct) |
+| [O'Reilly Fluent](http://conferences.oreilly.com/fluent/fl-ca) | San Jose, California | June 19 - 22, 2017 | January 12, 2017 | Yes | [Yes](http://oreilly.com/conferences/code-of-conduct.html) |
 | [O'Reilly Fluent](https://conferences.oreilly.com/fluent/fl-ca) | San Francisco, California | June 19 - 22, 2017 | January 12, 2017 | Yes | [Yes](http://oreilly.com/conferences/code-of-conduct.html) |
 
 
@@ -109,6 +109,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
 | [Kansas City Developer Conference](http://www.kcdc.info/index.html) | Kansas City, Missouri | August 3-4, 2017 | March 5, 2017 | Yes | [Yes](http://www.kcdc.info/index.html#code) |
 | [NDC Sydney](http://ndcsydney.com/) | Sydney, Australia | August 14 - 18, 2017 | April 15, 2017 | Yes | [Yes](http://ndcsydney.com/page/code-of-conduct) |
+| [Midwest JS](http://midwestjs.com/) | Minneapolis, Minnesota | August 16 - 18, 2017 | March 6, 2017 | Yes | Yes |
 | [React Rally](http://www.reactrally.com/) | Salt Lake City, Utah | August 25 - 26, 2016 | April 27, 2016 | Yes | [Yes](http://www.reactrally.com/conduct) |
 | [Web Summer Camp](http://websummercamp.com/) | Rovinj, Croatia | August 30 - September 2, 2017 | March 31, 2017 | Yes | Unspecified |
 | [Frontend Conference Zurich](https://frontendconf.ch/) | Zurich, Switzerland | August 31 - September 1, 2017 | April 30, 2017 | Yes | [Yes](https://frontendconf.ch/about/#code-of-conduct) |
