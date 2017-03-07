@@ -43,7 +43,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [JSUnconf](http://jsunconf.eu/) | Hamburg, Germany | March 25 - 26, 2017 | Rolling | Yes | [Yes](http://2017.jsunconf.eu/coc/) |
 | [React London](https://react.london/) | London, United Kingdom | March 28, 2017 | January 31, 2017 | Yes | [Yes](https://react.london/code-of-conduct) |
 | [EmberConf](http://emberconf.com/) | Portland, Oregon | March 28 - 29, 2017 | November 18, 2016 | $500 honorarium | [Yes](http://emberconf.com/about.html#code-of-conduct) |
-| [Render](http://render-conf.com/) | Oxford, United Kingdom | March 30 - 31, 2017 | August 26, 2016 | Yes (plus £250 honorarium) | [Yes](http://2016.render-conf.com/code-of-conduct) |
+| [Render](http://render-conf.com/) | Oxford, United Kingdom | March 30 - 31, 2017 | August 26, 2016 | Yes (plus £250 honorarium) | [Yes](http://2017.render-conf.com/code-of-conduct) |
 
 
 ### April
@@ -67,7 +67,6 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [JS Day](https://jsday.it) | Verona, Italy | May 10 - 11, 2017 | January 31, 2017 | Yes | Unspecified |
 | [Syntax Code & Craft Convention](https://2017.syntaxcon.com/) | Charleston, South Carolina | May 11 - 12, 2017 | December 2, 2016 | Yes | [Yes](https://2017.syntaxcon.com/about/code-of-conduct/) |
 | [DevSum](http://www.devsum.se/) | Stockholm, Sweden |  May 11 - 12, 2017 | December 2, 2016 | No | Unspecified |
-| [Space City JS](http://spacecity.codes/) | Houston, Texas | May 14, 2016 | January 15, 2016 | No | [Yes](http://www.spacecity.codes/#Conduct) |
 | [ReactEurope](https://www.react-europe.org/) | Paris, France | May 18 - 19, 2017 | January 8, 2017 | Yes | [Yes](http://confcodeofconduct.com/) |
 | [DEVit Web Conference](http://devitconf.org/) | Thessaloniki, Greece | May 20 - 21, 2017 | January 31, 2017 | Yes | [Yes](http://devitconf.org/code-of-conduct) |
 | [Front-Trends](http://front-trends.com) | Warsaw, Poland | May 24 - 26, 2017 | Rolling | Yes | [Yes](https://2017.front-trends.com/code-of-conduct/) |
@@ -79,7 +78,6 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 
 | Conference | Location | Date | Submission Deadline | Flight / Hotel? | CoC? |
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
-| [CSSConf Nordic](http://cssconf.no/) | Oslo, Norway | June 1, 2016 | January 31, 2016 | Yes | [Yes](http://confcodeofconduct.com/) |
 | [RevolutionConf](https://revolutionconf.com/) | Virginia Beach, Virginia | June 1 - 2, 2017 | January 31, 2017 | Maybe / Yes | [Yes](https://revolutionconf.com/code-of-conduct) |
 | [Web Rebels](https://webrebels.org/) | Oslo, Norway | June 1 - 2, 2017 | January 29, 2017 | Yes | [Yes](https://webrebels.org/about#coc) |
 | [Music City Code](https://www.musiccitycode.com/) | Nashville, Tennessee | June 2 - 3, 2017 | March 1, 2017 | Maybe | [Yes](https://www.musiccitycode.com/p/code-of-conduct-3) |
@@ -89,7 +87,6 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [Converge SE](http://convergese.com/) | Columbia, South Carolina | June 14 - 16, 2017 | February 1, 2017 | Unknown | Unspecified |
 | [Dinosaurjs](https://dinosaurjs.org/) | Denver, Colorado | June 15, 2017 | March 15, 2017 | Yes | [Yes](https://dinosaurjs.org/code-of-conduct) |
 | [O'Reilly Fluent](http://conferences.oreilly.com/fluent/fl-ca) | San Jose, California | June 19 - 22, 2017 | January 12, 2017 | Yes | [Yes](http://oreilly.com/conferences/code-of-conduct.html) |
-| [O'Reilly Fluent](https://conferences.oreilly.com/fluent/fl-ca) | San Francisco, California | June 19 - 22, 2017 | January 12, 2017 | Yes | [Yes](http://oreilly.com/conferences/code-of-conduct.html) |
 
 
 ### July
