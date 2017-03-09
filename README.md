@@ -118,7 +118,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
 | [Nordic.js](http://nordicjs.com/) | Stockholm, Sweden | September 7 - 8, 2017 | Rolling | Yes | Yes |
 | [NationJS Browser Day](http://nationjs.com/) | Washington, D.C. | September 16, 2016 | June 30, 2016 | Yes | [Yes](http://nationjs.com/conduct) |
-| [Connect.Tech](http://connect.tech/) | Atlanta, Georgia | September 20 - 22, 2017 | April 30, 2016 | Case-by-case basis | [Yes](http://connect.tech/conduct.html) |
+| [Connect.Tech](http://connect.tech/) | Atlanta, Georgia | September 20 - 22, 2017 | April 30, 2017 | Case-by-case basis | [Yes](http://connect.tech/conduct.html) |
 
 
 ### October
