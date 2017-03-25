@@ -35,10 +35,8 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | Conference | Location | Date | Submission Deadline | Flight / Hotel? | CoC? |
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
 | [Forward JS](https://forwardjs.com/) | San Francisco, California | March 1, 2017 | November 15, 2016 | No | [Yes](http://confcodeofconduct.com) |
-| [Mobile+Web DevCon](http://mobilewebdevconference.com/) | San Francisco, California | March 1 - 3, 2017 |  Rolling | No | Unspecified |
 | [ConFoo Montreal](https://confoo.ca/en/) | Montreal, Canada | March 8 - 10, 2017 | September 20, 2016 | Yes | [Yes](https:/confoo.ca/en/code-of-conduct) |
 | [React Conf](http://conf.reactjs.org/) | Santa Clara, California | March 13 - 14, 2017 | January 3, 2017 | No | [Yes](http://conf.reactjs.org/code-of-conduct) |
-| [Devoxx US](http://devoxx.us/) | San Jose, California | March 21 - 23, 2017 | October 11, 2016 | No | [Yes](https://devoxx.us/codeofconduct/) |
 | [JazzCon.Tech](http://jazzcon.tech/) | New Orleans, Louisiana | March 22 - 24, 2017 | December 31, 2016 | Yes | [Yes](http://jazzcon.tech/#inline-content) |
 | [JSUnconf](http://jsunconf.eu/) | Hamburg, Germany | March 25 - 26, 2017 | Rolling | Yes | [Yes](http://2017.jsunconf.eu/coc/) |
 | [React London](https://react.london/) | London, United Kingdom | March 28, 2017 | January 31, 2017 | Yes | [Yes](https://react.london/code-of-conduct) |
@@ -107,7 +105,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [Kansas City Developer Conference](http://www.kcdc.info/index.html) | Kansas City, Missouri | August 3-4, 2017 | March 5, 2017 | Yes | [Yes](http://www.kcdc.info/index.html#code) |
 | [NDC Sydney](http://ndcsydney.com/) | Sydney, Australia | August 14 - 18, 2017 | April 15, 2017 | Yes | [Yes](http://ndcsydney.com/page/code-of-conduct) |
 | [Midwest JS](http://midwestjs.com/) | Minneapolis, Minnesota | August 16 - 18, 2017 | March 6, 2017 | Yes | Yes |
-| [React Rally](http://www.reactrally.com/) | Salt Lake City, Utah | August 25 - 26, 2016 | April 27, 2016 | Yes | [Yes](http://www.reactrally.com/conduct) |
+| [React Rally](http://www.reactrally.com/) | Salt Lake City, Utah | August 24 - 25, 2017 | April 16, 2017 | Yes | [Yes](http://www.reactrally.com/conduct) |
 | [Web Summer Camp](http://websummercamp.com/) | Rovinj, Croatia | August 30 - September 2, 2017 | March 31, 2017 | Yes | Unspecified |
 | [Frontend Conference Zurich](https://frontendconf.ch/) | Zurich, Switzerland | August 31 - September 1, 2017 | April 30, 2017 | Yes | [Yes](https://frontendconf.ch/about/#code-of-conduct) |
 
