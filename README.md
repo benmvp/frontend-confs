@@ -96,6 +96,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [Coder Cruise](https://www.codercruise.com/) | New Orleans, Louisiana | July 16 - 23, 2017 | January 6, 2017 | No | [Yes](https://www.codercruise.com/code-of-conduct) |
 | [Front Porch Austin](http://frontporch.io/austin/) | Austin, Texas | July 19, 2016 | March 1, 2016 | Yes | [Yes](http://frontporch.io/conduct) |
 | [NodeSummit](http://nodesummit.com/) | San Francisco, California |  July 25 - 27, 2017 | Rolling | No | [Yes](http://nodesummit.com/node-summit-code-of-conduct/) |
+| [Forward JS](https://forwardjs.com/) | San Francisco, California | July 26, 2017 | May 1, 2017 | Yes / No | [Yes](http://confcodeofconduct.com) |
 
 
 ### August
@@ -114,7 +115,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 
 | Conference | Location | Date | Submission Deadline | Flight / Hotel? | CoC? |
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
-| [Full Stack Fest](http://fullstackfest.com) | Barcelon, Spain | September 4 - 8, 2017 | May 15, 2017 | Yes | Yes |
+| [Full Stack Fest](http://fullstackfest.com) | Barcelona, Spain | September 4 - 8, 2017 | May 15, 2017 | Yes | Yes |
 | [Nordic.js](http://nordicjs.com/) | Stockholm, Sweden | September 7 - 8, 2017 | Rolling | Yes | Yes |
 | [NationJS Browser Day](http://nationjs.com/) | Washington, D.C. | September 16, 2016 | June 30, 2016 | Yes | [Yes](http://nationjs.com/conduct) |
 | [Connect.Tech](http://connect.tech/) | Atlanta, Georgia | September 20 - 22, 2017 | April 30, 2017 | Case-by-case basis | [Yes](http://connect.tech/conduct.html) |
@@ -127,10 +128,11 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
 | [ReactJSDay](http://www.reactjsday.it) | Verona, Italy | October 6, 2017 | August 28, 2017 | 1 hotel night | Unspecified |
 | [CSS Dev Conf](http://cssdevconf.com) | New Orleans, Louisiana | October 9 - 11, 2017 | March 27, 2017 | Yes | [Yes](http://cssdevconf.com/#anti-harrassment-policy) |
-| [Hackference](http://hackference.co.uk) | Birmingham, United Kingdom | October 21, 2016 | May 31, 2016 |Yes | [Yes](http://hackference.co.uk/code-of-conduct.html) |
+| [Hackference](http://hackference.co.uk) | Birmingham, United Kingdom | October 20, 2017 | May 2, 2017 |Yes | [Yes](http://hackference.co.uk/code-of-conduct.html) |
 | [Full Stack Toronto](https://fsto.co/) | Toronto, Canada | October 23 - 24, 2017 | Ongoing | Yes | [Yes](https://fsto.co/code-of-conduct) |
 | [All Things Open](https://allthingsopen.org/) | Raleigh, North Carolina | October 23 - 24, 2017 | March 28, 2017 | No | [Yes](https://allthingsopen.org/code-of-conduct/) |
 | [Front Porch Dallas](http://frontporch.io/dallas/) | Dallas, Texas | October 24, 2016 | March 1, 2016 | Yes | [Yes](http://frontporch.io/conduct) |
+| [You Gotta Love Frontend](https://www.yougottalovefrontend.com/) | Tel Aviv, Israel | October 30 - 31, 2017 | June 10, 2017 | Yes | [Yes](http://2016.yougottalovefrontend.com/resources/codeofconduct.html) |
 
 
 ### November
@@ -148,4 +150,4 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | Conference | Location | Date | Submission Deadline | Flight / Hotel? | CoC? |
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
 | [dotJS](https://2017.dotjs.io/) | Paris, France | December 1, 2017 | Rolling | Yes | Unspecified |
-| [ConFoo Vancouver](https://confoo.ca/en/) | Vancouver, Canada | December 5 - 7, 2016 | June 6, 2016 | Yes | [Yes](https:/confoo.ca/en/code-of-conduct) |
+| [ConFoo Vancouver](https://confoo.ca/en/) | Vancouver, Canada | December 4 - 6, 2017 | May 8, 2017 | Yes | [Yes](https:/confoo.ca/en/code-of-conduct) |
