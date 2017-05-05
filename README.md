@@ -78,6 +78,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
 | [RevolutionConf](https://revolutionconf.com/) | Virginia Beach, Virginia | June 1 - 2, 2017 | January 31, 2017 | Maybe / Yes | [Yes](https://revolutionconf.com/code-of-conduct) |
 | [Web Rebels](https://webrebels.org/) | Oslo, Norway | June 1 - 2, 2017 | January 29, 2017 | Yes | [Yes](https://webrebels.org/about#coc) |
+| [200OK](http://200ok.us/) | Tulsa, Oklahoma | June 2, 2017 | April 10, 2017 | Yes | [Yes](https://www.techlahoma.org/code-of-conduct/) |
 | [Music City Code](https://www.musiccitycode.com/) | Nashville, Tennessee | June 2 - 3, 2017 | March 1, 2017 | Maybe | [Yes](https://www.musiccitycode.com/p/code-of-conduct-3) |
 | [Prairie Dev Con](http://www.prairiedevcon.com/) | Winnipeg, Canada | June 6 - 7, 2017 | February 24, 2017 | Yes (North America) | [Yes](http://www.prairiedevcon.com/CodeOfConduct) |
 | [UX Burlington](http://uxburlington.com/) | Burlington, Vermont | June 8-9, 2017 | March 15, 2017 | Ask | [Yes](http://uxburlington.com/conduct/) |
