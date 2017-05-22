@@ -94,6 +94,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
 | [Chain React](https://infinite.red/ChainReactConf) | Portland, Oregon | July 10 - 11, 2017 | February 17, 2017 | Yes | Unspecified |
 | [FullStack](https://skillsmatter.com/conferences/8264-fullstack-2017-the-conference-on-javascript-node-and-internet-of-things) | London, United Kingdom | July 12 - 14, 2017 | March 29, 2017 | Case-by-case basis | [Yes](https://skillsmatter.com/go/code-of-conduct) |
+| [JSConf China](http://2017.jsconf.cn/en/) | Shanghai, China | July 15 - 16, 2017 | May 20, 2017 | Yes | [Yes](http://2017.jsconf.cn/en/code-of-conduct/) |
 | [Coder Cruise](https://www.codercruise.com/) | New Orleans, Louisiana | July 16 - 23, 2017 | January 6, 2017 | No | [Yes](https://www.codercruise.com/code-of-conduct) |
 | [Front Porch Austin](http://frontporch.io/austin/) | Austin, Texas | July 19, 2016 | March 1, 2016 | Yes | [Yes](http://frontporch.io/conduct) |
 | [NodeSummit](http://nodesummit.com/) | San Francisco, California |  July 25 - 27, 2017 | Rolling | No | [Yes](http://nodesummit.com/node-summit-code-of-conduct/) |
@@ -108,6 +109,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [NDC Sydney](http://ndcsydney.com/) | Sydney, Australia | August 14 - 18, 2017 | April 15, 2017 | Yes | [Yes](http://ndcsydney.com/page/code-of-conduct) |
 | [Midwest JS](http://midwestjs.com/) | Minneapolis, Minnesota | August 16 - 18, 2017 | March 6, 2017 | Yes | Yes |
 | [React Rally](http://www.reactrally.com/) | Salt Lake City, Utah | August 24 - 25, 2017 | April 16, 2017 | Yes | [Yes](http://www.reactrally.com/conduct) |
+| [BrazilJS](https://braziljs.org/conf/) | Porto Alegre, Brazil | August 25 - 26, 2017 | May 31, 2017 | Yes | [Yes](https://braziljs.org/coc) |
 | [Web Summer Camp](http://websummercamp.com/) | Rovinj, Croatia | August 30 - September 2, 2017 | March 31, 2017 | Yes | Unspecified |
 | [Frontend Conference Zurich](https://frontendconf.ch/) | Zurich, Switzerland | August 31 - September 1, 2017 | April 30, 2017 | Yes | [Yes](https://frontendconf.ch/about/#code-of-conduct) |
 
@@ -116,6 +118,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 
 | Conference | Location | Date | Submission Deadline | Flight / Hotel? | CoC? |
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
+| [BrazilJS](https://braziljs.org/conf/) | Fortaleza, Brazil | September 1 - 2, 2017 | May 31, 2017 | Yes | [Yes](https://braziljs.org/coc) |
 | [Full Stack Fest](http://fullstackfest.com) | Barcelona, Spain | September 4 - 8, 2017 | May 15, 2017 | Yes | Yes |
 | [Nordic.js](http://nordicjs.com/) | Stockholm, Sweden | September 7 - 8, 2017 | Rolling | Yes | Yes |
 | [NationJS Browser Day](http://nationjs.com/) | Washington, D.C. | September 16, 2016 | June 30, 2016 | Yes | [Yes](http://nationjs.com/conduct) |
@@ -140,8 +143,11 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 
 | Conference | Location | Date | Submission Deadline | Flight / Hotel? | CoC? |
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
-| [Thunder Plains](http://thunderplainsconf.com/) | Oklahoma City, Oklahoma | November 3 - 4, 2016 | June 30, 2016 | Yes | [Yes](https://github.com/techlahoma/CodeOfConduct/wiki/Techlahoma-Code-ofConduct) |
+| [Thunder Plains](http://thunderplainsconf.com/) | Oklahoma City, Oklahoma | November 3, 2017 | June 30, 2017 | Yes | [Yes](https://github.com/techlahoma/CodeOfConduct/wiki/Techlahoma-Code-ofConduct) |
+| [JSConf Colombia](https://jsconf.co/) | Medellin, Colombia | November 3 - 4, 2017 | June 16, 2017 | Yes | [Yes](http://jsconf.com/codeofconduct.html) |
+| [NodeConfEU](http://www.nodeconf.eu/) | Kilkenny, Ireland | November 5 - 8, 2017 | June 30, 2017 | Yes | [Yes](http://www.nodeconf.eu/code-of-conduct.html) |
 | [AngularConnect](http://angularconnect.com/) | London, United Kingdom | November 7 - 8, 2017 |  May 31, 2017 | Yes | [Yes](http://angularconnect.com/2017/code-of-conduct/) |
+| [JS Kongress](https://js-kongress.de/) | Munich, Germany | November 13 - 14, 2017 |  June 18, 2017 | Yes | [Yes](https://js-kongress.de/code-of-conduct/) |
 | [Nodevember](http://nodevember.org/) | Nashville, Tennessee | November 20 - 21, 2016 | August 15, 2016 | Case-by-case basis | [Yes](http://nodevember.org/conduct.html) |
 | [dotCSS](https://2017.dotcss.io/) | Paris, France | November 30, 2017 | Rolling | Yes | Unspecified |
 
