@@ -96,7 +96,6 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [FullStack](https://skillsmatter.com/conferences/8264-fullstack-2017-the-conference-on-javascript-node-and-internet-of-things) | London, United Kingdom | July 12 - 14, 2017 | March 29, 2017 | Case-by-case basis | [Yes](https://skillsmatter.com/go/code-of-conduct) |
 | [JSConf China](http://2017.jsconf.cn/en/) | Shanghai, China | July 15 - 16, 2017 | May 20, 2017 | Yes | [Yes](http://2017.jsconf.cn/en/code-of-conduct/) |
 | [Coder Cruise](https://www.codercruise.com/) | New Orleans, Louisiana | July 16 - 23, 2017 | January 6, 2017 | No | [Yes](https://www.codercruise.com/code-of-conduct) |
-| [Front Porch Austin](http://frontporch.io/austin/) | Austin, Texas | July 19, 2016 | March 1, 2016 | Yes | [Yes](http://frontporch.io/conduct) |
 | [NodeSummit](http://nodesummit.com/) | San Francisco, California |  July 25 - 27, 2017 | Rolling | No | [Yes](http://nodesummit.com/node-summit-code-of-conduct/) |
 | [Forward JS](https://forwardjs.com/) | San Francisco, California | July 26, 2017 | May 1, 2017 | Yes / No | [Yes](http://confcodeofconduct.com) |
 
@@ -135,7 +134,6 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [Hackference](http://hackference.co.uk) | Birmingham, United Kingdom | October 20, 2017 | May 2, 2017 |Yes | [Yes](http://hackference.co.uk/code-of-conduct.html) |
 | [Full Stack Toronto](https://fsto.co/) | Toronto, Canada | October 23 - 24, 2017 | Ongoing | Yes | [Yes](https://fsto.co/code-of-conduct) |
 | [All Things Open](https://allthingsopen.org/) | Raleigh, North Carolina | October 23 - 24, 2017 | March 28, 2017 | No | [Yes](https://allthingsopen.org/code-of-conduct/) |
-| [Front Porch Dallas](http://frontporch.io/dallas/) | Dallas, Texas | October 24, 2016 | March 1, 2016 | Yes | [Yes](http://frontporch.io/conduct) |
 | [You Gotta Love Frontend](https://www.yougottalovefrontend.com/) | Tel Aviv, Israel | October 30 - 31, 2017 | June 10, 2017 | Yes | [Yes](http://2016.yougottalovefrontend.com/resources/codeofconduct.html) |
 
 
