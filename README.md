@@ -62,7 +62,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [CSSConf EU](http://cssconf.eu) | Berlin, Germany | May 5, 2017 | January 10, 2017 | Yes | [Yes](http://cssconf.eu/call-for-speakers/#code-of-conduct) |
 | [JSConf EU](http://jsconf.eu) | Berlin, Germany | May 6 - 7, 2017 | January 1, 2017 | Yes | [Yes](http://2017.jsconf.eu/code-of-conduct) |
 | [O'Reilly OSCON Austin](http://conferences.oreilly.com/oscon/oscon-tx) | Austin, Texas | May 10 - 11, 2017 | October 25, 2016 | Yes | [Yes](http://oreilly.com/conferences/code-of-conduct.html) |
-| [JS Day](https://jsday.it) | Verona, Italy | May 10 - 11, 2017 | January 31, 2017 | Yes | Unspecified |
+| [JS Day](https://jsday.it) | Verona, Italy | May 10 - 11, 2017 | January 31, 2017 | Yes | [Yes](https://2017.jsday.it/coc.html) |
 | [Syntax Code & Craft Convention](https://2017.syntaxcon.com/) | Charleston, South Carolina | May 11 - 12, 2017 | December 2, 2016 | Yes | [Yes](https://2017.syntaxcon.com/about/code-of-conduct/) |
 | [ReactEurope](https://www.react-europe.org/) | Paris, France | May 18 - 19, 2017 | January 8, 2017 | Yes | [Yes](http://confcodeofconduct.com/) |
 | [DEVit Web Conference](http://devitconf.org/) | Thessaloniki, Greece | May 20 - 21, 2017 | January 31, 2017 | Yes | [Yes](http://devitconf.org/code-of-conduct) |
