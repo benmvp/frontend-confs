@@ -131,6 +131,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
 | [ReactJSDay](http://www.reactjsday.it) | Verona, Italy | October 6, 2017 | August 28, 2017 | 1 hotel night | Unspecified |
 | [CSS Dev Conf](http://cssdevconf.com) | New Orleans, Louisiana | October 9 - 11, 2017 | March 27, 2017 | Yes | [Yes](http://cssdevconf.com/#anti-harrassment-policy) |
+| [BuzzJS](http://buzzjs.com/) | West Palm Beach, Florida | October 19 - 20 27, 2017 | August 15, 2017 | No | [Yes](http://confcodeofconduct.com/) |
 | [Hackference](http://hackference.co.uk) | Birmingham, United Kingdom | October 20, 2017 | May 2, 2017 |Yes | [Yes](http://hackference.co.uk/code-of-conduct.html) |
 | [Full Stack Toronto](https://fsto.co/) | Toronto, Canada | October 23 - 24, 2017 | Ongoing | Yes | [Yes](https://fsto.co/code-of-conduct) |
 | [All Things Open](https://allthingsopen.org/) | Raleigh, North Carolina | October 23 - 24, 2017 | March 28, 2017 | No | [Yes](https://allthingsopen.org/code-of-conduct/) |
