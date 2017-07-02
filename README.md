@@ -118,6 +118,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | Conference | Location | Date | Submission Deadline | Flight / Hotel? | CoC? |
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
 | [BrazilJS](https://braziljs.org/conf/) | Fortaleza, Brazil | September 1 - 2, 2017 | May 31, 2017 | Yes | [Yes](https://braziljs.org/coc) |
+| [React Native EU](https://react-native.eu/) | Wrocław, Poland | September 4 - 7, 2017 | July 2, 2017 | Yes | [Yes](http://confcodeofconduct.com/) |
 | [Full Stack Fest](http://fullstackfest.com) | Barcelona, Spain | September 4 - 8, 2017 | May 15, 2017 | Yes | Yes |
 | [Nordic.js](http://nordicjs.com/) | Stockholm, Sweden | September 7 - 8, 2017 | Rolling | Yes | Yes |
 | [ReactNext](http://react-next.com/) | Tel Aviv, Israel | September 10, 2017 | July 5, 2017 | Yes | [Yes](http://confcodeofconduct.com/) |
