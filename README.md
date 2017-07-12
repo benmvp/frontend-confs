@@ -153,6 +153,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [JS Kongress](https://js-kongress.de/) | Munich, Germany | November 13 - 14, 2017 |  June 18, 2017 | Yes | [Yes](https://js-kongress.de/code-of-conduct/) |
 | [Nodevember](http://nodevember.org/) | Nashville, Tennessee | November 20 - 21, 2016 | August 15, 2016 | Case-by-case basis | [Yes](http://nodevember.org/conduct.html) |
 | [dotCSS](https://2017.dotcss.io/) | Paris, France | November 30, 2017 | Rolling | Yes | Unspecified |
+| [NationJS](http://nationjs.com/) | Washington, D.C. | November 30 - December 1, 2017 | August 24, 2017 | Yes | [Yes](http://www.nationjs.com/conduct) |
 
 
 ### December
