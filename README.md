@@ -1,10 +1,12 @@
 # Frontend Conferences for Speaking
 
+[![Tweet](https://img.shields.io/twitter/url/https/github.com/benmvp/frontend-confs.svg?style=social)](https://twitter.com/intent/tweet?text=Check%20out%20Frontend%20Conferences%20for%20Speaking!%20https%3A%2F%2Fgithub.com%2Fbenmvp%2Ffrontend-confs%20%F0%9F%93%A3)
+
 ## Rationale
 
 So you want to speak at conferences, but one of the things holding you back is that you don't know _where_ to speak. Unless you're plugged into the "speakers community," you may only find out about conferences after the call for proposals (CFP) has passed!
 
-The goal of this repo is to list the conferences that have **frontend-related** speaking opportunities. These could be frontend-specific conferences (like JSConf or CSSConf) or be more general conferences that have frontend tracks. Most of the conferences below won't have active calls for proposals at any given moment. However, hopefully by knowing that certain conferences exist and when they typically take place, you'll be able to identify the conferences you would like to speak at in future.
+The goal of this repo is to list the conferences that have **frontend-related** speaking opportunities. These could be frontend-specific conferences (like JSConf or CSSConf) or be more general conferences that have frontend tracks. Most of the conferences below won't have active calls for proposals at any given moment. However, hopefully by knowing that certain conferences exist and when they typically take place, you'll be able to identify the conferences you would like to speak at in future. 🙂
 
 ## Contributing
 
