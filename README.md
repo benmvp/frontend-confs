@@ -130,6 +130,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [ReactJSDay](http://www.reactjsday.it) | Verona, Italy | October 6, 2017 | August 28, 2017 | 1 hotel night | Unspecified |
 | [React Conf Brasil](http://reactconfbr.com.br/) | Sao Paulo, Brazil | October 7, 2017 | August 31, 2017 | Yes | Yes |
 | [CSS Dev Conf](http://cssdevconf.com) | New Orleans, Louisiana | October 9 - 11, 2017 | March 27, 2017 | Yes | [Yes](http://cssdevconf.com/#anti-harrassment-policy) |
+| [EmberFest](https://emberfest.eu/) | Berlin, Germany | October 12 - 13, 2017 | August 31, 2017 | No | [Yes](https://emberfest.eu/code-of-conduct/) |
 | [BuzzJS](http://buzzjs.com/) | West Palm Beach, Florida | October 19 - 20 27, 2017 | August 15, 2017 | No | [Yes](http://confcodeofconduct.com/) |
 | [Hackference](http://hackference.co.uk) | Birmingham, United Kingdom | October 20, 2017 | May 2, 2017 |Yes | [Yes](http://hackference.co.uk/code-of-conduct.html) |
 | [Full Stack Toronto](https://fsto.co/) | Toronto, Canada | October 23 - 24, 2017 | June 30, 2017 | Yes | [Yes](https://fsto.co/code-of-conduct) |
