@@ -131,6 +131,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [React Conf Brasil](http://reactconfbr.com.br/) | Sao Paulo, Brazil | October 7, 2017 | August 31, 2017 | Yes | Yes |
 | [CSS Dev Conf](http://cssdevconf.com) | New Orleans, Louisiana | October 9 - 11, 2017 | March 27, 2017 | Yes | [Yes](http://cssdevconf.com/#anti-harrassment-policy) |
 | [EmberFest](https://emberfest.eu/) | Berlin, Germany | October 12 - 13, 2017 | August 31, 2017 | No | [Yes](https://emberfest.eu/code-of-conduct/) |
+| [dev up](http://www.devupconf.org/) | St. Louis, Missouri | October 16 - 18, 2017 | July 31, 2017 | Hotel | Yes |
 | [BuzzJS](http://buzzjs.com/) | West Palm Beach, Florida | October 19 - 20 27, 2017 | August 15, 2017 | No | [Yes](http://confcodeofconduct.com/) |
 | [Hackference](http://hackference.co.uk) | Birmingham, United Kingdom | October 20, 2017 | May 2, 2017 |Yes | [Yes](http://hackference.co.uk/code-of-conduct.html) |
 | [Full Stack Toronto](https://fsto.co/) | Toronto, Canada | October 23 - 24, 2017 | June 30, 2017 | Yes | [Yes](https://fsto.co/code-of-conduct) |
@@ -143,6 +144,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 
 | Conference | Location | Date | Submission Deadline | Flight / Hotel? | CoC? |
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
+| [RVA JavaScript](https://www.rvajavascript.com/) | Richmond, Virginia | November 3, 2017 | August 18, 2017 | Yes | [Yes](https://www.rvajavascript.com/code_of_conduct) |
 | [Thunder Plains](http://thunderplainsconf.com/) | Oklahoma City, Oklahoma | November 3, 2017 | June 30, 2017 | Yes | [Yes](https://github.com/techlahoma/CodeOfConduct/wiki/Techlahoma-Code-ofConduct) |
 | [JSConf Colombia](https://jsconf.co/) | Medellin, Colombia | November 3 - 4, 2017 | June 16, 2017 | Yes | [Yes](http://jsconf.com/codeofconduct.html) |
 | [NodeConfEU](http://www.nodeconf.eu/) | Kilkenny, Ireland | November 5 - 8, 2017 | June 30, 2017 | Yes | [Yes](http://www.nodeconf.eu/code-of-conduct.html) |
