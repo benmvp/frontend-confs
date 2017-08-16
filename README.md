@@ -35,7 +35,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | Conference | Location | Date | Submission Deadline | Flight / Hotel? | CoC? |
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
 | [Forward JS](https://forwardjs.com/) | San Francisco, California | March 1, 2017 | November 15, 2016 | No | [Yes](http://confcodeofconduct.com) |
-| [.concat](https://2018.conc.at/) | Salzburg, Austria | March 3, 2018 | December 1, 2017 | Yes | [Yes](https://conc.at/#coc) |
+| [.concat](https://conc.at/) | Salzburg, Austria | March 3, 2018 | December 1, 2017 | Yes | [Yes](https://conc.at/#coc) |
 | [ConFoo Montreal](https://confoo.ca/en/) | Montreal, Canada | March 7 - 9, 2018 | September 22, 2017 | Yes | [Yes](https:/confoo.ca/en/code-of-conduct) |
 | [React Conf](http://conf.reactjs.org/) | Santa Clara, California | March 13 - 14, 2017 | January 3, 2017 | No | [Yes](http://conf.reactjs.org/code-of-conduct) |
 | [JazzCon.Tech](http://jazzcon.tech/) | New Orleans, Louisiana | March 22 - 24, 2017 | December 31, 2016 | Yes | [Yes](http://jazzcon.tech/#inline-content) |
