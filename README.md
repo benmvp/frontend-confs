@@ -27,7 +27,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | Conference | Location | Date | Submission Deadline | Flight / Hotel? | CoC? |
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
 | [DNN Summit](http://www.dnnsummit.org/) | Denver, Colorado | February 6 - 10, 2018 | August 15, 2017 | $200 stipend | Yes |
-| [DeveloperWeek JavaScript Conference](http://www.developerweek.com/javascript-conference/) | San Francisco, California | February 13 - 14, 2017 | November 22, 2016 | No | [Yes](http://confcodeofconduct.com/) |
+| [DeveloperWeek SF JavaScript Conference](http://www.developerweek.com/javascript-conference/) | San Francisco, California | February 13 - 14, 2017 | November 22, 2016 | No | [Yes](http://confcodeofconduct.com/) |
 | [DevNexus](https://devnexus.com/) | Atlanta, Georgia | February 20 - 22, 2017 | November 1, 2016 | Case-by-case basis | [Yes](https://devnexus.com/s/code-of-conduct) |
 
 ### March
@@ -151,6 +151,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [JSConf Colombia](https://jsconf.co/) | Medellin, Colombia | November 3 - 4, 2017 | June 16, 2017 | Yes | [Yes](http://jsconf.com/codeofconduct.html) |
 | [NodeConfEU](http://www.nodeconf.eu/) | Kilkenny, Ireland | November 5 - 8, 2017 | June 30, 2017 | Yes | [Yes](http://www.nodeconf.eu/code-of-conduct.html) |
 | [AngularConnect](http://angularconnect.com/) | London, United Kingdom | November 7 - 8, 2017 |  May 31, 2017 | Yes | [Yes](http://angularconnect.com/2017/code-of-conduct/) |
+| [DeveloperWeek Austin JavaScript Conference](http://www.developerweek.com/Austin/) | Austin, Texas | November 7 - 9, 2017 |  September 13, 2017 | No | [Yes](http://confcodeofconduct.com/) |
 | [ffconf](https://ffconf.org) | Brighton, United Kingdom | November 9 -10, 2017 |  Unknown | Yes | [Yes](https://ffconf.org/code-of-conduct) |
 | [JS Kongress](https://js-kongress.de/) | Munich, Germany | November 13 - 14, 2017 |  June 18, 2017 | Yes | [Yes](https://js-kongress.de/code-of-conduct/) |
 | [Nodevember](http://nodevember.org/) | Nashville, Tennessee | November 27 - 28, 2017 | August 31, 2016 | Yes | [Yes](http://nodevember.org/conduct.html) |
