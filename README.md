@@ -28,17 +28,18 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
 | [DNN Summit](http://www.dnnsummit.org/) | Denver, Colorado | February 6 - 10, 2018 | August 15, 2017 | $200 stipend | Yes |
 | [DeveloperWeek SF JavaScript Conference](http://www.developerweek.com/javascript-conference/) | San Francisco, California | February 13 - 14, 2017 | November 22, 2016 | No | [Yes](http://confcodeofconduct.com/) |
-| [DevNexus](https://devnexus.com/) | Atlanta, Georgia | February 20 - 22, 2017 | November 1, 2016 | Case-by-case basis | [Yes](https://devnexus.com/s/code-of-conduct) |
+| [DevNexus](https://devnexus.com/) | Atlanta, Georgia | February 21 - 23, 2018 | October 30, 2017 | Case-by-case basis | [Yes](https://devnexus.com/s/code-of-conduct) |
 
 ### March
 
 | Conference | Location | Date | Submission Deadline | Flight / Hotel? | CoC? |
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
 | [Forward JS](https://forwardjs.com/) | San Francisco, California | March 1, 2017 | November 15, 2016 | No | [Yes](http://confcodeofconduct.com) |
-| [.concat](https://conc.at/) | Salzburg, Austria | March 3, 2018 | December 1, 2017 | Yes | [Yes](https://conc.at/#coc) |
+| [JSConf Iceland](https://2018.jsconf.is/) | Reykjavik, Iceland | March 1 - 2, 2018 | October 31, 2017 | Yes | [Yes](http://confcodeofconduct.com/) |
+| [.concat()](https://conc.at/) | Salzburg, Austria | March 3, 2018 | December 1, 2017 | Yes | [Yes](https://conc.at/#coc) |
 | [ConFoo Montreal](https://confoo.ca/en/) | Montreal, Canada | March 7 - 9, 2018 | September 22, 2017 | Yes | [Yes](https:/confoo.ca/en/code-of-conduct) |
 | [React Conf](http://conf.reactjs.org/) | Santa Clara, California | March 13 - 14, 2017 | January 3, 2017 | No | [Yes](http://conf.reactjs.org/code-of-conduct) |
-| [JazzCon.Tech](http://jazzcon.tech/) | New Orleans, Louisiana | March 22 - 24, 2017 | December 31, 2016 | Yes | [Yes](http://jazzcon.tech/#inline-content) |
+| [JazzCon.Tech](http://jazzcon.tech/) | New Orleans, Louisiana | March 21 - 23, 2018 | December 31, 2017 | Yes | [Yes](http://jazzcon.tech/#inline-content) |
 | [JSUnconf](http://jsunconf.eu/) | Hamburg, Germany | March 25 - 26, 2017 | Rolling | Yes | [Yes](http://2017.jsunconf.eu/coc/) |
 | [React London](https://react.london/) | London, United Kingdom | March 28, 2017 | January 31, 2017 | Yes | [Yes](https://react.london/code-of-conduct) |
 | [EmberConf](http://emberconf.com/) | Portland, Oregon | March 28 - 29, 2017 | November 18, 2016 | $500 honorarium | [Yes](http://emberconf.com/about.html#code-of-conduct) |
