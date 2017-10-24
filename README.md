@@ -54,7 +54,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [ng-conf](https://www.ng-conf.org/) | Salt Lake City, Utah | April 5 - 7, 2017 | January 8, 2017 | Yes | [Yes](https://www.ng-conf.org/wp-content/uploads/2016/11/ng_conf_sign_code-of_conduct_24x36_print_4.pdf) |
 | [NodeConf Barcelona](http://barcelona.nodeconf.com/) | Barcelona, Spain | April 7, 2017 | December 31, 2016 | Yes | [Yes](http://barcelona.nodeconf.com/code-conduct.html) |
 | [Front End Design Conference](http://frontenddesignconference.com/) | St. Petersburg, Florida | April 19 - 21, 2017 | February 1, 2017 | No | [Yes](http://frontenddesignconference.com/terms.php) |
-| [React Amsterdam](https://react.amsterdam/) | Amsterdam, The Netherlands |  April 21, 2017 | January 15, 2017 | Yes | [Yes](http://confcodeofconduct.com/) |
+| [React Amsterdam](https://react.amsterdam/) | Amsterdam, The Netherlands |  April 13, 2018 | January 15, 2018 | Yes | [Yes](http://confcodeofconduct.com/) |
 | [Active Ingredients](https://activeingredients.info) | San Francisco, California | April 28, 2017 | March 17, 2017 | No | Yes |
 
 ### May
