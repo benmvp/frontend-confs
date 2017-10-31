@@ -39,10 +39,10 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [.concat()](https://conc.at/) | Salzburg, Austria | March 3, 2018 | December 1, 2017 | Yes | [Yes](https://conc.at/#coc) |
 | [ConFoo Montreal](https://confoo.ca/en/) | Montreal, Canada | March 7 - 9, 2018 | September 22, 2017 | Yes | [Yes](https://confoo.ca/en/code-of-conduct) |
 | [React Conf](http://conf.reactjs.org/) | Santa Clara, California | March 13 - 14, 2017 | January 3, 2017 | No | [Yes](http://conf.reactjs.org/code-of-conduct) |
+| [EmberConf](http://emberconf.com/) | Portland, Oregon | March 13 - 14, 2018 | November 21, 2017 | $500 honorarium | [Yes](http://emberconf.com/about.html#code-of-conduct) |
 | [JazzCon.Tech](http://jazzcon.tech/) | New Orleans, Louisiana | March 21 - 23, 2018 | December 31, 2017 | Yes | [Yes](http://jazzcon.tech/#inline-content) |
 | [JSUnconf](http://jsunconf.eu/) | Hamburg, Germany | March 25 - 26, 2017 | Rolling | Yes | [Yes](http://2017.jsunconf.eu/coc/) |
 | [React London](https://react.london/) | London, United Kingdom | March 28, 2017 | January 31, 2017 | Yes | [Yes](https://react.london/code-of-conduct) |
-| [EmberConf](http://emberconf.com/) | Portland, Oregon | March 28 - 29, 2017 | November 18, 2016 | $500 honorarium | [Yes](http://emberconf.com/about.html#code-of-conduct) |
 | [Render](http://render-conf.com/) | Oxford, United Kingdom | March 30 - 31, 2017 | August 26, 2016 | Yes (plus £250 honorarium) | [Yes](http://2017.render-conf.com/code-of-conduct) |
 
 ### April
