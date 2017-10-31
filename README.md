@@ -28,7 +28,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
 | [DNN Summit](http://www.dnnsummit.org/) | Denver, Colorado | February 6 - 10, 2018 | August 15, 2017 | $200 stipend | Yes |
 | [DeveloperWeek SF JavaScript Conference](http://www.developerweek.com/javascript-conference/) | San Francisco, California | February 13 - 14, 2017 | November 22, 2016 | No | [Yes](http://confcodeofconduct.com/) |
-| [DevNexus](https://devnexus.com/) | Atlanta, Georgia | February 21 - 23, 2018 | October 30, 2017 | Case-by-case basis | [Yes](https://devnexus.com/s/code-of-conduct) |
+| [DevNexus](https://devnexus.com/) | Atlanta, Georgia | February 21 - 23, 2018 | October 30, 2017 | Case-by-case basis | [Yes](https://devnexus.com/code-of-conduct) |
 
 ### March
 
@@ -37,7 +37,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [Forward JS](https://forwardjs.com/) | San Francisco, California | March 1, 2017 | November 15, 2016 | No | [Yes](http://confcodeofconduct.com) |
 | [JSConf Iceland](https://2018.jsconf.is/) | Reykjavik, Iceland | March 1 - 2, 2018 | October 31, 2017 | Yes | [Yes](http://confcodeofconduct.com/) |
 | [.concat()](https://conc.at/) | Salzburg, Austria | March 3, 2018 | December 1, 2017 | Yes | [Yes](https://conc.at/#coc) |
-| [ConFoo Montreal](https://confoo.ca/en/) | Montreal, Canada | March 7 - 9, 2018 | September 22, 2017 | Yes | [Yes](https:/confoo.ca/en/code-of-conduct) |
+| [ConFoo Montreal](https://confoo.ca/en/) | Montreal, Canada | March 7 - 9, 2018 | September 22, 2017 | Yes | [Yes](https://confoo.ca/en/code-of-conduct) |
 | [React Conf](http://conf.reactjs.org/) | Santa Clara, California | March 13 - 14, 2017 | January 3, 2017 | No | [Yes](http://conf.reactjs.org/code-of-conduct) |
 | [JazzCon.Tech](http://jazzcon.tech/) | New Orleans, Louisiana | March 21 - 23, 2018 | December 31, 2017 | Yes | [Yes](http://jazzcon.tech/#inline-content) |
 | [JSUnconf](http://jsunconf.eu/) | Hamburg, Germany | March 25 - 26, 2017 | Rolling | Yes | [Yes](http://2017.jsunconf.eu/coc/) |
@@ -51,7 +51,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
 | [University of Illinois Web Conference](http://webcon.illinois.edu/) | Champaign, Illinois | April 4 - 8, 2018 | August 14, 2018 | No | [Yes](http://webcon.illinois.edu/code.pdf) |
 | [Frontend NE](https://2018.frontendne.co.uk/) | Newcastle Upon Tyne, United Kingdom | April 5, 2018 | Unknown | Yes | [Yes](https://2018.frontendne.co.uk/code-of-conduct.html) |
-| [ng-conf](https://www.ng-conf.org/) | Salt Lake City, Utah | April 5 - 7, 2017 | January 8, 2017 | Yes | [Yes](https://www.ng-conf.org/wp-content/uploads/2016/11/ng_conf_sign_code-of_conduct_24x36_print_4.pdf) |
+| [ng-conf](https://www.ng-conf.org/) | Salt Lake City, Utah | April 5 - 7, 2017 | January 8, 2017 | Yes | [Yes](http://2017.ng-conf.org/wp-content/uploads/2017/03/Code-of-Conduct.pdf) |
 | [NodeConf Barcelona](http://barcelona.nodeconf.com/) | Barcelona, Spain | April 7, 2017 | December 31, 2016 | Yes | [Yes](http://barcelona.nodeconf.com/code-conduct.html) |
 | [Front End Design Conference](http://frontenddesignconference.com/) | St. Petersburg, Florida | April 19 - 21, 2017 | February 1, 2017 | No | [Yes](http://frontenddesignconference.com/terms.php) |
 | [React Amsterdam](https://react.amsterdam/) | Amsterdam, The Netherlands |  April 13, 2018 | January 15, 2018 | Yes | [Yes](http://confcodeofconduct.com/) |
@@ -61,7 +61,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 
 | Conference | Location | Date | Submission Deadline | Flight / Hotel? | CoC? |
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
-| [CSSConf EU](http://cssconf.eu) | Berlin, Germany | May 5, 2017 | January 10, 2017 | Yes | [Yes](http://cssconf.eu/call-for-speakers/#code-of-conduct) |
+| [CSSConf EU](http://cssconf.eu) | Berlin, Germany | May 5, 2017 | January 10, 2017 | Yes | [Yes](https://2017.cssconf.eu/code-of-conduct/) |
 | [JSConf EU](http://jsconf.eu) | Berlin, Germany | May 6 - 7, 2017 | January 1, 2017 | Yes | [Yes](http://2017.jsconf.eu/code-of-conduct) |
 | [O'Reilly OSCON Austin](http://conferences.oreilly.com/oscon/oscon-tx) | Austin, Texas | May 10 - 11, 2017 | October 25, 2016 | Yes | [Yes](http://oreilly.com/conferences/code-of-conduct.html) |
 | [JS Day](https://jsday.it) | Verona, Italy | May 10 - 11, 2017 | January 31, 2017 | Yes | [Yes](https://2017.jsday.it/coc.html) |
@@ -69,8 +69,8 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [ReactEurope](https://www.react-europe.org/) | Paris, France | May 18 - 19, 2017 | January 8, 2017 | Yes | [Yes](http://confcodeofconduct.com/) |
 | [DEVit Web Conference](http://devitconf.org/) | Thessaloniki, Greece | May 20 - 21, 2017 | January 31, 2017 | Yes | [Yes](http://devitconf.org/code-of-conduct) |
 | [Front-Trends](http://front-trends.com) | Warsaw, Poland | May 24 - 25, 2018 | Rolling | Yes | [Yes](https://2017.front-trends.com/code-of-conduct/) |
-| [Frontend United](http://frontendunited.org/) | Athens, Greece | May 26 - 27, 2017 | Rolling | Ask | [Yes](https://www.google.com/url?q=http://2016.frontendunited.org/code-of-conduct&sa=D&ust=1487622987088000&usg=AFQjCNE6DXoComopdAE1VrNzrO24s1NyCg) |
-| [Angular Cruise](https://ngcruise.com/) | Miami, Florida | May 29 - June 2, 2017 | January 15, 2017 | No | [Yes](https://ngcruise.com/#/conduct#conduct) |
+| [Frontend United](http://frontendunited.org/) | Athens, Greece | May 26 - 27, 2017 | Rolling | Ask | [Yes](http://2016.frontendunited.org/code-of-conduct) |
+| [Angular Cruise](https://ngcruise.com/) | Miami, Florida | May 29 - June 2, 2017 | January 15, 2017 | No | [Yes](https://ngcruise.com/#/conduct) |
 
 ### June
 
@@ -85,7 +85,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [DevSum](http://www.devsum.se/) | Stockholm, Sweden |  June 8 - 9, 2017 | December 2, 2016 | No | Unspecified |
 | [NDC Oslo](http://ndcoslo.com/) | Oslo, Norway | June 12 - 16, 2017 | February 15, 2017 | Yes | [Yes](http://ndcoslo.com/page/code-of-conduct) |
 | [Converge SE](http://convergese.com/) | Columbia, South Carolina | June 14 - 16, 2017 | February 1, 2017 | Unknown | Unspecified |
-| [Dinosaurjs](https://dinosaurjs.org/) | Denver, Colorado | June 15, 2017 | March 15, 2017 | Yes | [Yes](https://dinosaurjs.org/code-of-conduct) |
+| [Dinosaurjs](https://dinosaurjs.org/) | Denver, Colorado | June 15, 2017 | March 15, 2017 | Yes | [Yes](http://jsconf.com/codeofconduct.html) |
 | [O'Reilly Fluent](http://conferences.oreilly.com/fluent/fl-ca) | San Jose, California | June 19 - 22, 2017 | January 12, 2017 | Yes | [Yes](http://oreilly.com/conferences/code-of-conduct.html) |
 
 ### July
@@ -103,7 +103,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 
 | Conference | Location | Date | Submission Deadline | Flight / Hotel? | CoC? |
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
-| [Kansas City Developer Conference](http://www.kcdc.info/index.html) | Kansas City, Missouri | August 3-4, 2017 | March 5, 2017 | Yes | [Yes](http://www.kcdc.info/index.html#code) |
+| [Kansas City Developer Conference](http://www.kcdc.info/) | Kansas City, Missouri | August 3-4, 2017 | March 5, 2017 | Yes | [Yes](http://www.kcdc.info/code) |
 | [NDC Sydney](http://ndcsydney.com/) | Sydney, Australia | August 14 - 18, 2017 | April 15, 2017 | Yes | [Yes](http://ndcsydney.com/page/code-of-conduct) |
 | [Midwest JS](http://midwestjs.com/) | Minneapolis, Minnesota | August 16 - 18, 2017 | March 6, 2017 | Yes | Yes |
 | [React Rally](http://www.reactrally.com/) | Salt Lake City, Utah | August 24 - 25, 2017 | April 16, 2017 | Yes | [Yes](http://www.reactrally.com/conduct) |
@@ -148,7 +148,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | Conference | Location | Date | Submission Deadline | Flight / Hotel? | CoC? |
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
 | [RVA JavaScript](https://www.rvajavascript.com/) | Richmond, Virginia | November 3, 2017 | August 18, 2017 | Yes | [Yes](https://www.rvajavascript.com/code_of_conduct) |
-| [Thunder Plains](http://thunderplainsconf.com/) | Oklahoma City, Oklahoma | November 3, 2017 | June 30, 2017 | Yes | [Yes](https://github.com/techlahoma/CodeOfConduct/wiki/Techlahoma-Code-ofConduct) |
+| [Thunder Plains](http://thunderplainsconf.com/) | Oklahoma City, Oklahoma | November 3, 2017 | June 30, 2017 | Yes | [Yes](https://www.techlahoma.org/code-of-conduct) |
 | [JSConf Colombia](https://jsconf.co/) | Medellin, Colombia | November 3 - 4, 2017 | June 16, 2017 | Yes | [Yes](http://jsconf.com/codeofconduct.html) |
 | [NodeConfEU](http://www.nodeconf.eu/) | Kilkenny, Ireland | November 5 - 8, 2017 | June 30, 2017 | Yes | [Yes](http://www.nodeconf.eu/code-of-conduct.html) |
 | [AngularConnect](http://angularconnect.com/) | London, United Kingdom | November 7 - 8, 2017 |  May 31, 2017 | Yes | [Yes](http://angularconnect.com/2017/code-of-conduct/) |
@@ -164,4 +164,4 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | Conference | Location | Date | Submission Deadline | Flight / Hotel? | CoC? |
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
 | [dotJS](https://2017.dotjs.io/) | Paris, France | December 1, 2017 | Rolling | Yes | Unspecified |
-| [ConFoo Vancouver](https://confoo.ca/en/) | Vancouver, Canada | December 4 - 6, 2017 | May 8, 2017 | Yes | [Yes](https:/confoo.ca/en/code-of-conduct) |
+| [ConFoo Vancouver](https://confoo.ca/en/) | Vancouver, Canada | December 4 - 6, 2017 | May 8, 2017 | Yes | [Yes](https://confoo.ca/en/code-of-conduct) |
