@@ -38,12 +38,13 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [JSConf Iceland](https://2018.jsconf.is/) | Reykjavik, Iceland | March 1 - 2, 2018 | October 31, 2017 | Yes | [Yes](http://confcodeofconduct.com/) |
 | [.concat()](https://conc.at/) | Salzburg, Austria | March 3, 2018 | December 1, 2017 | Yes | [Yes](https://conc.at/#coc) |
 | [ConFoo Montreal](https://confoo.ca/en/) | Montreal, Canada | March 7 - 9, 2018 | September 22, 2017 | Yes | [Yes](https://confoo.ca/en/code-of-conduct) |
+| [EmberConf](http://emberconf.com/) | Portland, Oregon | March 12 - 14, 2018 | November 21, 2017 | $500 honorarium + $500 budget | [Yes](http://emberconf.com/about.html#code-of-conduct) |
 | [React Conf](http://conf.reactjs.org/) | Santa Clara, California | March 13 - 14, 2017 | January 3, 2017 | No | [Yes](http://conf.reactjs.org/code-of-conduct) |
 | [EmberConf](http://emberconf.com/) | Portland, Oregon | March 13 - 14, 2018 | November 21, 2017 | $500 honorarium | [Yes](http://emberconf.com/about.html#code-of-conduct) |
 | [JazzCon.Tech](http://jazzcon.tech/) | New Orleans, Louisiana | March 21 - 23, 2018 | December 31, 2017 | Yes | [Yes](http://jazzcon.tech/#inline-content) |
+| [Render](http://render-conf.com/) | Oxford, United Kingdom | March 23, 2017 | TBD | Yes (plus £250 honorarium) | [Yes](http://2017.render-conf.com/code-of-conduct) |
 | [JSUnconf](http://jsunconf.eu/) | Hamburg, Germany | March 25 - 26, 2017 | Rolling | Yes | [Yes](http://2017.jsunconf.eu/coc/) |
 | [React London](https://react.london/) | London, United Kingdom | March 28, 2017 | January 31, 2017 | Yes | [Yes](https://react.london/code-of-conduct) |
-| [Render](http://render-conf.com/) | Oxford, United Kingdom | March 30 - 31, 2017 | August 26, 2016 | Yes (plus £250 honorarium) | [Yes](http://2017.render-conf.com/code-of-conduct) |
 
 ### April
 
@@ -51,7 +52,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
 | [University of Illinois Web Conference](http://webcon.illinois.edu/) | Champaign, Illinois | April 4 - 8, 2018 | August 14, 2018 | No | [Yes](http://webcon.illinois.edu/code.pdf) |
 | [Frontend NE](https://2018.frontendne.co.uk/) | Newcastle Upon Tyne, United Kingdom | April 5, 2018 | Unknown | Yes | [Yes](https://2018.frontendne.co.uk/code-of-conduct.html) |
-| [ng-conf](https://www.ng-conf.org/) | Salt Lake City, Utah | April 5 - 7, 2017 | January 8, 2017 | Yes | [Yes](http://2017.ng-conf.org/wp-content/uploads/2017/03/Code-of-Conduct.pdf) |
+| [ng-conf](https://www.ng-conf.org/) | Salt Lake City, Utah | April 18 - 20, 2018 | January 15, 2018 | Yes | [Yes](http://2017.ng-conf.org/wp-content/uploads/2017/03/Code-of-Conduct.pdf) |
 | [NodeConf Barcelona](http://barcelona.nodeconf.com/) | Barcelona, Spain | April 7, 2017 | December 31, 2016 | Yes | [Yes](http://barcelona.nodeconf.com/code-conduct.html) |
 | [Front End Design Conference](http://frontenddesignconference.com/) | St. Petersburg, Florida | April 19 - 21, 2017 | February 1, 2017 | No | [Yes](http://frontenddesignconference.com/terms.php) |
 | [React Amsterdam](https://react.amsterdam/) | Amsterdam, The Netherlands |  April 13, 2018 | January 15, 2018 | Yes | [Yes](http://confcodeofconduct.com/) |
@@ -61,38 +62,38 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 
 | Conference | Location | Date | Submission Deadline | Flight / Hotel? | CoC? |
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
-| [CSSConf EU](http://cssconf.eu) | Berlin, Germany | May 5, 2017 | January 10, 2017 | Yes | [Yes](https://2017.cssconf.eu/code-of-conduct/) |
-| [JSConf EU](http://jsconf.eu) | Berlin, Germany | May 6 - 7, 2017 | January 1, 2017 | Yes | [Yes](http://2017.jsconf.eu/code-of-conduct) |
+| [NDC Minnesota](https://ndcminnesota.com/) | St. Paul, Minnesota | May 7 - 10, 2018 | January 15, 2018 | Yes | [Yes](https://ndcminnesota.com/page/code-of-conduct) |
 | [O'Reilly OSCON Austin](http://conferences.oreilly.com/oscon/oscon-tx) | Austin, Texas | May 10 - 11, 2017 | October 25, 2016 | Yes | [Yes](http://oreilly.com/conferences/code-of-conduct.html) |
-| [JS Day](https://jsday.it) | Verona, Italy | May 10 - 11, 2017 | January 31, 2017 | Yes | [Yes](https://2017.jsday.it/coc.html) |
-| [Syntax Code & Craft Convention](https://2017.syntaxcon.com/) | Charleston, South Carolina | May 11 - 12, 2017 | December 2, 2016 | Yes | [Yes](https://2017.syntaxcon.com/about/code-of-conduct/) |
-| [ReactEurope](https://www.react-europe.org/) | Paris, France | May 18 - 19, 2017 | January 8, 2017 | Yes | [Yes](http://confcodeofconduct.com/) |
+| [JS Day](https://jsday.it) | Verona, Italy | May 9 - 10, 2017 | January 31, 2017 | Yes | [Yes](https://2017.jsday.it/coc.html) |
+| [Syntax Code & Craft Convention](https://2018.syntaxcon.com/) | Charleston, South Carolina | June 6 - 8, 2018 | December 31, 2017 | Yes | [Yes](https://2017.syntaxcon.com/about/code-of-conduct/) |
+| [ReactEurope](https://www.react-europe.org/) | Paris, France | May 15 - 18, 2018 | TBD | Yes | [Yes](http://confcodeofconduct.com/) |
 | [DEVit Web Conference](http://devitconf.org/) | Thessaloniki, Greece | May 20 - 21, 2017 | January 31, 2017 | Yes | [Yes](http://devitconf.org/code-of-conduct) |
 | [Front-Trends](http://front-trends.com) | Warsaw, Poland | May 24 - 25, 2018 | Rolling | Yes | [Yes](https://2017.front-trends.com/code-of-conduct/) |
-| [Frontend United](http://frontendunited.org/) | Athens, Greece | May 26 - 27, 2017 | Rolling | Ask | [Yes](http://2016.frontendunited.org/code-of-conduct) |
 | [Angular Cruise](https://ngcruise.com/) | Miami, Florida | May 29 - June 2, 2017 | January 15, 2017 | No | [Yes](https://ngcruise.com/#/conduct) |
+| [DevSum](http://www.devsum.se/) | Stockholm, Sweden |  May 31 - June 1, 2018 | December 31, 2017 | No | Unspecified |
+| [Frontend United](http://frontendunited.org/) | Utrecht, Netherlands | May 31 - June 3, 2018 | TBD | Ask | [Yes](http://2016.frontendunited.org/code-of-conduct) |
 
 ### June
 
 | Conference | Location | Date | Submission Deadline | Flight / Hotel? | CoC? |
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
+| [CSSConf EU](http://cssconf.eu) | Berlin, Germany | June 1, 2017 | JTBD | Yes | [Yes](https://2017.cssconf.eu/code-of-conduct/) |
 | [RevolutionConf](https://revolutionconf.com/) | Virginia Beach, Virginia | June 1 - 2, 2017 | January 31, 2017 | Maybe / Yes | [Yes](https://revolutionconf.com/code-of-conduct) |
-| [Web Rebels](https://webrebels.org/) | Oslo, Norway | June 1 - 2, 2017 | January 29, 2017 | Yes | [Yes](https://webrebels.org/about#coc) |
 | [200OK](http://200ok.us/) | Tulsa, Oklahoma | June 2, 2017 | April 10, 2017 | Yes | [Yes](https://www.techlahoma.org/code-of-conduct/) |
+| [JSConf EU](http://jsconf.eu) | Berlin, Germany | June 2 - 3, 2018 | TBD | Yes | [Yes](http://2017.jsconf.eu/code-of-conduct) |
 | [Music City Code](https://www.musiccitycode.com/) | Nashville, Tennessee | June 2 - 3, 2017 | March 1, 2017 | Maybe | [Yes](https://www.musiccitycode.com/p/code-of-conduct-3) |
 | [Prairie Dev Con](http://www.prairiedevcon.com/) | Winnipeg, Canada | June 6 - 7, 2017 | February 24, 2017 | Yes (North America) | [Yes](http://www.prairiedevcon.com/CodeOfConduct) |
 | [UX Burlington](http://uxburlington.com/) | Burlington, Vermont | June 8-9, 2017 | March 15, 2017 | Ask | [Yes](http://uxburlington.com/conduct/) |
-| [DevSum](http://www.devsum.se/) | Stockholm, Sweden |  June 8 - 9, 2017 | December 2, 2016 | No | Unspecified |
-| [NDC Oslo](http://ndcoslo.com/) | Oslo, Norway | June 12 - 16, 2017 | February 15, 2017 | Yes | [Yes](http://ndcoslo.com/page/code-of-conduct) |
-| [Converge SE](http://convergese.com/) | Columbia, South Carolina | June 14 - 16, 2017 | February 1, 2017 | Unknown | Unspecified |
+| [O'Reilly Fluent](http://conferences.oreilly.com/fluent/fl-ca) | San Jose, California | June 11 - 14, 2018 | December 8, 2017 | Yes | [Yes](http://oreilly.com/conferences/code-of-conduct.html) |
+| [NDC Oslo](http://ndcoslo.com/) | Oslo, Norway | June 11 - 15, 2018 | TBD | Yes | [Yes](http://ndcoslo.com/page/code-of-conduct) |
+| [Converge SE](http://convergese.com/) | Columbia, South Carolina | June 13 - 15, 2017 | TBD | Unknown | Unspecified |
 | [Dinosaurjs](https://dinosaurjs.org/) | Denver, Colorado | June 15, 2017 | March 15, 2017 | Yes | [Yes](http://jsconf.com/codeofconduct.html) |
-| [O'Reilly Fluent](http://conferences.oreilly.com/fluent/fl-ca) | San Jose, California | June 19 - 22, 2017 | January 12, 2017 | Yes | [Yes](http://oreilly.com/conferences/code-of-conduct.html) |
 
 ### July
 
 | Conference | Location | Date | Submission Deadline | Flight / Hotel? | CoC? |
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
-| [Chain React](https://infinite.red/ChainReactConf) | Portland, Oregon | July 10 - 11, 2017 | February 17, 2017 | Yes | Unspecified |
+| [Chain React](https://infinite.red/ChainReactConf) | Portland, Oregon | July 11 - 13, 2018 | TBD | Yes | Unspecified |
 | [FullStack](https://skillsmatter.com/conferences/8264-fullstack-2017-the-conference-on-javascript-node-and-internet-of-things) | London, United Kingdom | July 12 - 14, 2017 | March 29, 2017 | Case-by-case basis | [Yes](https://skillsmatter.com/go/code-of-conduct) |
 | [JSConf China](http://2017.jsconf.cn/en/) | Shanghai, China | July 15 - 16, 2017 | May 20, 2017 | Yes | [Yes](http://2017.jsconf.cn/en/code-of-conduct/) |
 | [Coder Cruise](https://www.codercruise.com/) | New Orleans, Louisiana | July 16 - 23, 2017 | January 6, 2017 | No | [Yes](https://www.codercruise.com/code-of-conduct) |
@@ -104,7 +105,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | Conference | Location | Date | Submission Deadline | Flight / Hotel? | CoC? |
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
 | [Kansas City Developer Conference](http://www.kcdc.info/) | Kansas City, Missouri | August 3-4, 2017 | March 5, 2017 | Yes | [Yes](http://www.kcdc.info/code) |
-| [NDC Sydney](http://ndcsydney.com/) | Sydney, Australia | August 14 - 18, 2017 | April 15, 2017 | Yes | [Yes](http://ndcsydney.com/page/code-of-conduct) |
+| [NDC Sydney](http://ndcsydney.com/) | Sydney, Australia | August 17 - 21, 2018 | TBD | Yes | [Yes](http://ndcsydney.com/page/code-of-conduct) |
 | [Midwest JS](http://midwestjs.com/) | Minneapolis, Minnesota | August 16 - 18, 2017 | March 6, 2017 | Yes | Yes |
 | [React Rally](http://www.reactrally.com/) | Salt Lake City, Utah | August 24 - 25, 2017 | April 16, 2017 | Yes | [Yes](http://www.reactrally.com/conduct) |
 | [BrazilJS](https://braziljs.org/conf/) | Porto Alegre, Brazil | August 25 - 26, 2017 | May 31, 2017 | Yes | [Yes](https://braziljs.org/coc) |
