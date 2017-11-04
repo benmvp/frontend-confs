@@ -27,20 +27,24 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | Conference | Location | Date | Submission Deadline | Flight / Hotel? | CoC? |
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
 | [DNN Summit](http://www.dnnsummit.org/) | Denver, Colorado | February 6 - 10, 2018 | August 15, 2017 | $200 stipend | Yes |
+| [Forward JS](https://forwardjs.com/) | San Francisco, California | February 11 - 16, 2018 | TBD | No | [Yes](http://confcodeofconduct.com) |
 | [DeveloperWeek SF JavaScript Conference](http://www.developerweek.com/javascript-conference/) | San Francisco, California | February 13 - 14, 2017 | November 22, 2016 | No | [Yes](http://confcodeofconduct.com/) |
+| [Front Fest](http://frontfest.es/) | Madrid, Spain | February 17, 2018 | November 19, 2017 | Unknown | [Yes](http://frontfest.es/codigo-conducta.html) |
 | [DevNexus](https://devnexus.com/) | Atlanta, Georgia | February 21 - 23, 2018 | October 30, 2017 | Case-by-case basis | [Yes](https://devnexus.com/code-of-conduct) |
+| [Assert(js)](https://www.assertjs.com/) | San Antonio, Texas | February 22, 2018 | TBD | Yes | [Yes](https://www.assertjs.com/code-of-conduct) |
 
 ### March
 
 | Conference | Location | Date | Submission Deadline | Flight / Hotel? | CoC? |
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
-| [Forward JS](https://forwardjs.com/) | San Francisco, California | March 1, 2017 | November 15, 2016 | No | [Yes](http://confcodeofconduct.com) |
 | [JSConf Iceland](https://2018.jsconf.is/) | Reykjavik, Iceland | March 1 - 2, 2018 | October 31, 2017 | Yes | [Yes](http://confcodeofconduct.com/) |
 | [.concat()](https://conc.at/) | Salzburg, Austria | March 3, 2018 | December 1, 2017 | Yes | [Yes](https://conc.at/#coc) |
 | [ConFoo Montreal](https://confoo.ca/en/) | Montreal, Canada | March 7 - 9, 2018 | September 22, 2017 | Yes | [Yes](https://confoo.ca/en/code-of-conduct) |
 | [EmberConf](http://emberconf.com/) | Portland, Oregon | March 12 - 14, 2018 | November 21, 2017 | $500 honorarium + $500 budget | [Yes](http://emberconf.com/about.html#code-of-conduct) |
 | [React Conf](http://conf.reactjs.org/) | Santa Clara, California | March 13 - 14, 2017 | January 3, 2017 | No | [Yes](http://conf.reactjs.org/code-of-conduct) |
 | [EmberConf](http://emberconf.com/) | Portland, Oregon | March 13 - 14, 2018 | November 21, 2017 | $500 honorarium | [Yes](http://emberconf.com/about.html#code-of-conduct) |
+| [CSSConf AU](https://2018.cssconf.com.au/) | Melbourne, Australia | March 20, 2018 | December 1, 2017 | Yes | [Yes](https://2018.cssconf.com.au/code-of-conduct) |
+| [JSConf AU](https://2018.jsconfau.com/) | Melbourne, Australia | March 21 - 22, 2018 | December 1, 2017 | Yes | [Yes](https://2018.jsconfau.com/code-of-conduct) |
 | [JazzCon.Tech](http://jazzcon.tech/) | New Orleans, Louisiana | March 21 - 23, 2018 | December 31, 2017 | Yes | [Yes](http://jazzcon.tech/#inline-content) |
 | [Render](http://render-conf.com/) | Oxford, United Kingdom | March 23, 2017 | TBD | Yes (plus £250 honorarium) | [Yes](http://2017.render-conf.com/code-of-conduct) |
 | [JSUnconf](http://jsunconf.eu/) | Hamburg, Germany | March 25 - 26, 2017 | Rolling | Yes | [Yes](http://2017.jsunconf.eu/coc/) |
