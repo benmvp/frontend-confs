@@ -74,7 +74,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [O'Reilly OSCON Austin](http://conferences.oreilly.com/oscon/oscon-tx) | Austin, Texas | May 10 - 11, 2017 | October 25, 2016 | Yes | [Yes](http://oreilly.com/conferences/code-of-conduct.html) |
 | [JS Day Italy](https://jsday.it) | Verona, Italy | May 9 - 10, 2018 | January 31, 2018 | Yes | [Yes](https://2017.jsday.it/coc.html) |
 | [Syntax Code & Craft Convention](https://2018.syntaxcon.com/) | Charleston, South Carolina | June 6 - 8, 2018 | December 31, 2017 | Yes | [Yes](https://2017.syntaxcon.com/about/code-of-conduct/) |
-| [ReactEurope](https://www.react-europe.org/) | Paris, France | May 15 - 18, 2018 | TBD | Yes | [Yes](http://confcodeofconduct.com/) |
+| [ReactEurope](https://www.react-europe.org/) | Paris, France | May 15 - 18, 2018 | January 21, 2018 | Yes | [Yes](http://confcodeofconduct.com/) |
 | [DEVit Web Conference](http://devitconf.org/) | Thessaloniki, Greece | May 20 - 21, 2017 | January 31, 2017 | Yes | [Yes](http://devitconf.org/code-of-conduct) |
 | [Front-Trends](http://front-trends.com) | Warsaw, Poland | May 24 - 25, 2018 | Rolling | Yes | [Yes](https://2017.front-trends.com/code-of-conduct/) |
 | [Angular Cruise](https://ngcruise.com/) | Miami, Florida | May 29 - June 2, 2017 | January 15, 2017 | No | [Yes](https://ngcruise.com/#/conduct) |
