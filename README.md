@@ -85,17 +85,19 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 
 | Conference | Location | Date | Submission Deadline | Flight / Hotel? | CoC? |
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
-| [CSSConf EU](http://cssconf.eu) | Berlin, Germany | June 1, 2017 | JTBD | Yes | [Yes](https://2017.cssconf.eu/code-of-conduct/) |
+| [CSSConf EU](http://cssconf.eu) | Berlin, Germany | June 1, 2017 | January 1, 2018 | Yes | [Yes](https://2017.cssconf.eu/code-of-conduct/) |
 | [RevolutionConf](https://revolutionconf.com/) | Virginia Beach, Virginia | June 1 - 2, 2017 | January 31, 2017 | Maybe / Yes | [Yes](https://revolutionconf.com/code-of-conduct) |
 | [200OK](http://200ok.us/) | Tulsa, Oklahoma | June 2, 2017 | April 10, 2017 | Yes | [Yes](https://www.techlahoma.org/code-of-conduct/) |
-| [JSConf EU](http://jsconf.eu) | Berlin, Germany | June 2 - 3, 2018 | TBD | Yes | [Yes](http://2017.jsconf.eu/code-of-conduct) |
+| [JSConf EU](http://jsconf.eu) | Berlin, Germany | June 2 - 3, 2018 | January 1, 2018 | Yes | [Yes](http://2017.jsconf.eu/code-of-conduct) |
 | [Music City Code](https://www.musiccitycode.com/) | Nashville, Tennessee | June 2 - 3, 2017 | March 1, 2017 | Maybe | [Yes](https://www.musiccitycode.com/p/code-of-conduct-3) |
 | [Prairie Dev Con](http://www.prairiedevcon.com/) | Winnipeg, Canada | June 6 - 7, 2017 | February 24, 2017 | Yes (North America) | [Yes](http://www.prairiedevcon.com/CodeOfConduct) |
 | [UX Burlington](http://uxburlington.com/) | Burlington, Vermont | June 8-9, 2017 | March 15, 2017 | Ask | [Yes](http://uxburlington.com/conduct/) |
 | [O'Reilly Fluent](http://conferences.oreilly.com/fluent/fl-ca) | San Jose, California | June 11 - 14, 2018 | December 8, 2017 | Yes | [Yes](http://oreilly.com/conferences/code-of-conduct.html) |
-| [NDC Oslo](http://ndcoslo.com/) | Oslo, Norway | June 11 - 15, 2018 | TBD | Yes | [Yes](http://ndcoslo.com/page/code-of-conduct) |
-| [Converge SE](http://convergese.com/) | Columbia, South Carolina | June 13 - 15, 2017 | TBD | Unknown | Unspecified |
+| [NDC Oslo](http://ndcoslo.com/) | Oslo, Norway | June 11 - 15, 2018 | February 18, 2018 | Yes | [Yes](http://ndcoslo.com/page/code-of-conduct) |
+| [Converge SE](http://convergese.com/) | Columbia, South Carolina | June 13 - 15, 2018 | TBD | Unknown | Unspecified |
 | [Dinosaurjs](https://dinosaurjs.org/) | Denver, Colorado | June 15, 2017 | March 15, 2017 | Yes | [Yes](http://jsconf.com/codeofconduct.html) |
+| [ScotlandCSS](http://scotlandcss.com/) | Edinburgh, Scotland | June 18, 2018 | March 1, 2018 | Yes | [Yes](http://scotlandcss.com/codeofconduct) |
+| [ScotlandJS](http://scotlandjs.com/) | Edinburgh, Scotland | June 19 - 20, 2018 | March 1, 2018 | Yes | [Yes](http://scotlandjs.com/codeofconduct) |
 
 ### July
 
