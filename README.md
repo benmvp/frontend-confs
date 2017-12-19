@@ -131,7 +131,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [React Native EU](https://react-native.eu/) | Wrocław, Poland | September 4 - 7, 2017 | July 2, 2017 | Yes | [Yes](http://confcodeofconduct.com/) |
 | [Full Stack Fest](http://fullstackfest.com) | Barcelona, Spain | September 4 - 8, 2017 | May 15, 2017 | Yes | Yes |
 | [Nordic.js](http://nordicjs.com/) | Stockholm, Sweden | September 7 - 8, 2017 | Rolling | Yes | Yes |
-| [Refresh Conference](http://refresh.rocks/) | Tallinn, Estonia | September 9, 2018 | February 15, 2018 | Yes | [Yes](http://refresh.rocks/code-of-conduct) |
+| [Refresh Conference](http://refresh.rocks/) | Tallinn, Estonia | September 7, 2018 | February 15, 2018 | Yes | [Yes](http://refresh.rocks/code-of-conduct) |
 | [ReactNext](http://react-next.com/) | Tel Aviv, Israel | September 10, 2017 | July 5, 2017 | Yes | [Yes](http://confcodeofconduct.com/) |
 | [Connect.Tech](http://connect.tech/) | Atlanta, Georgia | September 20 - 22, 2017 | April 30, 2017 | Case-by-case basis | [Yes](http://connect.tech/conduct.html) |
 | [React Boston](http://www.reactboston.com/) | Boston, Massachusetts | September 23 - 24, 2017 | July 31, 2017 | Yes | [Yes](http://connect.tech/conduct.html) |
