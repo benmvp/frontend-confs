@@ -42,6 +42,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [ngVikings](https://ngvikings.org/) | Helsinki, Finland | March 1 - 2, 2018 | December 10, 2017 | Yes | Unspecified |
 | [.concat()](https://conc.at/) | Salzburg, Austria | March 3, 2018 | December 1, 2017 | Yes | [Yes](https://conc.at/#coc) |
 | [ConFoo Montreal](https://confoo.ca/en/) | Montreal, Canada | March 7 - 9, 2018 | September 22, 2017 | Yes | [Yes](https://confoo.ca/en/code-of-conduct) |
+| [ReactFest](https://reactfest.com/) | London, United Kingdom | March 9, 2018 | January 15, 2017 | Yes | Unspecified |
 | [EmberConf](http://emberconf.com/) | Portland, Oregon | March 12 - 14, 2018 | November 21, 2017 | $500 honorarium + $500 budget | [Yes](http://emberconf.com/about.html#code-of-conduct) |
 | [React Conf](http://conf.reactjs.org/) | Santa Clara, California | March 13 - 14, 2017 | January 3, 2017 | No | [Yes](http://conf.reactjs.org/code-of-conduct) |
 | [EmberConf](http://emberconf.com/) | Portland, Oregon | March 13 - 14, 2018 | November 21, 2017 | $500 honorarium | [Yes](http://emberconf.com/about.html#code-of-conduct) |
@@ -76,6 +77,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [JS Day Italy](https://jsday.it) | Verona, Italy | May 9 - 10, 2018 | January 31, 2018 | Yes | [Yes](https://2017.jsday.it/coc.html) |
 | [Syntax Code & Craft Convention](https://2018.syntaxcon.com/) | Charleston, South Carolina | June 6 - 8, 2018 | December 31, 2017 | Yes | [Yes](https://2017.syntaxcon.com/about/code-of-conduct/) |
 | [ReactEurope](https://www.react-europe.org/) | Paris, France | May 15 - 18, 2018 | January 21, 2018 | Yes | [Yes](http://confcodeofconduct.com/) |
+| [HolyJS Piter](https://holyjs-piter.ru/en/) | Piter, Russia | May 19 - 20, 2018 | January 31, 2018 | No | [Yes](https://holyjs-piter.ru/en/codeofconduct/) |
 | [DEVit Web Conference](http://devitconf.org/) | Thessaloniki, Greece | May 20 - 21, 2017 | January 31, 2017 | Yes | [Yes](http://devitconf.org/code-of-conduct) |
 | [Front-Trends](http://front-trends.com) | Warsaw, Poland | May 24 - 25, 2018 | Rolling | Yes | [Yes](https://2017.front-trends.com/code-of-conduct/) |
 | [Angular Cruise](https://ngcruise.com/) | Miami, Florida | May 29 - June 2, 2017 | January 15, 2017 | No | [Yes](https://ngcruise.com/#/conduct) |
@@ -178,3 +180,4 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
 | [dotJS](https://2017.dotjs.io/) | Paris, France | December 1, 2017 | Rolling | Yes | Unspecified |
 | [ConFoo Vancouver](https://confoo.ca/en/) | Vancouver, Canada | December 4 - 6, 2017 | May 8, 2017 | Yes | [Yes](https://confoo.ca/en/code-of-conduct) |
+| [HolyJS Moscow](https://holyjs-moscow.ru/en/) | Moscow, Russia | December 10 - 11, 2018 | September 15, 2017 | No | [Yes](https://holyjs-moscow.ru/en/codeofconduct/) |
