@@ -41,7 +41,6 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [.concat()](https://conc.at/) | Salzburg, Austria | March 3, 2018 | December 1, 2017 | Yes | [Yes](https://conc.at/#coc) |
 | [ConFoo Montreal](https://confoo.ca/en/) | Montreal, Canada | March 7 - 9, 2018 | September 22, 2017 | Yes | [Yes](https://confoo.ca/en/code-of-conduct) |
 | [ReactFest](https://reactfest.com/) | London, United Kingdom | March 9, 2018 | January 15, 2017 | Yes | Unspecified |
-| [EmberConf](http://emberconf.com/) | Portland, Oregon | March 12 - 14, 2018 | November 21, 2017 | $500 honorarium + $500 budget | [Yes](http://emberconf.com/about.html#code-of-conduct) |
 | [EmberConf](http://emberconf.com/) | Portland, Oregon | March 13 - 14, 2018 | November 21, 2017 | $500 honorarium | [Yes](http://emberconf.com/about.html#code-of-conduct) |
 | [UpFront Conf](http://upfrontconf.com/) | Manchester, United Kingdom | March 16, 2018 | December 22, 2017 | Yes | [Yes](http://upfrontconf.com/code-of-conduct) |
 | [CSSConf AU](https://2018.cssconf.com.au/) | Melbourne, Australia | March 20, 2018 | December 1, 2017 | Yes | [Yes](https://2018.cssconf.com.au/code-of-conduct) |
@@ -84,7 +83,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 
 | Conference | Location | Date | Submission Deadline | Flight / Hotel? | CoC? |
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
-| [CSSConf EU](http://cssconf.eu) | Berlin, Germany | June 1, 2017 | January 1, 2018 | Yes | [Yes](https://2017.cssconf.eu/code-of-conduct/) |
+| [CSSConf EU](http://cssconf.eu) | Berlin, Germany | June 1, 2018 | January 1, 2018 | Yes | [Yes](https://2017.cssconf.eu/code-of-conduct/) |
 | [RevolutionConf](https://revolutionconf.com/) | Virginia Beach, Virginia | June 1 - 2, 2017 | January 31, 2017 | Maybe / Yes | [Yes](https://revolutionconf.com/code-of-conduct) |
 | [200OK](http://200ok.us/) | Tulsa, Oklahoma | June 2, 2017 | April 10, 2017 | Yes | [Yes](https://www.techlahoma.org/code-of-conduct/) |
 | [JSConf EU](http://jsconf.eu) | Berlin, Germany | June 2 - 3, 2018 | January 1, 2018 | Yes | [Yes](http://2017.jsconf.eu/code-of-conduct) |
