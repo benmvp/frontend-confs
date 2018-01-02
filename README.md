@@ -115,7 +115,6 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | Conference | Location | Date | Submission Deadline | Flight / Hotel? | CoC? |
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
 | [Kansas City Developer Conference](http://www.kcdc.info/) | Kansas City, Missouri | August 3-4, 2017 | March 5, 2017 | Yes | [Yes](http://www.kcdc.info/code) |
-| [NDC Sydney](http://ndcsydney.com/) | Sydney, Australia | August 17 - 21, 2018 | TBD | Yes | [Yes](http://ndcsydney.com/page/code-of-conduct) |
 | [Midwest JS](http://midwestjs.com/) | Minneapolis, Minnesota | August 16 - 18, 2017 | March 6, 2017 | Yes | Yes |
 | [React Rally](http://www.reactrally.com/) | Salt Lake City, Utah | August 16 - 17, 2018 | TBD | Yes | [Yes](http://www.reactrally.com/conduct) |
 | [BrazilJS](https://braziljs.org/conf/) | Porto Alegre, Brazil | August 25 - 26, 2017 | May 31, 2017 | Yes | [Yes](https://braziljs.org/coc) |
@@ -132,6 +131,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [Nordic.js](http://nordicjs.com/) | Stockholm, Sweden | September 7 - 8, 2017 | Rolling | Yes | Yes |
 | [Refresh Conference](http://refresh.rocks/) | Tallinn, Estonia | September 7, 2018 | February 15, 2018 | Yes | [Yes](http://refresh.rocks/code-of-conduct) |
 | [ReactNext](http://react-next.com/) | Tel Aviv, Israel | September 10, 2017 | July 5, 2017 | Yes | [Yes](http://confcodeofconduct.com/) |
+| [NDC Sydney](http://ndcsydney.com/) | Sydney, Australia | September 17 - 21, 2018 | TBD | Yes | [Yes](http://ndcsydney.com/page/code-of-conduct) |
 | [Connect.Tech](http://connect.tech/) | Atlanta, Georgia | September 20 - 22, 2017 | April 30, 2017 | Case-by-case basis | [Yes](http://connect.tech/conduct.html) |
 | [React Boston](http://www.reactboston.com/) | Boston, Massachusetts | September 23 - 24, 2017 | July 31, 2017 | Yes | [Yes](http://connect.tech/conduct.html) |
 | [Strange Loop](https://thestrangeloop.com/) | St. Louis, Missouri | September 28 - 30, 2017 | May 8, 2017 | Yes | [Yes](https://www.thestrangeloop.com/policies.html) |
