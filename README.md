@@ -69,6 +69,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 
 | Conference | Location | Date | Submission Deadline | Flight / Hotel? | CoC? |
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
+| [Stir Trek](https://stirtrek.com/) | Columbus, OH | May 4, 2018 | February 3, 2018 | TBD | [Yes](https://stirtrek.com/Home/CodeOfConduct) |
 | [NDC Minnesota](https://ndcminnesota.com/) | St. Paul, Minnesota | May 7 - 10, 2018 | January 15, 2018 | Yes | [Yes](https://ndcminnesota.com/page/code-of-conduct) |
 | [JS Day Italy](https://jsday.it) | Verona, Italy | May 9 - 10, 2018 | January 31, 2018 | Yes | [Yes](https://2017.jsday.it/coc.html) |
 | [Syntax Code & Craft Convention](https://2018.syntaxcon.com/) | Charleston, South Carolina | June 6 - 8, 2018 | December 31, 2017 | Yes | [Yes](https://2017.syntaxcon.com/about/code-of-conduct/) |
