@@ -78,7 +78,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [Front-Trends](http://front-trends.com) | Warsaw, Poland | May 24 - 25, 2018 | Rolling | Yes | [Yes](https://2017.front-trends.com/code-of-conduct/) |
 | [Angular Cruise](https://ngcruise.com/) | Miami, Florida | May 29 - June 2, 2017 | January 15, 2017 | No | [Yes](https://ngcruise.com/#/conduct) |
 | [DevSum](http://www.devsum.se/) | Stockholm, Sweden |  May 31 - June 1, 2018 | December 31, 2017 | No | Unspecified |
-| [Frontend United](http://frontendunited.org/) | Utrecht, Netherlands | May 31 - June 3, 2018 | TBD | Ask | [Yes](http://2016.frontendunited.org/code-of-conduct) |
+| [Frontend United](http://frontendunited.org/) | Utrecht, Netherlands | May 31 - June 3, 2018 | TBD | Ask | [Yes](https://www.frontendunited.org/code-of-conduct) |
 
 ### June
 
