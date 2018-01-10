@@ -78,6 +78,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [Front-Trends](http://front-trends.com) | Warsaw, Poland | May 24 - 25, 2018 | Rolling | Yes | [Yes](https://2017.front-trends.com/code-of-conduct/) |
 | [Angular Cruise](https://ngcruise.com/) | Miami, Florida | May 29 - June 2, 2017 | January 15, 2017 | No | [Yes](https://ngcruise.com/#/conduct) |
 | [DevSum](http://www.devsum.se/) | Stockholm, Sweden |  May 31 - June 1, 2018 | December 31, 2017 | No | Unspecified |
+| [Music City Tech](http://www.musiccitytech.com/) | Nashville, Tennessee | May 31 - June 2, 2018 | March 1, 2018 | Maybe | [Yes](https://www.musiccitycode.com/p/code-of-conduct-3) |
 | [Frontend United](http://frontendunited.org/) | Utrecht, Netherlands | May 31 - June 3, 2018 | TBD | Ask | [Yes](https://www.frontendunited.org/code-of-conduct) |
 
 ### June
@@ -88,7 +89,6 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [RevolutionConf](https://revolutionconf.com/) | Virginia Beach, Virginia | June 1 - 2, 2017 | January 31, 2017 | Maybe / Yes | [Yes](https://revolutionconf.com/code-of-conduct) |
 | [200OK](http://200ok.us/) | Tulsa, Oklahoma | June 2, 2017 | April 10, 2017 | Yes | [Yes](https://www.techlahoma.org/code-of-conduct/) |
 | [JSConf EU](http://jsconf.eu) | Berlin, Germany | June 2 - 3, 2018 | January 1, 2018 | Yes | [Yes](http://2017.jsconf.eu/code-of-conduct) |
-| [Music City Code](https://www.musiccitycode.com/) | Nashville, Tennessee | June 2 - 3, 2017 | March 1, 2017 | Maybe | [Yes](https://www.musiccitycode.com/p/code-of-conduct-3) |
 | [Prairie Dev Con](http://www.prairiedevcon.com/) | Winnipeg, Canada | June 6 - 7, 2017 | February 24, 2017 | Yes (North America) | [Yes](http://www.prairiedevcon.com/CodeOfConduct) |
 | [UX Burlington](http://uxburlington.com/) | Burlington, Vermont | June 8 - 9, 2017 | March 15, 2017 | Ask | [Yes](http://uxburlington.com/conduct/) |
 | [DEVit Web Conference](http://devitconf.org/) | Thessaloniki, Greece | June 9, 2018 | TBD | Yes | [Yes](http://devitconf.org/code-of-conduct) |
