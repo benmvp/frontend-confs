@@ -74,6 +74,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [JS Day Italy](https://jsday.it) | Verona, Italy | May 9 - 10, 2018 | January 31, 2018 | Yes | [Yes](https://2017.jsday.it/coc.html) |
 | [Syntax Code & Craft Convention](https://2018.syntaxcon.com/) | Charleston, South Carolina | June 6 - 8, 2018 | December 31, 2017 | Yes | [Yes](https://2017.syntaxcon.com/about/code-of-conduct/) |
 | [ReactEurope](https://www.react-europe.org/) | Paris, France | May 15 - 18, 2018 | January 21, 2018 | Yes | [Yes](http://confcodeofconduct.com/) |
+| [RevolutionConf](https://revolutionconf.com/) | Virginia Beach, Virginia | May 17 - 18, 2017 | February 11, 2018 | Maybe / Yes | [Yes](https://revolutionconf.com/code-of-conduct) |
 | [HolyJS Piter](https://holyjs-piter.ru/en/) | Piter, Russia | May 19 - 20, 2018 | January 31, 2018 | No | [Yes](https://holyjs-piter.ru/en/codeofconduct/) |
 | [Front-Trends](http://front-trends.com) | Warsaw, Poland | May 24 - 25, 2018 | Rolling | Yes | [Yes](https://2017.front-trends.com/code-of-conduct/) |
 | [Angular Cruise](https://ngcruise.com/) | Miami, Florida | May 29 - June 2, 2017 | January 15, 2017 | No | [Yes](https://ngcruise.com/#/conduct) |
@@ -86,7 +87,6 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | Conference | Location | Date | Submission Deadline | Flight / Hotel? | CoC? |
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
 | [CSSConf EU](http://cssconf.eu) | Berlin, Germany | June 1, 2018 | January 1, 2018 | Yes | [Yes](https://2017.cssconf.eu/code-of-conduct/) |
-| [RevolutionConf](https://revolutionconf.com/) | Virginia Beach, Virginia | June 1 - 2, 2017 | January 31, 2017 | Maybe / Yes | [Yes](https://revolutionconf.com/code-of-conduct) |
 | [200OK](http://200ok.us/) | Tulsa, Oklahoma | June 2, 2017 | April 10, 2017 | Yes | [Yes](https://www.techlahoma.org/code-of-conduct/) |
 | [JSConf EU](http://jsconf.eu) | Berlin, Germany | June 2 - 3, 2018 | January 1, 2018 | Yes | [Yes](http://2017.jsconf.eu/code-of-conduct) |
 | [Prairie Dev Con](http://www.prairiedevcon.com/) | Winnipeg, Canada | June 6 - 7, 2017 | February 24, 2017 | Yes (North America) | [Yes](http://www.prairiedevcon.com/CodeOfConduct) |
