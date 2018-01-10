@@ -166,7 +166,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [NodeConfEU](http://www.nodeconf.eu/) | Kilkenny, Ireland | November 5 - 8, 2017 | June 30, 2017 | Yes | [Yes](http://www.nodeconf.eu/code-of-conduct.html) |
 | [AngularConnect](http://angularconnect.com/) | London, United Kingdom | November 7 - 8, 2017 |  May 31, 2017 | Yes | [Yes](http://angularconnect.com/2017/code-of-conduct/) |
 | [DeveloperWeek Austin JavaScript Conference](http://www.developerweek.com/Austin/) | Austin, Texas | November 7 - 9, 2017 |  September 13, 2017 | No | [Yes](http://confcodeofconduct.com/) |
-| [ffconf](https://ffconf.org) | Brighton, United Kingdom | November 9 -10, 2017 |  Unknown | Yes | [Yes](https://ffconf.org/code-of-conduct) |
+| [ffconf](https://ffconf.org) | Brighton, United Kingdom | November 8 - 9, 2018 |  Unknown | Yes | [Yes](https://ffconf.org/code-of-conduct) |
 | [JS Kongress](https://js-kongress.de/) | Munich, Germany | November 13 - 14, 2017 |  June 18, 2017 | Yes | [Yes](https://js-kongress.de/code-of-conduct/) |
 | [Nodevember](http://nodevember.org/) | Nashville, Tennessee | November 27 - 28, 2017 | August 31, 2016 | Yes | [Yes](http://nodevember.org/conduct.html) |
 | [dotCSS](https://2017.dotcss.io/) | Paris, France | November 30, 2017 | Rolling | Yes | Unspecified |
