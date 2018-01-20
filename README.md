@@ -92,7 +92,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [NDC Oslo](http://ndcoslo.com/) | Oslo, Norway | June 11 - 15, 2018 | February 18, 2018 | Yes | [Yes](http://ndcoslo.com/page/code-of-conduct) |
 | [Converge SE](http://convergese.com/) | Columbia, South Carolina | June 13 - 15, 2018 | TBD | Unknown | Unspecified |
 | [BuzzJS](http://buzzjs.com/) | New York City, New York | June 15, 2018 | February 15, 2018 | No | [Yes](http://confcodeofconduct.com/) |
-| [Dinosaurjs](https://dinosaurjs.org/) | Denver, Colorado | June 21-22, 2018 | Rolling | Yes | [Yes](http://jsconf.com/codeofconduct.html) |
+| [Dinosaurjs](https://dinosaurjs.org/) | Denver, Colorado | June 21-22, 2018 | March 15, 2018 | Yes | [Yes](http://jsconf.com/codeofconduct.html) |
 | [ScotlandCSS](http://scotlandcss.com/) | Edinburgh, Scotland | June 18, 2018 | March 1, 2018 | Yes | [Yes](http://scotlandcss.com/codeofconduct) |
 | [ScotlandJS](http://scotlandjs.com/) | Edinburgh, Scotland | June 19 - 20, 2018 | March 1, 2018 | Yes | [Yes](http://scotlandjs.com/codeofconduct) |
 
