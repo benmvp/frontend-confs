@@ -102,7 +102,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
 | [Chain React](https://infinite.red/ChainReactConf) | Portland, Oregon | July 11 - 13, 2018 | February 28, 2018 | Yes | Unspecified |
 | [Kansas City Developer Conference](http://www.kcdc.info/) | Kansas City, Missouri | July 11-13, 2018 | February 28, 2018 | Yes | [Yes](http://www.kcdc.info/code) |
-| [FullStack](https://skillsmatter.com/conferences/9815-fullstack-2018-the-conference-on-javascript-node-and-internet-of-things) | London, United Kingdom | July 11 - 13, 2018 | TBD | Case-by-case basis | [Yes](https://skillsmatter.com/go/code-of-conduct) |
+| [FullStack](https://skillsmatter.com/conferences/9815-fullstack-2018-the-conference-on-javascript-node-and-internet-of-things) | London, United Kingdom | July 11 - 13, 2018 | February 16, 2018 | Case-by-case basis | [Yes](https://skillsmatter.com/go/code-of-conduct) |
 | [JSConf China](http://2017.jsconf.cn/en/) | Shanghai, China | July 15 - 16, 2017 | May 20, 2017 | Yes | [Yes](http://2017.jsconf.cn/en/code-of-conduct/) |
 | [Coder Cruise](https://www.codercruise.com/) | New Orleans, Louisiana | July 16 - 23, 2017 | January 6, 2017 | No | [Yes](https://www.codercruise.com/code-of-conduct) |
 | [NodeSummit](http://nodesummit.com/) | San Francisco, California |  July 23 - 25, 2018 | Rolling | No | [Yes](http://nodesummit.com/node-summit-code-of-conduct/) |
@@ -115,8 +115,8 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [Midwest JS](http://midwestjs.com/) | Minneapolis, Minnesota | August 16 - 18, 2017 | March 6, 2017 | Yes | Yes |
 | [React Rally](http://www.reactrally.com/) | Salt Lake City, Utah | August 16 - 17, 2018 | TBD | Yes | [Yes](http://www.reactrally.com/conduct) |
 | [BrazilJS](https://braziljs.org/conf/) | Porto Alegre, Brazil | August 25 - 26, 2017 | May 31, 2017 | Yes | [Yes](https://braziljs.org/coc) |
-| [Web Summer Camp](http://websummercamp.com/) | Rovinj, Croatia | August 30 - September 2, 2017 | March 31, 2017 | Yes | Unspecified |
-| [Frontend Conference Zurich](https://frontendconf.ch/) | Zurich, Switzerland | August 31 - September 1, 2017 | April 30, 2017 | Yes | [Yes](https://frontendconf.ch/about/#code-of-conduct) |
+| [Web Summer Camp](http://websummercamp.com/) | Rovinj, Croatia | August 29 - September 1, 2018 | TBD | Yes | [Yes](http://2018.websummercamp.com/code-of-conduct) |
+| [Frontend Conference Zurich](https://frontendconf.ch/) | Zurich, Switzerland | August 30 - Agust 31, 2018 | April 30, 2018 | Yes | [Yes](https://frontendconf.ch/about/#code-of-conduct) |
 
 ### September
 
