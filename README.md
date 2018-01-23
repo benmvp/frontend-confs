@@ -83,6 +83,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 
 | Conference | Location | Date | Submission Deadline | Flight / Hotel? | CoC? |
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
+| [Amsterdam JSNation](http://amsterdamjs.com) | Amsterdam, The Netherlands | June 1, 2018 | March 1, 2018 | Yes | [Yes](https://http://confcodeofconduct.com/) |
 | [CSSConf EU](http://cssconf.eu) | Berlin, Germany | June 1, 2018 | January 1, 2018 | Yes | [Yes](https://2017.cssconf.eu/code-of-conduct/) |
 | [JSConf EU](http://jsconf.eu) | Berlin, Germany | June 2 - 3, 2018 | January 1, 2018 | Yes | [Yes](http://2017.jsconf.eu/code-of-conduct) |
 | [Prairie Dev Con](http://www.prairiedevcon.com/) | Winnipeg, Canada | June 6 - 7, 2017 | February 24, 2017 | Yes (North America) | [Yes](http://www.prairiedevcon.com/CodeOfConduct) |
