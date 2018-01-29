@@ -144,7 +144,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 
 | Conference | Location | Date | Submission Deadline | Flight / Hotel? | CoC? |
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
-| [ReactJSDay](http://www.reactjsday.it) | Verona, Italy | October 6, 2017 | August 28, 2017 | 1 hotel night | Unspecified |
+| [ReactJS Day](http://www.reactjsday.it) | Verona, Italy | October 5, 2018 | July 16, 2018 | 1 or 2 hotel nights | Unspecified |
 | [React Conf Brasil](http://reactconfbr.com.br/) | Sao Paulo, Brazil | October 7, 2017 | August 31, 2017 | Yes | Yes |
 | [CSS Dev Conf](http://cssdevconf.com) | New Orleans, Louisiana | October 9 - 11, 2017 | March 27, 2017 | Yes | [Yes](http://cssdevconf.com/#anti-harrassment-policy) |
 | [EmberFest](https://emberfest.eu/) | Berlin, Germany | October 12 - 13, 2017 | August 31, 2017 | No | [Yes](https://emberfest.eu/code-of-conduct/) |
