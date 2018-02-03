@@ -69,7 +69,6 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [Stir Trek](https://stirtrek.com/) | Columbus, OH | May 4, 2018 | February 3, 2018 | TBD | [Yes](https://stirtrek.com/Home/CodeOfConduct) |
 | [NDC Minnesota](https://ndcminnesota.com/) | St. Paul, Minnesota | May 7 - 10, 2018 | January 15, 2018 | Yes | [Yes](https://ndcminnesota.com/page/code-of-conduct) |
 | [JS Day Italy](https://jsday.it) | Verona, Italy | May 9 - 10, 2018 | January 31, 2018 | Yes | [Yes](https://2017.jsday.it/coc.html) |
-| [Syntax Code & Craft Convention](https://2018.syntaxcon.com/) | Charleston, South Carolina | June 6 - 8, 2018 | December 31, 2017 | Yes | [Yes](https://2017.syntaxcon.com/about/code-of-conduct/) |
 | [ReactEurope](https://www.react-europe.org/) | Paris, France | May 15 - 18, 2018 | January 21, 2018 | Yes | [Yes](http://confcodeofconduct.com/) |
 | [RevolutionConf](https://revolutionconf.com/) | Virginia Beach, Virginia | May 17 - 18, 2018 | February 11, 2018 | Maybe / Yes | [Yes](https://revolutionconf.com/code-of-conduct) |
 | [200OK](http://200ok.us/) | Tulsa, Oklahoma | May 18, 2018 | February 5, 2018 | Yes | [Yes](https://www.techlahoma.org/code-of-conduct/) |
@@ -88,9 +87,10 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [CSSConf EU](http://cssconf.eu) | Berlin, Germany | June 1, 2018 | January 1, 2018 | Yes | [Yes](https://2017.cssconf.eu/code-of-conduct/) |
 | [Amsterdam JS](http://amsterdamjs.com) | Amsterdam, The Netherlands | June 1, 2018 | March 1, 2018 | Yes | [Yes](https://http://confcodeofconduct.com/) |
 | [JSConf EU](http://jsconf.eu) | Berlin, Germany | June 2 - 3, 2018 | January 1, 2018 | Yes | [Yes](http://2017.jsconf.eu/code-of-conduct) |
-| [Prairie Dev Con](http://www.prairiedevcon.com/) | Winnipeg, Canada | June 6 - 7, 2017 | February 24, 2017 | Yes (North America) | [Yes](http://www.prairiedevcon.com/CodeOfConduct) |
+| [Prairie Dev Con](http://www.prairiedevcon.com/) | Winnipeg, Canada | June 5 - 6, 2018 | February 16, 2018 | Yes (North America) | [Yes](http://www.prairiedevcon.com/CodeOfConduct) |
+| [Syntax Code & Craft Convention](https://2018.syntaxcon.com/) | Charleston, South Carolina | June 6 - 8, 2018 | December 31, 2017 | Yes | [Yes](https://2017.syntaxcon.com/about/code-of-conduct/) |
 | [UX Burlington](http://uxburlington.com/) | Burlington, Vermont | June 8 - 9, 2017 | March 15, 2017 | Ask | [Yes](http://uxburlington.com/conduct/) |
-| [DEVit Web Conference](http://devitconf.org/) | Thessaloniki, Greece | June 9, 2018 | TBD | Yes | [Yes](http://devitconf.org/code-of-conduct) |
+| [DEVit Web Conference](http://devitconf.org/) | Thessaloniki, Greece | June 9, 2018 | February 26, 2018 | Yes | [Yes](http://devitconf.org/code-of-conduct) |
 | [O'Reilly Fluent](http://conferences.oreilly.com/fluent/fl-ca) | San Jose, California | June 11 - 14, 2018 | December 8, 2017 | Yes | [Yes](http://oreilly.com/conferences/code-of-conduct.html) |
 | [NDC Oslo](http://ndcoslo.com/) | Oslo, Norway | June 11 - 15, 2018 | February 18, 2018 | Yes | [Yes](http://ndcoslo.com/page/code-of-conduct) |
 | [Converge SE](http://convergese.com/) | Columbia, South Carolina | June 13 - 15, 2018 | TBD | Unknown | Unspecified |
@@ -106,7 +106,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | Conference | Location | Date | Submission Deadline | Flight / Hotel? | CoC? |
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
 | [Chain React](https://infinite.red/ChainReactConf) | Portland, Oregon | July 11 - 13, 2018 | February 28, 2018 | Yes | Unspecified |
-| [Kansas City Developer Conference](http://www.kcdc.info/) | Kansas City, Missouri | July 11-13, 2018 | February 28, 2018 | Yes | [Yes](http://www.kcdc.info/code) |
+| [Kansas City Developer Conference](http://www.kcdc.info/) | Kansas City, Missouri | July 11-13, 2018 | February 28, 2018 | Hotel-only | [Yes](http://www.kcdc.info/code) |
 | [FullStack](https://skillsmatter.com/conferences/9815-fullstack-2018-the-conference-on-javascript-node-and-internet-of-things) | London, United Kingdom | July 11 - 13, 2018 | February 16, 2018 | Case-by-case basis | [Yes](https://skillsmatter.com/go/code-of-conduct) |
 | [JSConf China](http://2017.jsconf.cn/en/) | Shanghai, China | July 15 - 16, 2017 | May 20, 2017 | Yes | [Yes](http://2017.jsconf.cn/en/code-of-conduct/) |
 | [Coder Cruise](https://www.codercruise.com/) | New Orleans, Louisiana | July 16 - 23, 2017 | January 6, 2017 | No | [Yes](https://www.codercruise.com/code-of-conduct) |
