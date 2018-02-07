@@ -121,7 +121,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [Midwest JS](http://midwestjs.com/) | Minneapolis, Minnesota | August 16 - 18, 2017 | March 6, 2017 | Yes | Yes |
 | [React Rally](http://www.reactrally.com/) | Salt Lake City, Utah | August 16 - 17, 2018 | TBD | Yes | [Yes](http://www.reactrally.com/conduct) |
 | [BrazilJS](https://braziljs.org/conf/) | Porto Alegre, Brazil | August 25 - 26, 2017 | May 31, 2017 | Yes | [Yes](https://braziljs.org/coc) |
-| [Web Summer Camp](http://websummercamp.com/) | Rovinj, Croatia | August 29 - September 1, 2018 | TBD | Yes | [Yes](http://2018.websummercamp.com/code-of-conduct) |
+| [Web Summer Camp](http://websummercamp.com/) | Rovinj, Croatia | August 29 - September 1, 2018 | March 31, 2018 | Yes | [Yes](http://2018.websummercamp.com/code-of-conduct) |
 | [Frontend Conference Zurich](https://frontendconf.ch/) | Zurich, Switzerland | August 30 - Agust 31, 2018 | April 30, 2018 | Yes | [Yes](https://frontendconf.ch/about/#code-of-conduct) |
 
 ### September
