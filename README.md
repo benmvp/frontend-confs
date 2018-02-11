@@ -95,11 +95,11 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [NDC Oslo](http://ndcoslo.com/) | Oslo, Norway | June 11 - 15, 2018 | February 18, 2018 | Yes | [Yes](http://ndcoslo.com/page/code-of-conduct) |
 | [Converge SE](http://convergese.com/) | Columbia, South Carolina | June 13 - 15, 2018 | TBD | Unknown | Unspecified |
 | [BuzzJS](http://buzzjs.com/) | New York City, New York | June 15, 2018 | February 15, 2018 | No | [Yes](http://confcodeofconduct.com/) |
+| [ScotlandCSS](http://scotlandcss.com/) | Edinburgh, Scotland | June 18, 2018 | March 1, 2018 | Yes | [Yes](http://scotlandcss.com/codeofconduct) |
+| [ScotlandJS](http://scotlandjs.com/) | Edinburgh, Scotland | June 19 - 20, 2018 | March 1, 2018 | Yes | [Yes](http://scotlandjs.com/codeofconduct) |
 | [enterJS](https://www.enterjs.de/) | Darmstadt, Germany | June 19 - 21, 2018 | January 14, 2018 | Yes | [Yes](https://www.enterjs.de/diversity#code-of-conduct) |
 | [AngularUP](http://angular-up.com/) | Tel Aviv, Israel | June 21, 2018 | April 10, 2018 | Unspecified | [Yes](http://angular-up.com/cod/) |
 | [Dinosaurjs](https://dinosaurjs.org/) | Denver, Colorado | June 21 - 22, 2018 | March 15, 2018 | Yes | [Yes](http://jsconf.com/codeofconduct.html) |
-| [ScotlandCSS](http://scotlandcss.com/) | Edinburgh, Scotland | June 18, 2018 | March 1, 2018 | Yes | [Yes](http://scotlandcss.com/codeofconduct) |
-| [ScotlandJS](http://scotlandjs.com/) | Edinburgh, Scotland | June 19 - 20, 2018 | March 1, 2018 | Yes | [Yes](http://scotlandjs.com/codeofconduct) |
 
 ### July
 
@@ -119,7 +119,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
 | [Web Directions Code](http://www.webdirections.org/code/) | Melbourne, Australia | August 1 - 2, 2018 | April 27, 2018 | Yes | [Yes](http://www.webdirections.org/web-directions-event-code-of-conduct/) |
 | [Midwest JS](http://midwestjs.com/) | Minneapolis, Minnesota | August 16 - 18, 2017 | March 6, 2017 | Yes | Yes |
-| [React Rally](http://www.reactrally.com/) | Salt Lake City, Utah | August 16 - 17, 2018 | TBD | Yes | [Yes](http://www.reactrally.com/conduct) |
+| [React Rally](http://www.reactrally.com/) | Salt Lake City, Utah | August 16 - 17, 2018 | April 1, 2018 | Yes | [Yes](http://www.reactrally.com/conduct) |
 | [BrazilJS](https://braziljs.org/conf/) | Porto Alegre, Brazil | August 25 - 26, 2017 | May 31, 2017 | Yes | [Yes](https://braziljs.org/coc) |
 | [Web Summer Camp](http://websummercamp.com/) | Rovinj, Croatia | August 29 - September 1, 2018 | March 31, 2018 | Yes | [Yes](http://2018.websummercamp.com/code-of-conduct) |
 | [Frontend Conference Zurich](https://frontendconf.ch/) | Zurich, Switzerland | August 30 - Agust 31, 2018 | April 30, 2018 | Yes | [Yes](https://frontendconf.ch/about/#code-of-conduct) |
