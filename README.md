@@ -48,6 +48,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [JazzCon.Tech](http://jazzcon.tech/) | New Orleans, Louisiana | March 21 - 23, 2018 | December 31, 2017 | Yes | [Yes](http://jazzcon.tech/#inline-content) |
 | [Render](http://render-conf.com/) | Oxford, United Kingdom | March 23, 2018 | January 8, 2018 | Yes (plus £250 honorarium) | [Yes](http://2018.render-conf.com/code-of-conduct) |
 | [VueConf US](http://www.vueconf.us/) | New Orleans, Louisiana | March 26 - 28, 2018 | December 4, 2017 | Yes | [Yes](http://www.vueconf.us/codeofconduct) |
+| [#PerfMatters US](https://perfmattersconf.com/) | Redwood City, California | March 27 - 28, 2018 | October 1, 2017 | Yes | [Yes](https://perfmattersconf.com/code/) |
 
 ### April
 
