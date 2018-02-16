@@ -88,6 +88,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [CSSConf EU](http://cssconf.eu) | Berlin, Germany | June 1, 2018 | January 1, 2018 | Yes | [Yes](https://2017.cssconf.eu/code-of-conduct/) |
 | [Amsterdam JS](http://amsterdamjs.com) | Amsterdam, The Netherlands | June 1, 2018 | March 1, 2018 | Yes | [Yes](https://http://confcodeofconduct.com/) |
 | [JSConf EU](http://jsconf.eu) | Berlin, Germany | June 2 - 3, 2018 | January 1, 2018 | Yes | [Yes](http://2017.jsconf.eu/code-of-conduct) |
+| [Web Rebels](https://webrebels.org/) | Oslo, Norway | June 4 - 5, 2018 | February 25, 2018 | Yes | Yes |
 | [Prairie Dev Con](http://www.prairiedevcon.com/) | Winnipeg, Canada | June 5 - 6, 2018 | February 16, 2018 | Yes (North America) | [Yes](http://www.prairiedevcon.com/CodeOfConduct) |
 | [Syntax Code & Craft Convention](https://2018.syntaxcon.com/) | Charleston, South Carolina | June 6 - 8, 2018 | December 31, 2017 | Yes | [Yes](https://2017.syntaxcon.com/about/code-of-conduct/) |
 | [UX Burlington](http://uxburlington.com/) | Burlington, Vermont | June 8 - 9, 2017 | March 15, 2017 | Ask | [Yes](http://uxburlington.com/conduct/) |
@@ -153,6 +154,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [dev up](http://www.devupconf.org/) | St. Louis, Missouri | October 16 - 18, 2017 | July 31, 2017 | Hotel | Yes |
 | [BuzzJS](http://buzzjs.com/) | West Palm Beach, Florida | October 19 - 20 27, 2017 | August 15, 2017 | No | [Yes](http://confcodeofconduct.com/) |
 | [Hackference](http://hackference.co.uk) | Birmingham, United Kingdom | October 20, 2017 | May 2, 2017 |Yes | [Yes](http://hackference.co.uk/code-of-conduct.html) |
+| [Trondheim Developer Conference](https://2018.trondheimdc.no/) | Trondheim, Norway | October 22, 2018 | TBD | Unknown | [Yes](https://2018.trondheimdc.no/#conduct) |
 | [Full Stack Toronto](https://fsto.co/) | Toronto, Canada | October 23 - 24, 2017 | June 30, 2017 | Yes | [Yes](https://fsto.co/code-of-conduct) |
 | [All Things Open](https://allthingsopen.org/) | Raleigh, North Carolina | October 23 - 24, 2017 | March 28, 2017 | No | [Yes](https://allthingsopen.org/code-of-conduct/) |
 | [JSConf Budapest](http://jsconfbp.com/) | Budapest, Hungary | October 26 - 27, 2017 | April 30, 2017 | Yes | [Yes](http://jsconfbp.com/code-of-conduct) |
