@@ -135,7 +135,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [Full Stack Fest](http://fullstackfest.com/) | Barcelona, Spain | September 3 - 7, 2018 | May 12, 2018 | Yes | [Yes](http://fullstackfest.com/code-of-conduct) |
 | [React Native EU](https://react-native.eu/) | Wrocław, Poland | September 5 - 6, 2018 | June 31, 2018 | Yes | [Yes](http://confcodeofconduct.com/) |
 | [ReactNext](http://react-next.com/) | Tel Aviv, Israel | September 6, 2018 | July 1, 2018 | Yes | [Yes](http://confcodeofconduct.com/) |
-| [Nordic.js](http://nordicjs.com/) | Stockholm, Sweden | September 6 - 7, 2018 | Rolling | Yes | Yes |
+| [Nordic.js](http://nordicjs.com/) | Stockholm, Sweden | September 6 - 7, 2018 | March 31, 2018 | Yes | Yes |
 | [Refresh Conference](http://refresh.rocks/) | Tallinn, Estonia | September 7, 2018 | February 15, 2018 | Yes | [Yes](http://refresh.rocks/code-of-conduct) |
 | [NDC Sydney](http://ndcsydney.com/) | Sydney, Australia | September 17 - 21, 2018 | May 15, 2018 | Yes | [Yes](http://ndcsydney.com/page/code-of-conduct) |
 | [Connect.Tech](http://connect.tech/) | Atlanta, Georgia | September 20 - 22, 2017 | April 30, 2017 | Case-by-case basis | [Yes](http://connect.tech/conduct.html) |
