@@ -107,6 +107,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 
 | Conference | Location | Date | Submission Deadline | Flight / Hotel? | CoC? |
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
+| [OdessaJS](http://odessajs.org) | Odessa, Ukraine | July 6 - 8, 2018 | TBD | Case-by-case basis | [Yes](http://odessajs.org/Code_of_Conduct.pdf) |
 | [Chain React](https://infinite.red/ChainReactConf) | Portland, Oregon | July 11 - 13, 2018 | February 28, 2018 | Yes | Unspecified |
 | [Kansas City Developer Conference](http://www.kcdc.info/) | Kansas City, Missouri | July 11-13, 2018 | February 28, 2018 | Hotel-only | [Yes](http://www.kcdc.info/code) |
 | [FullStack](https://skillsmatter.com/conferences/9815-fullstack-2018-the-conference-on-javascript-node-and-internet-of-things) | London, United Kingdom | July 11 - 13, 2018 | February 16, 2018 | Case-by-case basis | [Yes](https://skillsmatter.com/go/code-of-conduct) |
