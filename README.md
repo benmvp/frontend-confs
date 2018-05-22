@@ -95,7 +95,6 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [DEVit Web Conference](http://devitconf.org/) | Thessaloniki, Greece | June 9, 2018 | February 26, 2018 | Yes | [Yes](http://devitconf.org/code-of-conduct) |
 | [O'Reilly Fluent](http://conferences.oreilly.com/fluent/fl-ca) | San Jose, California | June 11 - 14, 2018 | December 8, 2017 | Yes | [Yes](http://oreilly.com/conferences/code-of-conduct.html) |
 | [NDC Oslo](http://ndcoslo.com/) | Oslo, Norway | June 11 - 15, 2018 | February 18, 2018 | Yes | [Yes](http://ndcoslo.com/page/code-of-conduct) |
-| [Converge SE](http://convergese.com/) | Columbia, South Carolina | August 8 - 10, 2018 | TBD | Unknown | Unspecified |
 | [BuzzJS](http://buzzjs.com/) | New York City, New York | June 15, 2018 | February 15, 2018 | No | [Yes](http://confcodeofconduct.com/) |
 | [ScotlandCSS](http://scotlandcss.com/) | Edinburgh, Scotland | June 18, 2018 | March 1, 2018 | Yes | [Yes](http://scotlandcss.com/codeofconduct) |
 | [ScotlandJS](http://scotlandjs.com/) | Edinburgh, Scotland | June 19 - 20, 2018 | March 1, 2018 | Yes | [Yes](http://scotlandjs.com/codeofconduct) |
@@ -121,6 +120,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | Conference | Location | Date | Submission Deadline | Flight / Hotel? | CoC? |
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
 | [Web Directions Code](http://www.webdirections.org/code/) | Melbourne, Australia | August 1 - 2, 2018 | April 27, 2018 | Yes | [Yes](http://www.webdirections.org/web-directions-event-code-of-conduct/) |
+| [Converge SE](http://convergese.com/) | Columbia, South Carolina | August 8 - 10, 2018 | TBD | Unknown | Unspecified |
 | [Midwest JS](http://midwestjs.com/) | Minneapolis, Minnesota | August 16 - 18, 2017 | March 6, 2017 | Yes | Yes |
 | [React Rally](http://www.reactrally.com/) | Salt Lake City, Utah | August 16 - 17, 2018 | April 1, 2018 | Yes | [Yes](http://www.reactrally.com/conduct) |
 | [JSConf US](http://jsconf.us/) | Carlsbad, California | August 21 - 23, 2018 | May 1, 2018 | Yes | [Yes](http://jsconf.us/code-of-conduct/) |
