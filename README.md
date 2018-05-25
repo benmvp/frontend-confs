@@ -139,6 +139,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [Nordic.js](http://nordicjs.com/) | Stockholm, Sweden | September 6 - 7, 2018 | March 31, 2018 | Yes | Yes |
 | [Refresh Conference](http://refresh.rocks/) | Tallinn, Estonia | September 7, 2018 | February 15, 2018 | Yes | [Yes](http://refresh.rocks/code-of-conduct) |
 | [NDC Sydney](http://ndcsydney.com/) | Sydney, Australia | September 17 - 21, 2018 | May 15, 2018 | Yes | [Yes](http://ndcsydney.com/page/code-of-conduct) |
+| [Empire Conf](http://empireconf.org/) | New York, New York | September 20 - 21, 2018 | June 15, 2018 | Yes | [Yes](http://empireconf.org/#code-conduct) |
 | [Connect.Tech](http://connect.tech/) | Atlanta, Georgia | September 20 - 22, 2017 | April 30, 2017 | Case-by-case basis | [Yes](http://connect.tech/conduct.html) |
 | [React Boston](http://www.reactboston.com/) | Boston, Massachusetts | September 23 - 24, 2017 | July 31, 2017 | Yes | [Yes](http://connect.tech/conduct.html) |
 | [Strange Loop](https://thestrangeloop.com/) | St. Louis, Missouri | September 26 - 28, 2018 | May 13, 2018 | Yes | [Yes](https://www.thestrangeloop.com/policies.html) |
@@ -155,7 +156,6 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [JS Interactive](https://events.linuxfoundation.org/events/js-interactive-2018/) | Vancouver, Canada | October 10 - 12, 2018 | April 20, 2018 | Unknown | [Yes](https://events.linuxfoundation.org/events/js-interactive-2018/code-of-conduct/) |
 | [EmberFest](https://emberfest.eu/) | Amsterdam, The Netherlands | October 11 - 12, 2018 | TBD | No | [Yes](https://emberfest.eu/code-of-conduct/) |
 | [RuhrJS](https://ruhrjs.de/) | Bochum, Germany | October 13 - 14, 2018 | April 30, 2018 | Yes | [Yes](https://ruhrjs.de/coc) |
-| [Empire Conf](http://empireconf.org/) | New York, New York | October 12 - 13, 2017 | August 24, 2017 | Yes | [Yes](http://empireconf.org/#code-conduct) |
 | [dev up](http://www.devupconf.org/) | St. Louis, Missouri | October 16 - 18, 2017 | July 31, 2017 | Hotel | Yes |
 | [BuzzJS](http://buzzjs.com/) | West Palm Beach, Florida | October 19 - 20 27, 2017 | August 15, 2017 | No | [Yes](http://confcodeofconduct.com/) |
 | [Hackference](http://hackference.co.uk) | Birmingham, United Kingdom | October 20, 2017 | May 2, 2017 |Yes | [Yes](http://hackference.co.uk/code-of-conduct.html) |
