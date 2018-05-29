@@ -12,7 +12,14 @@ The goal of this repo is to list the conferences that have **frontend-related** 
 
 Additions/corrections are welcome! Please check out [Contributing Guidelines](CONTRIBUTING.md) for more details.
 
+## Archives
+
+- [2017](./archives/2017.md)
+- [2018](./archives/2018.md)
+
 ## Conferences
+
+For conferences that already happened this year, check the [2018 archive](./archives/2018.md)
 
 ### January
 
