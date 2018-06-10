@@ -145,6 +145,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [Refresh Conference](http://refresh.rocks/) | Tallinn, Estonia | September 7, 2018 | February 15, 2018 | Yes | [Yes](http://refresh.rocks/code-of-conduct) |
 | [NDC Sydney](http://ndcsydney.com/) | Sydney, Australia | September 17 - 21, 2018 | May 15, 2018 | Yes | [Yes](http://ndcsydney.com/page/code-of-conduct) |
 | [Empire Conf](http://empireconf.org/) | New York, New York | September 20 - 21, 2018 | June 15, 2018 | Yes | [Yes](http://empireconf.org/#code-conduct) |
+| [JSCamp 2018](https://chicagojs.org/) | Chicago, Illinois | September 22, 2018 | July 4, 2018 | No | [Yes](https://chicagojs.org/code-of-conduct) |
 | [React Boston](http://www.reactboston.com/) | Boston, Massachusetts | September 29 - 30, 2018 | June 30, 2018 | Yes | [Yes](http://confcodeofconduct.com/) |
 | [Strange Loop](https://thestrangeloop.com/) | St. Louis, Missouri | September 26 - 28, 2018 | May 13, 2018 | Yes | [Yes](https://www.thestrangeloop.com/policies.html) |
 | [React Alicante](http://reactalicante.es/) | Alicante, Spain | September 13 - 15, 2018 | February 28, 2018 | Yes | Unspecified |
