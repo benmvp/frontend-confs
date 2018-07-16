@@ -188,4 +188,4 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
 | [dotJS](https://2017.dotjs.io/) | Paris, France | December 1, 2017 | Rolling | Yes | Unspecified |
 | [HolyJS Moscow](https://holyjs-moscow.ru/en/) | Moscow, Russia | December 10 - 11, 2018 | September 15, 2017 | No | [Yes](https://holyjs-moscow.ru/en/codeofconduct/) |
-| [FRONTEND CON 2018](http://www.frontend-con.io/) | Warsaw, Poland | December 4 - 5, 2018 | July 23, 2018 | Yes | [Yes](http://confcodeofconduct.com/) |
+| [Frontend Con](http://www.frontend-con.io/) | Warsaw, Poland | December 4 - 5, 2018 | July 23, 2018 | Yes | [Yes](http://confcodeofconduct.com/) |
