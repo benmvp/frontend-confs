@@ -181,11 +181,11 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [ColdFront](https://2018.coldfront.co) | Copenhagen, Denmark | November 13 - 14, 2018 |  May 1, 2018 | Yes | [Yes](http://confcodeofconduct.com/) |
 | [JS Kongress](https://js-kongress.de/) | Munich, Germany | November 13 - 14, 2017 |  June 18, 2017 | Yes | [Yes](https://js-kongress.de/code-of-conduct/) |
 | [JSConf Colombia](https://jsconf.co/) | Medellin, Colombia | November 16 - 17, 2018 | TBD | Yes | [Yes](http://jsconf.com/codeofconduct.html) |
+| [HolyJS Moscow](https://holyjs-moscow.ru/en/) | Moscow, Russia | November 24 - 25, 2018 | September 15, 2018 | No | [Yes](https://holyjs-moscow.ru/en/codeofconduct/) |
 | [Full Stack Toronto](https://fsto.co/) | Toronto, Canada | November 29 - 30, 2018 | August 31, 2018 | Yes | [Yes](https://fsto.co/code-of-conduct) |
 
 ### December
 
 | Conference | Location | Date | Submission Deadline | Flight / Hotel? | CoC? |
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
-| [HolyJS Moscow](https://holyjs-moscow.ru/en/) | Moscow, Russia | December 10 - 11, 2018 | September 15, 2017 | No | [Yes](https://holyjs-moscow.ru/en/codeofconduct/) |
 | [Frontend Con](http://www.frontend-con.io/) | Warsaw, Poland | December 4 - 5, 2018 | July 23, 2018 | Yes | [Yes](http://confcodeofconduct.com/) |
