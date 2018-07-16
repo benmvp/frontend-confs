@@ -176,16 +176,16 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [AngularConnect](http://angularconnect.com/) | London, United Kingdom | November 6 - 7, 2018 |  June 11, 2018 | Yes | [Yes](http://angularconnect.com/2017/code-of-conduct/) |
 | [DeveloperWeek Austin JavaScript Conference](http://www.developerweek.com/Austin/) | Austin, Texas | November 6 - 7, 2018 |  August 6, 2018 | No | [Yes](http://confcodeofconduct.com/) |
 | [ffconf](https://ffconf.org) | Brighton, United Kingdom | November 8 - 9, 2018 |  Unknown | Yes | [Yes](https://ffconf.org/code-of-conduct) |
+| [dotCSS](https://www.dotcss.io/) | Paris, France | November 8, 2018 | Rolling | Yes | [Yes](https://www.dotcss.io/codeofconduct) |
+| [dotJS](https://www.dotjs.io/) | Paris, France | November 9, 2018 | Rolling | Yes | [Yes](https://www.dotjs.io/codeofconduct) |
 | [ColdFront](https://2018.coldfront.co) | Copenhagen, Denmark | November 13 - 14, 2018 |  May 1, 2018 | Yes | [Yes](http://confcodeofconduct.com/) |
 | [JS Kongress](https://js-kongress.de/) | Munich, Germany | November 13 - 14, 2017 |  June 18, 2017 | Yes | [Yes](https://js-kongress.de/code-of-conduct/) |
 | [JSConf Colombia](https://jsconf.co/) | Medellin, Colombia | November 16 - 17, 2018 | TBD | Yes | [Yes](http://jsconf.com/codeofconduct.html) |
 | [Full Stack Toronto](https://fsto.co/) | Toronto, Canada | November 29 - 30, 2018 | August 31, 2018 | Yes | [Yes](https://fsto.co/code-of-conduct) |
-| [dotCSS](https://2017.dotcss.io/) | Paris, France | November 30, 2017 | Rolling | Yes | Unspecified |
 
 ### December
 
 | Conference | Location | Date | Submission Deadline | Flight / Hotel? | CoC? |
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
-| [dotJS](https://2017.dotjs.io/) | Paris, France | December 1, 2017 | Rolling | Yes | Unspecified |
 | [HolyJS Moscow](https://holyjs-moscow.ru/en/) | Moscow, Russia | December 10 - 11, 2018 | September 15, 2017 | No | [Yes](https://holyjs-moscow.ru/en/codeofconduct/) |
 | [Frontend Con](http://www.frontend-con.io/) | Warsaw, Poland | December 4 - 5, 2018 | July 23, 2018 | Yes | [Yes](http://confcodeofconduct.com/) |
