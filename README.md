@@ -183,6 +183,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [JSConf Colombia](https://jsconf.co/) | Medellin, Colombia | November 16 - 17, 2018 | TBD | Yes | [Yes](http://jsconf.com/codeofconduct.html) |
 | [HolyJS Moscow](https://holyjs-moscow.ru/en/) | Moscow, Russia | November 24 - 25, 2018 | September 15, 2018 | No | [Yes](https://holyjs-moscow.ru/en/codeofconduct/) |
 | [Full Stack Toronto](https://fsto.co/) | Toronto, Canada | November 29 - 30, 2018 | August 31, 2018 | Yes | [Yes](https://fsto.co/code-of-conduct) |
+| [React Day Berlin](https://reactday.berlin/) | Berlin, Germany | November 30, 2018 | August 17, 2018 | Yes | [Yes](http://berlincodeofconduct.org) |
 
 ### December
 
