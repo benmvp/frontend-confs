@@ -36,6 +36,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [Forward JS](https://forwardjs.com/) | San Francisco, California | February 11 - 16, 2018 | TBD | No | [Yes](http://confcodeofconduct.com) |
 | [Front Fest](http://frontfest.es/) | Madrid, Spain | February 17, 2018 | November 19, 2017 | Unknown | [Yes](http://frontfest.es/codigo-conducta.html) |
 | [DevNexus](https://devnexus.com/) | Atlanta, Georgia | February 21 - 23, 2018 | October 30, 2017 | Case-by-case basis | [Yes](https://devnexus.com/code-of-conduct) |
+| [AgentConf](https://www.agent.sh/) | Dornbirn, Austria | February 21 - 24, 2019 | October 1, 2018 | Hotel + Ski | [Yes](https://www.agent.sh/coc) |
 | [Assert(js)](https://www.assertjs.com/) | San Antonio, Texas | February 22, 2018 | TBD | Yes | [Yes](https://www.assertjs.com/code-of-conduct) |
 
 ### March
