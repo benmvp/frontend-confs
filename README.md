@@ -79,13 +79,13 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [NDC Minnesota](https://ndcminnesota.com/) | St. Paul, Minnesota | May 7 - 10, 2018 | January 15, 2018 | Yes | [Yes](https://ndcminnesota.com/page/code-of-conduct) |
 | [JS Day Italy](https://jsday.it) | Verona, Italy | May 9 - 10, 2018 | January 31, 2018 | Yes | [Yes](https://2017.jsday.it/coc.html) |
 | [ReactEurope](https://www.react-europe.org/) | Paris, France | May 15 - 18, 2018 | January 21, 2018 | Yes | [Yes](http://confcodeofconduct.com/) |
+| [You Gotta Love Frontend](https://www.yougottalovefrontend.com) | Vilnius, Lithuania | May 16 - 17, 2019 | TBD | Yes | [Yes](https://www.yougottalovefrontend.com/code-of-conduct.html) |
 | [RevolutionConf](https://revolutionconf.com/) | Virginia Beach, Virginia | May 17 - 18, 2018 | February 11, 2018 | Maybe / Yes | [Yes](https://revolutionconf.com/code-of-conduct) |
 | [200OK](http://200ok.us/) | Tulsa, Oklahoma | May 18, 2018 | February 5, 2018 | Yes | [Yes](https://www.techlahoma.org/code-of-conduct/) |
 | [NationJS](http://nationjs.com/) | Washington, D.C. | May 18, 2018 | TBD | Yes | [Yes](http://www.nationjs.com/conduct) |
 | [JS Day ES](http://2018.jsday.es/) | Madrid, Spain | May 19, 2018 | January 31, 2018 | No | [Yes](http://jsday.es/code-of-conduct-en.html) |
 | [HolyJS Piter](https://holyjs-piter.ru/en/) | Piter, Russia | May 19 - 20, 2018 | January 31, 2018 | No | [Yes](https://holyjs-piter.ru/en/codeofconduct/) |
 | [Front-Trends](http://front-trends.com) | Warsaw, Poland | May 24 - 25, 2018 | Rolling | Yes | [Yes](https://2017.front-trends.com/code-of-conduct/) |
-| [You Gotta Love Frontend](http://yglf.com.ua/) | Kiev, Ukraine | May 24 - 25, 2018 | TBD | Yes | [Yes](http://yglf.com.ua/code-of-conduct) |
 | [DevSum](http://www.devsum.se/) | Stockholm, Sweden |  May 31 - June 1, 2018 | December 31, 2017 | No | Unspecified |
 | [Music City Tech](http://www.musiccitytech.com/) | Nashville, Tennessee | May 31 - June 2, 2018 | March 1, 2018 | Maybe | [Yes](https://www.musiccitycode.com/p/code-of-conduct-3) |
 | [Frontend United](http://frontendunited.org/) | Utrecht, Netherlands | May 31 - June 3, 2018 | TBD | Ask | [Yes](https://www.frontendunited.org/code-of-conduct) |
