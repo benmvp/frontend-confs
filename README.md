@@ -65,9 +65,9 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [ForwardJS Ottawa](https://forwardjs.com/ottawa) | Ottawa, Canada | April 3 - 6, 2018 | TBD | No | [Yes](http://confcodeofconduct.com/) |
 | [University of Illinois Web Conference](http://webcon.illinois.edu/) | Champaign, Illinois | April 4 - 8, 2018 | August 14, 2018 | No | [Yes](http://webcon.illinois.edu/code.pdf) |
 | [Frontend NE](https://2018.frontendne.co.uk/) | Newcastle Upon Tyne, United Kingdom | April 5, 2018 | December 6, 2017 | Yes | [Yes](https://2018.frontendne.co.uk/code-of-conduct.html) |
-| [ng-conf](https://www.ng-conf.org/) | Salt Lake City, Utah | April 18 - 20, 2018 | January 15, 2018 | Yes | [Yes](http://2017.ng-conf.org/wp-content/uploads/2017/03/Code-of-Conduct.pdf) |
+| [JSHeroes](https://jsheroes.io/) | Cluj-Napoca, Romania | April 11-12, 2019 | December 1, 2018 | Yes | [Yes](https://jsheroes.io/code-of-conduct) |
 | [React Amsterdam](https://react.amsterdam/) | Amsterdam, The Netherlands |  April 13, 2018 | January 15, 2018 | Yes | [Yes](http://confcodeofconduct.com/) |
-| [JSHeroes](https://jsheroes.io/) | Cluj Napoca, Romania |  April 18 - 20, 2018 | December 31, 2017 | Yes | [Yes](https://jsheroes.io/code-of-conduct) |
+| [ng-conf](https://www.ng-conf.org/) | Salt Lake City, Utah | April 18 - 20, 2018 | January 15, 2018 | Yes | [Yes](http://2017.ng-conf.org/wp-content/uploads/2017/03/Code-of-Conduct.pdf) |
 | [JSUnconf](http://jsunconf.eu/) | Hamburg, Germany | April 21 - 22, 2017 | Rolling | Yes | [Yes](http://2018.jsunconf.eu/coc/) |
 | [Active Ingredients](https://activeingredients.info) | San Francisco, California | April 28, 2017 | March 17, 2017 | No | Yes |
 
