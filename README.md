@@ -165,6 +165,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [Connect.Tech](http://connect.tech/) | Atlanta, Georgia | October 17 - 19, 2018 | May 20, 2018 | Case-by-case basis | [Yes](http://connect.tech/conduct.html) |
 | [All Things Open](https://allthingsopen.org/) | Raleigh, North Carolina | October 21 - 23, 2018 | April 24, 2017 | No | [Yes](https://allthingsopen.org/code-of-conduct/) |
 | [Trondheim Developer Conference](https://2018.trondheimdc.no/) | Trondheim, Norway | October 22, 2018 | TBD | Unknown | [Yes](https://2018.trondheimdc.no/#conduct) |
+| [JSFoo](https://jsfoo.in/2018/) | Bangalore, India | October 26 - 27, 2018 | June 2018 | [Honorarium](https://jsfoo.talkfunnel.com/2018/) | [Yes](https://jsfoo.in/code-of-conduct/) |
 | [ConFrontJS](https://confrontjs.com/) | Warsaw, Poland | October 29, 2018 | October 10, 2018 | Yes | [Yes](http://berlincodeofconduct.org) |
 
 ### November
