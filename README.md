@@ -25,7 +25,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | Conference | Location | Date | Submission Deadline | Flight / Hotel? | CoC? |
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
 | [CodeMash](http://www.codemash.org/) | Sandusky, Ohio | January 8 - 11, 2019 | August 31, 2018 | Hotel | [Yes](http://www.codemash.org/codemash-code-conduct/) |
-| [React Foo](https://reactfoo.in/) | Pune, India | January 10, 2019 | [October 15, 2018](https://jsfoo.talkfunnel.com/2019-pune/) | Yes | [Yes](https://reactfoo.in/code-of-conduct) |
+| [JSFoo](https://jsfoo.in/2019-pune/) | Pune, India | January 10, 2019 | [October 15, 2018](https://jsfoo.talkfunnel.com/2019-pune/) | Honorarium | [Yes](https://jsfoo.in/code-of-conduct/) |
 | [NDC London](http://ndc-london.com/) | London, United Kingdom | January 15 - 19, 2018 | October 1, 2017 | Yes | [Yes](http://ndc-london.com/page/code-of-conduct) |
 
 ### February
