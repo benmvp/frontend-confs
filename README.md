@@ -25,8 +25,8 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | Conference | Location | Date | Submission Deadline | Flight / Hotel? | CoC? |
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
 | [CodeMash](http://www.codemash.org/) | Sandusky, Ohio | January 8 - 11, 2019 | August 31, 2018 | Hotel | [Yes](http://www.codemash.org/codemash-code-conduct/) |
+| [JSFoo](https://jsfoo.in/2019-pune/) | Pune, India | January 10, 2019 | [October 15, 2018](https://jsfoo.talkfunnel.com/2019-pune/) | Honorarium | [Yes](https://jsfoo.in/code-of-conduct/) |
 | [NDC London](http://ndc-london.com/) | London, United Kingdom | January 15 - 19, 2018 | October 1, 2017 | Yes | [Yes](http://ndc-london.com/page/code-of-conduct) |
-| [React Foo](https://reactfoo.in/) | Pune, India | January 19 - 20, 2018 | December 10, 2017 | Yes | [Yes](https://reactfoo.in/code-of-conduct) |
 
 ### February
 
@@ -43,6 +43,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 
 | Conference | Location | Date | Submission Deadline | Flight / Hotel? | CoC? |
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
+| [ReactFoo](https://reactfoo.in/) | Bangalore, India | March 1 - 2, 2019 | [December 15, 2018](https://reactfoo.talkfunnel.com/2019/) | Honorarium | [Yes](https://reactfoo.in/code-of-conduct/) |
 | [JSConf Iceland](https://2018.jsconf.is/) | Reykjavik, Iceland | March 1 - 2, 2018 | October 31, 2017 | Yes | [Yes](http://confcodeofconduct.com/) |
 | [ngVikings](https://ngvikings.org/) | Helsinki, Finland | March 1 - 2, 2018 | December 10, 2017 | Yes | Unspecified |
 | [.concat()](https://conc.at/) | Salzburg, Austria | March 3, 2018 | December 1, 2017 | Yes | [Yes](https://conc.at/#coc) |
@@ -165,6 +166,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [Connect.Tech](http://connect.tech/) | Atlanta, Georgia | October 17 - 19, 2018 | May 20, 2018 | Case-by-case basis | [Yes](http://connect.tech/conduct.html) |
 | [All Things Open](https://allthingsopen.org/) | Raleigh, North Carolina | October 21 - 23, 2018 | April 24, 2017 | No | [Yes](https://allthingsopen.org/code-of-conduct/) |
 | [Trondheim Developer Conference](https://2018.trondheimdc.no/) | Trondheim, Norway | October 22, 2018 | TBD | Unknown | [Yes](https://2018.trondheimdc.no/#conduct) |
+| [JSFoo](https://jsfoo.in/) | Bangalore, India | October 26 - 27, 2018 | [June 2018](https://jsfoo.talkfunnel.com/2018/) | Honorarium | [Yes](https://jsfoo.in/code-of-conduct/) |
 | [ConFrontJS](https://confrontjs.com/) | Warsaw, Poland | October 29, 2018 | October 10, 2018 | Yes | [Yes](http://berlincodeofconduct.org) |
 
 ### November
