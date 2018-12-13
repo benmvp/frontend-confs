@@ -141,6 +141,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 
 | Conference | Location | Date | Submission Deadline | Flight / Hotel? | CoC? |
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
+| [ComponentsConf](https://www.componentsconf.com.au/) | Melbourne, Australia | September 6, 2019 | April 6, 2019 | Yes | [Yes](https://docs.google.com/document/d/1fPahPsxd73mB8Od84J9HBBpd1DcFuCOa6u9ZQ-hr2VU/edit?usp=sharing) |
 | [Full Stack Fest](http://fullstackfest.com/) | Barcelona, Spain | September 3 - 7, 2018 | May 12, 2018 | Yes | [Yes](http://fullstackfest.com/code-of-conduct) |
 | [React Native EU](https://react-native.eu/) | Wrocław, Poland | September 5 - 6, 2018 | June 31, 2018 | Yes | [Yes](http://confcodeofconduct.com/) |
 | [Nordic.js](http://nordicjs.com/) | Stockholm, Sweden | September 6 - 7, 2018 | March 31, 2018 | Yes | Yes |
