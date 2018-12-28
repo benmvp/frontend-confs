@@ -75,6 +75,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | Conference | Location | Date | Submission Deadline | Flight / Hotel? | CoC? |
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
 | [ng-conf](https://www.ng-conf.org/) | Salt Lake City, Utah | May 1 - 3, 2019 | January 15, 2019 | Yes | [Yes](https://www.ng-conf.org/wp-content/uploads/2018/04/COC.jpg) |
+| [CityJS Conf](https://cityjsconf.org/) | London, United Kingdom | May 3, 2019 | January 31, 2019 | Yes | [Yes](http://jsconf.com/codeofconduct.html) |
 | [NDC Minnesota](https://ndcminnesota.com/) | St. Paul, Minnesota | May 6 - 9, 2019 | January 15, 2019 | Yes | [Yes](https://ndcminnesota.com/page/code-of-conduct) |
 | [JS Day Italy](https://jsday.it) | Verona, Italy | May 8 - 9, 2019 | April 2, 2019 | Yes | [Yes](https://jsday.it/coc.html) |
 | [ReactEurope](https://www.react-europe.org/) | Paris, France | May 21 - 24, 2019 | January 10, 2019 | Yes | [Yes](http://confcodeofconduct.com/) |
@@ -88,14 +89,14 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [ngVikings](https://ngvikings.org/) | Helsinki, Finland | May 27 - 28, 2019 | January 31, 2018 | Yes | [Yes](https://ngvikings.org/cod/) |
 | [DevSum](http://www.devsum.se/) | Stockholm, Sweden |  May 23 - 24, 2019 | TBD | No | Unspecified |
 | [Frontend United](http://frontendunited.org/) | Utrecht, Netherlands | May 16 - 18, 2019 | TBD | Ask | [Yes](https://www.frontendunited.org/code-of-conduct) |
+| [CSSCONF EU](https://cssconf.eu) | Berlin, Germany | May 31, 2019 | December 30, 2018 | Yes | [Yes](https://2019.cssconf.eu/code-of-conduct/) |
 
 ### June
 
 | Conference | Location | Date | Submission Deadline | Flight / Hotel? | CoC? |
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
-| [CSSConf EU](http://cssconf.eu) | Berlin, Germany | June 1, 2018 | January 1, 2018 | Yes | [Yes](https://2017.cssconf.eu/code-of-conduct/) |
 | [Amsterdam JS](http://amsterdamjs.com) | Amsterdam, The Netherlands | June 1, 2018 | March 1, 2018 | Yes | [Yes](https://http://confcodeofconduct.com/) |
-| [JSConf EU](http://jsconf.eu) | Berlin, Germany | June 2 - 3, 2018 | January 1, 2018 | Yes | [Yes](http://2017.jsconf.eu/code-of-conduct) |
+| [JSConf EU](https://jsconf.eu) | Berlin, Germany | June 1 - 2, 2019 | December 30, 2018 | Yes | [Yes](https://jsconf.eu/code-of-conduct/) |
 | [Web Rebels](https://webrebels.org/) | Oslo, Norway | June 4 - 5, 2018 | February 25, 2018 | Yes | Yes |
 | [Prairie Dev Con](http://www.prairiedevcon.com/) | Winnipeg, Canada | June 5 - 6, 2018 | February 16, 2018 | Yes (North America) | [Yes](http://www.prairiedevcon.com/CodeOfConduct) |
 | [Syntax Code & Craft Convention](https://2018.syntaxcon.com/) | Charleston, South Carolina | June 6 - 8, 2018 | December 31, 2017 | Yes | [Yes](https://2017.syntaxcon.com/about/code-of-conduct/) |
