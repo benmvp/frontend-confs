@@ -86,7 +86,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [JS Day ES](http://2018.jsday.es/) | Madrid, Spain | May 19, 2018 | January 31, 2018 | No | [Yes](http://jsday.es/code-of-conduct-en.html) |
 | [HolyJS Piter](https://holyjs-piter.ru/en/) | Piter, Russia | May 24 - 25, 2019 | March 11, 2019 | No | [Yes](https://holyjs-piter.ru/en/codeofconduct/) |
 | [Front-Trends](http://front-trends.com) | Warsaw, Poland | May 24 - 25, 2018 | Rolling | Yes | [Yes](https://2017.front-trends.com/code-of-conduct/) |
-| [ngVikings](https://ngvikings.org/) | Helsinki, Finland | May 27 - 28, 2019 | January 31, 2018 | Yes | [Yes](https://ngvikings.org/cod/) |
+| [ngVikings](https://ngvikings.org/) | Copenhagen, Denmark | May 27 - 28, 2019 | January 31, 2018 | Yes | [Yes](https://ngvikings.org/cod/) |
 | [DevSum](http://www.devsum.se/) | Stockholm, Sweden |  May 23 - 24, 2019 | TBD | No | Unspecified |
 | [Frontend United](http://frontendunited.org/) | Utrecht, Netherlands | May 16 - 18, 2019 | TBD | Ask | [Yes](https://www.frontendunited.org/code-of-conduct) |
 | [CSSCONF EU](https://cssconf.eu) | Berlin, Germany | May 31, 2019 | December 30, 2018 | Yes | [Yes](https://2019.cssconf.eu/code-of-conduct/) |
