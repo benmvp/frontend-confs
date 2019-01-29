@@ -143,6 +143,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [Full Stack Fest](http://fullstackfest.com/) | Barcelona, Spain | September 3 - 7, 2018 | May 12, 2018 | Yes | [Yes](http://fullstackfest.com/code-of-conduct) |
 | [React Native EU](https://react-native.eu/) | Wrocław, Poland | September 5 - 6, 2018 | June 31, 2018 | Yes | [Yes](http://confcodeofconduct.com/) |
 | [Music City Tech](http://www.musiccitytech.com/) | Nashville, Tennessee | September 5 - 7, 2019 | TBD | Maybe | [Yes](https://www.musiccitycode.com/p/code-of-conduct-3) |
+| [ComponentsConf](https://www.componentsconf.com.au/) | Melbourne, Australia | September 6, 2019 | April 6, 2019 | Yes | [Yes](https://docs.google.com/document/d/1fPahPsxd73mB8Od84J9HBBpd1DcFuCOa6u9ZQ-hr2VU/edit?usp=sharing) |
 | [Nordic.js](http://nordicjs.com/) | Stockholm, Sweden | September 6 - 7, 2018 | March 31, 2018 | Yes | Yes |
 | [Refresh Conference](http://refresh.rocks/) | Tallinn, Estonia | September 7, 2018 | February 15, 2018 | Yes | [Yes](http://refresh.rocks/code-of-conduct) |
 | [NDC Sydney](http://ndcsydney.com/) | Sydney, Australia | September 17 - 21, 2018 | May 15, 2018 | Yes | [Yes](http://ndcsydney.com/page/code-of-conduct) |
