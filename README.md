@@ -54,6 +54,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [JazzCon.Tech](http://jazzcon.tech/) | New Orleans, Louisiana | March 21 - 23, 2018 | December 31, 2017 | Yes | [Yes](http://jazzcon.tech/#inline-content) |
 | [Render](http://render-conf.com/) | Oxford, United Kingdom | March 23, 2018 | January 8, 2018 | Yes (plus £250 honorarium) | [Yes](http://2018.render-conf.com/code-of-conduct) |
 | [VueConf US](http://www.vueconf.us/) | New Orleans, Louisiana | March 25 - 27, 2019 | November 1, 2018 | Yes | [Yes](http://www.vueconf.us/codeofconduct) |
+| [Typeof](https://typeofconf.com/) | Porto, Portugal | March 27 - 29, 2019 | February 27, 2019 | Yes | [Yes](https://typeofconf.com/code-of-conduct) |
 | [#PerfMatters US](https://perfmattersconf.com/) | Redwood City, California | April 2 - 3, 2019 | October 1, 2018 | Yes | [Yes](https://perfmattersconf.com/code/) |
 | [Reactathon](https://www.reactathon.com/) | San Francisco, California | March 30 - 31, 2019 | January 15, 2019 | Yes | Unspecified |
 | [CSS Dev Conf](https://css.w3ctech.com/?l=en) | XAmoy(Xiamen), China | March 31, 2018 | March 8, 2018 | Yes | Unspecified |
