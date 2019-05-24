@@ -197,4 +197,4 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 
 | Conference | Location | Date | Submission Deadline | Flight / Hotel? | CoC? |
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
-| [Frontend Con](http://www.frontend-con.io/) | Warsaw, Poland | December 4 - 5, 2018 | July 23, 2018 | Yes | [Yes](http://confcodeofconduct.com/) |
+| [#FRONTEND CON 2019](https://frontend-con.io/) | Warsaw, Poland | November 26 - 27, 2019 | June 5, 2019 | Yes | [Yes](https://frontend-con.io/code-of-conduct/) |
