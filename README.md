@@ -38,7 +38,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [DNN Summit](http://www.dnnsummit.org/) | Denver, Colorado | February 19 - 21, 2019 | September 22, 2018 | No | Yes |
 | [DevNexus](https://devnexus.com/) | Atlanta, Georgia | March 6 - 8, 2019 | October 15, 2018 | Case-by-case basis | [Yes](https://devnexus.com/code-of-conduct) |
 | [AgentConf](https://www.agent.sh/) | Dornbirn, Austria | February 21 - 24, 2019 | October 1, 2018 | Hotel + Ski | [Yes](https://www.agent.sh/coc) |
-| [Assert(js)](https://www.assertjs.com/) | San Antonio, Texas | February 22, 2018 | TBD | Yes | [Yes](https://www.assertjs.com/code-of-conduct) |
+| [ReactConf AU](https://reactconfau.com/) | Sydney, Australia | February 27 - 28, 2020 | [September 11, 2019](https://docs.google.com/forms/d/e/1FAIpQLSctrL8SseHvk8uLCBI1DXfAW0Ig0owttvX65WaaJndkwdbHlA/viewform) | Yes | [Yes](https://reactconfau.com/code-of-conduct) |
 
 ### March
 
@@ -155,7 +155,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [JSCamp](https://chicagojs.org/) | Chicago, Illinois | September 22, 2018 | July 4, 2018 | No | [Yes](https://chicagojs.org/code-of-conduct) |
 | [React Boston](http://www.reactboston.com/) | Boston, Massachusetts | September 29 - 30, 2018 | June 30, 2018 | Yes | [Yes](http://confcodeofconduct.com/) |
 | [Strange Loop](https://thestrangeloop.com/) | St. Louis, Missouri | September 26 - 28, 2018 | May 13, 2018 | Yes | [Yes](https://www.thestrangeloop.com/policies.html) |
-| [React Alicante](http://reactalicante.es/) | Alicante, Spain | September 13 - 15, 2018 | February 28, 2018 | Yes | Unspecified |
+| [React Alicante](http://reactalicante.es/) | Alicante, Spain | September 26 - 28, 2019 | February 28, 2018 | Yes | Unspecified |
 | [JSFoo](https://jsfoo.in/) | Bangalore, India | September 27 - 28, 2019 | Unknown | Honorarium | [Yes](https://jsfoo.in/code-of-conduct/) |
 
 ### October
@@ -163,6 +163,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | Conference | Location | Date | Submission Deadline | Flight / Hotel? | CoC? |
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
 | [ReactJS Day](http://www.reactjsday.it) | Verona, Italy | October 4, 2019 | July 1, 2019 | Yes | [Yes](https://2019.reactjsday.it/coc.html) |
+| [Caribbean Developers Conference](https://cdc.dev/) | Punta Cana, Dominican Republic | October 4 - 5, 2019 | [August 31, 2019](https://sessionize.com/cdc/) | No | [Yes](https://cdc.dev/code-of-conduct/) |
 | [RuhrJS](https://ruhrjs.de/) | Bochum, Germany | October 5 - 6, 2019 | May 31, 2019 | Yes | [Yes](https://ruhrjs.de/coc) |
 | [All Things Open](https://allthingsopen.org/) | Raleigh, North Carolina | October 13 - 15, 2019 | March 15, 2019 | No | [Yes](https://allthingsopen.org/code-of-conduct/) |
 | [dev up](http://www.devupconf.org/) | St. Louis, Missouri | October 14 - 16, 2019 | May 31, 2019 | Hotel | Yes |
