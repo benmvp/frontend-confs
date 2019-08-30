@@ -37,6 +37,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [Front Fest](http://frontfest.es/) | Madrid, Spain | February 9, 2019 | November 11, 2018 | Unknown | [Yes](http://frontfest.es/codigo-conducta.html) |
 | [DNN Summit](http://www.dnnsummit.org/) | Denver, Colorado | February 19 - 21, 2019 | September 22, 2018 | No | Yes |
 | [DevNexus](https://devnexus.com/) | Atlanta, Georgia | March 6 - 8, 2019 | October 15, 2018 | Case-by-case basis | [Yes](https://devnexus.com/code-of-conduct) |
+| [ngAtlanta](https://ng-atl.org/) | Alpharetta, Georgia, USA | February 17 - 21, 2020 |  February 17, 2019 | Yes | [Yes](https://ng-atl.org/code-of-conduct/) |
 | [AgentConf](https://www.agent.sh/) | Dornbirn, Austria | February 21 - 24, 2019 | October 1, 2018 | Hotel + Ski | [Yes](https://www.agent.sh/coc) |
 | [ReactConf AU](https://reactconfau.com/) | Sydney, Australia | February 27 - 28, 2020 | [September 11, 2019](https://docs.google.com/forms/d/e/1FAIpQLSctrL8SseHvk8uLCBI1DXfAW0Ig0owttvX65WaaJndkwdbHlA/viewform) | Yes | [Yes](https://reactconfau.com/code-of-conduct) |
 
