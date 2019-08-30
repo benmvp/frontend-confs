@@ -79,6 +79,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
 | [ng-conf](https://www.ng-conf.org/) | Salt Lake City, Utah | May 1 - 3, 2019 | January 15, 2019 | Yes | [Yes](https://www.ng-conf.org/wp-content/uploads/2018/04/COC.jpg) |
 | [CityJS Conf](https://cityjsconf.org/) | London, United Kingdom | May 3, 2019 | January 31, 2019 | Yes | [Yes](http://jsconf.com/codeofconduct.html) |
+| [render(ATL)](https://www.renderatl.com/) | Atlanta, GA | May 4 - 6, 2020 | TBD | Yes | [Yes](https://www.renderatl.com/code-of-conduct) |
 | [NDC Minnesota](https://ndcminnesota.com/) | St. Paul, Minnesota | May 6 - 9, 2019 | January 15, 2019 | Yes | [Yes](https://ndcminnesota.com/page/code-of-conduct) |
 | [JS Day Italy](https://jsday.it) | Verona, Italy | May 8 - 9, 2019 | April 2, 2019 | Yes | [Yes](https://jsday.it/coc.html) |
 | [ReactEurope](https://www.react-europe.org/) | Paris, France | May 21 - 24, 2019 | January 10, 2019 | Yes | [Yes](http://confcodeofconduct.com/) |
