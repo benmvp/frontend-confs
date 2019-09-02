@@ -197,4 +197,5 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [dotCSS](https://www.dotcss.io/) | Paris, France | December 4, 2019 | Rolling | Yes | [Yes](https://www.dotcss.io/codeofconduct) |
 | [dotJS](https://www.dotjs.io/) | Paris, France | December 5 - 6, 2019 | Rolling | Yes | [Yes](https://www.dotjs.io/codeofconduct) |
 | [React Day Berlin](https://reactday.berlin/) | Berlin, Germany | December 6, 2019 | August 31, 2019 | Yes | [Yes](http://berlincodeofconduct.org) |
+| [ConFrontJS 2019](https://confrontjs.com/) | Warsaw, Poland | December 7, 2019 | November 1, 2019 | Yes | [Yes](http://berlincodeofconduct.org) |
 | [Node+JS Interactive](https://events.linuxfoundation.org/events/nodejs-interactive-2019/) | Montreal, Canada | December 11 - 12, 2019 | June 21, 2019 | Unknown | [Yes](https://events.linuxfoundation.org/code-of-conduct/) |
