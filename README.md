@@ -83,9 +83,8 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [render(ATL)](https://www.renderatl.com/) | Atlanta, GA | May 4 - 6, 2020 | TBD | Yes | [Yes](https://www.renderatl.com/code-of-conduct) |
 | [NDC Minnesota](https://ndcminnesota.com/) | St. Paul, Minnesota | May 6 - 9, 2019 | January 15, 2019 | Yes | [Yes](https://ndcminnesota.com/page/code-of-conduct) |
 | [JS Day Italy](https://jsday.it) | Verona, Italy | May 8 - 9, 2019 | April 2, 2019 | Yes | [Yes](https://jsday.it/coc.html) |
+| [You Gotta Love Frontend](https://lithuania.yglfconf.com) | Vilnius, Lithuania | May 14 - 15, 2020 | [February 1, 2020](https://docs.google.com/forms/d/e/1FAIpQLSfSxD7p1_DzB641xXTWP8TDTeMtcuAtpw88sna5fyxSSTpY4w/viewform) | Yes | [Yes](https://lithuania.yglfconf.com/code-of-conduct) |
 | [ReactEurope](https://www.react-europe.org/) | Paris, France | May 21 - 24, 2019 | January 10, 2019 | Yes | [Yes](http://confcodeofconduct.com/) |
-| [You Gotta Love Frontend](https://www.yougottalovefrontend.com) | Vilnius, Lithuania | May 16 - 17, 2019 | February 1, 2019 | Yes | [Yes](https://www.yougottalovefrontend.com/code-of-conduct.html) |
-| [RevolutionConf](https://revolutionconf.com/) | Virginia Beach, Virginia | June 6 - 7, 2019 | January 18, 2019 | Maybe / Yes | [Yes](https://revolutionconf.com/code-of-conduct) |
 | [200OK](http://200ok.us/) | Tulsa, Oklahoma | May 18, 2018 | February 5, 2018 | Yes | [Yes](https://www.techlahoma.org/code-of-conduct/) |
 | [NationJS](http://nationjs.com/) | Washington, D.C. | May 18, 2018 | TBD | Yes | [Yes](http://www.nationjs.com/conduct) |
 | [JS Day ES](http://2018.jsday.es/) | Madrid, Spain | May 19, 2018 | January 31, 2018 | No | [Yes](http://jsday.es/code-of-conduct-en.html) |
@@ -103,6 +102,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [JSConf EU](https://jsconf.eu) | Berlin, Germany | June 1 - 2, 2019 | December 30, 2018 | Yes | [Yes](https://jsconf.eu/code-of-conduct/) |
 | [Web Rebels](https://webrebels.org/) | Oslo, Norway | June 4 - 5, 2018 | February 25, 2018 | Yes | Yes |
 | [Prairie Dev Con](http://www.prairiedevcon.com/) | Winnipeg, Canada | June 4 - 5, 2019 | TBD | Yes (North America) | [Yes](http://www.prairiedevcon.com/CodeOfConduct) |
+| [RevolutionConf](https://revolutionconf.com/) | Virginia Beach, Virginia | June 6 - 7, 2019 | January 18, 2019 | Maybe / Yes | [Yes](https://revolutionconf.com/code-of-conduct) |
 | [Syntax Code & Craft Convention](https://2018.syntaxcon.com/) | Charleston, South Carolina | June 6 - 8, 2018 | December 31, 2017 | Yes | [Yes](https://2017.syntaxcon.com/about/code-of-conduct/) |
 | [Amsterdam JS](http://amsterdamjs.com) | Amsterdam, The Netherlands | June 7, 2019 | March 31, 2019 | Yes | [Yes](https://http://confcodeofconduct.com/) |
 | [DEVit Web Conference](http://devitconf.org/) | Thessaloniki, Greece | June 9 - 10, 2018 | TBD | Yes | [Yes](http://devitconf.org/code-of-conduct) |
