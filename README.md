@@ -119,6 +119,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [ScotlandJS](http://scotlandjs.com/) | Edinburgh, Scotland | June 19 - 20, 2018 | March 1, 2018 | Yes | [Yes](http://scotlandjs.com/codeofconduct) |
 | [Prairie Dev Con](http://www.prairiedevcon.com/) | Regina, Canada | June 22 - 23, 2019 | TBD | Yes (North America) | [Yes](http://www.prairiedevcon.com/CodeOfConduct) |
 | [enterJS](https://www.enterjs.de/) | Darmstadt, Germany | June 25 - 28, 2019 | January 14, 2019 | Yes | [Yes](https://www.enterjs.de/diversity#code-of-conduct) |
+| [React Day Norway](https://reactnorway.com/) | Larvik, Norway | June 26, 2020 | [Ongoing](https://docs.google.com/forms/d/e/1FAIpQLSdSDgrLTXgQtVJ_VSYPO9EysGEHpDSdPSRf-xn74pSp_QLJdA/viewform) | Maybe | [Yes](https://berlincodeofconduct.org/) |
 
 ### July
 
