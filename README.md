@@ -34,10 +34,11 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 
 | Conference | Location | Date | Submission Deadline | Flight / Hotel? | CoC? |
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
+| [JS Conf Hawaii](https://www.jsconfhi.com/) | Honolulu, Hawaii | February 5 - 7, 2020 | [September 30, 2019](https://sessionize.com/jsconf-hawaii-2020) | Yes | [Yes](https://www.jsconfhi.com/code-of-conduct) |
 | [Front Fest](http://frontfest.es/) | Madrid, Spain | February 9, 2019 | November 11, 2018 | Unknown | [Yes](http://frontfest.es/codigo-conducta.html) |
 | [DNN Summit](http://www.dnnsummit.org/) | Denver, Colorado | February 19 - 21, 2019 | September 22, 2018 | No | Yes |
 | [DevNexus](https://devnexus.com/) | Atlanta, Georgia | March 6 - 8, 2019 | October 15, 2018 | Case-by-case basis | [Yes](https://devnexus.com/code-of-conduct) |
-| [ngAtlanta](https://ng-atl.org/) | Alpharetta, Georgia, USA | February 17 - 21, 2020 |  February 17, 2019 | Yes | [Yes](https://ng-atl.org/code-of-conduct/) |
+| [ngAtlanta](https://ng-atl.org/) | Alpharetta, Georgia | February 17 - 21, 2020 | February 17, 2019 | Yes | [Yes](https://ng-atl.org/code-of-conduct/) |
 | [AgentConf](https://www.agent.sh/) | Dornbirn, Austria | February 21 - 24, 2019 | October 1, 2018 | Hotel + Ski | [Yes](https://www.agent.sh/coc) |
 | [ReactConf AU](https://reactconfau.com/) | Sydney, Australia | February 27 - 28, 2020 | [September 11, 2019](https://docs.google.com/forms/d/e/1FAIpQLSctrL8SseHvk8uLCBI1DXfAW0Ig0owttvX65WaaJndkwdbHlA/viewform) | Yes | [Yes](https://reactconfau.com/code-of-conduct) |
 
@@ -59,12 +60,14 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [Typeof](https://typeofconf.com/) | Porto, Portugal | March 27 - 29, 2019 | February 27, 2019 | Yes | [Yes](https://typeofconf.com/code-of-conduct) |
 | [#PerfMatters US](https://perfmattersconf.com/) | Redwood City, California | April 2 - 3, 2019 | October 1, 2018 | Yes | [Yes](https://perfmattersconf.com/code/) |
 | [Reactathon](https://www.reactathon.com/) | San Francisco, California | March 30 - 31, 2019 | January 15, 2019 | Yes | Unspecified |
+| [DevConf](https://www.devconf.co.za/) | Cape Town, South Africa | 31 March, 2020 | [September 14, 2019](https://sessionize.com/devconf2020/) | Yes | [Yes](https://www.devconf.co.za/codeofconduct) |
 | [CSS Dev Conf](https://css.w3ctech.com/?l=en) | XAmoy(Xiamen), China | March 31, 2018 | March 8, 2018 | Yes | Unspecified |
 
 ### April
 
 | Conference | Location | Date | Submission Deadline | Flight / Hotel? | CoC? |
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
+| [DevConf](https://www.devconf.co.za/) | Johannesburg, South Africa | 2 April, 2020 | [September 14, 2019](https://sessionize.com/devconf2020/) | Yes | [Yes](https://www.devconf.co.za/codeofconduct) |
 | [University of Illinois Web Conference](http://webcon.illinois.edu/) | Champaign, Illinois | April 3 - 5, 2019 | August 13, 2018 | No | [Yes](http://webcon.illinois.edu/code.pdf) |
 | [Frontend NE](https://2018.frontendne.co.uk/) | Newcastle Upon Tyne, United Kingdom | April 5, 2018 | December 6, 2017 | Yes | [Yes](https://2018.frontendne.co.uk/code-of-conduct.html) |
 | [ForwardJS Ottawa](https://forwardjs.com/ottawa) | Ottawa, Canada | April 9 - 12, 2019 | Unknown | No | [Yes](http://confcodeofconduct.com/) |
@@ -197,5 +200,6 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [dotCSS](https://www.dotcss.io/) | Paris, France | December 4, 2019 | Rolling | Yes | [Yes](https://www.dotcss.io/codeofconduct) |
 | [dotJS](https://www.dotjs.io/) | Paris, France | December 5 - 6, 2019 | Rolling | Yes | [Yes](https://www.dotjs.io/codeofconduct) |
 | [React Day Berlin](https://reactday.berlin/) | Berlin, Germany | December 6, 2019 | August 31, 2019 | Yes | [Yes](http://berlincodeofconduct.org) |
+| [NationJS Frontrunners React](http://nationjs.com/) | Washington, D.C. | December 6, 2019 | [October 11, 2019](https://www.papercall.io/frontrunners-react-2019) | Yes | [Yes](http://berlincodeofconduct.org) |
 | [ConFrontJS](https://confrontjs.com/) | Warsaw, Poland | December 7, 2019 | [November 1, 2019](https://docs.google.com/forms/d/e/1FAIpQLSeutfT7jfYuOCr0ORTWi13JbsufeazPs2C6nAdf9xclsemE-w/viewform) | Yes | [Yes](http://berlincodeofconduct.org) |
 | [Node+JS Interactive](https://events.linuxfoundation.org/events/nodejs-interactive-2019/) | Montreal, Canada | December 11 - 12, 2019 | June 21, 2019 | Unknown | [Yes](https://events.linuxfoundation.org/code-of-conduct/) |
