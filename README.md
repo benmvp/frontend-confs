@@ -78,6 +78,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [Internal JavaScript Conference](https://javascript-conference.com/) | London, United Kingdom | April 20 - 22, 2020 | [November 4, 2019](https://javascript-conference.com/call-for-papers-2/) | No | [Yes](https://javascript-conference.com/service-info/code-of-conduct/) |
 | [JSUnconf](http://jsunconf.eu/) | Hamburg, Germany | April 21 - 22, 2017 | Rolling | Yes | [Yes](http://2018.jsunconf.eu/coc/) |
 | [HalfStack Charlotte](https://halfstackconf.com/charlotte/) | Charlotte, North Carolina | April 24, 2020 | [November 15, 2019](https://docs.google.com/forms/d/e/1FAIpQLSe3_boCyHHf4vm8OF49gTD39ZOLH44yg5e3Q_SfIaxDQW0Flw/viewform) | No | [Yes](https://halfstackconf.com/charlotte/code-of-conduct/) |
+| [React Day Bangalore](https://reactday.in/) | Bangalore, India | April 25, 2020 | [November 30, 2019](https://www.papercall.io/cfps/2601/submissions/new) | No | [Yes](https://reactday.in/code-of-conduct) |
 | [Stir Trek](https://stirtrek.com/) | Columbus, Ohio | April 26, 2019 | February 3, 2018 | TBD | [Yes](https://stirtrek.com/Home/CodeOfConduct) |
 
 ### May
