@@ -49,6 +49,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [ReactFoo](https://reactfoo.in/) | Bangalore, India | March 1 - 2, 2019 | [December 15, 2018](https://reactfoo.talkfunnel.com/2019/) | Honorarium | [Yes](https://reactfoo.in/code-of-conduct/) |
 | [JSConf Iceland](https://jsconf.is/) | Reykjavik, Iceland | March 1 - 2, 2018 | October 31, 2017 | Yes | [Yes](http://confcodeofconduct.com/) |
 | [.concat()](https://conc.at/) | Salzburg, Austria | March 3, 2018 | December 1, 2017 | Yes | [Yes](https://conc.at/#coc) |
+| [Node.TLV](https://www.nodetlv.com/) | Tel Aviv, Israel | March 3, 2019 | [November 30, 2019](https://docs.google.com/forms/d/e/1FAIpQLSd8XUCFgFpAidZIPYWmKURAnmYQs4EvHrEFb3AdgVez0HJUtw/viewform) | Flight | [Yes](https://www.nodetlv.com/code-of-conduct) |
 | [ReactFest](https://reactfest.com/) | London, United Kingdom | March 9, 2018 | January 15, 2017 | Yes | Unspecified |
 | [ConFoo Montreal](https://confoo.ca/en/) | Montreal, Canada | March 13 - 15, 2019 | September 24, 2018 | Yes | [Yes](https://confoo.ca/en/code-of-conduct) |
 | [EmberConf](http://emberconf.com/) | Portland, Oregon | March 18 - 20, 2019 | November 18, 2018 | $800 | [Yes](http://emberconf.com/about.html#code-of-conduct) |
@@ -74,7 +75,9 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [JSHeroes](https://jsheroes.io/) | Cluj-Napoca, Romania | April 11-12, 2019 | December 1, 2018 | Yes | [Yes](https://jsheroes.io/code-of-conduct) |
 | [React Amsterdam](https://react.amsterdam/) | Amsterdam, The Netherlands |  April 12, 2019 | January 15, 2019 | Yes | [Yes](http://confcodeofconduct.com/) |
 | [JS Kongress](https://js-kongress.de/) | Munich, Germany | April 15 - 16, 2020 |  October 15, 2019 | Yes | [Yes](https://js-kongress.de/code-of-conduct/) |
+| [Internal JavaScript Conference](https://javascript-conference.com/) | London, United Kingdom | April 20 - 22, 2020 | [November 4, 2019](https://javascript-conference.com/call-for-papers-2/) | No | [Yes](https://javascript-conference.com/service-info/code-of-conduct/) |
 | [JSUnconf](http://jsunconf.eu/) | Hamburg, Germany | April 21 - 22, 2017 | Rolling | Yes | [Yes](http://2018.jsunconf.eu/coc/) |
+| [HalfStack Charlotte](https://halfstackconf.com/charlotte/) | Charlotte, North Carolina | April 24, 2020 | [November 15, 2019](https://docs.google.com/forms/d/e/1FAIpQLSe3_boCyHHf4vm8OF49gTD39ZOLH44yg5e3Q_SfIaxDQW0Flw/viewform) | No | [Yes](https://halfstackconf.com/charlotte/code-of-conduct/) |
 | [Stir Trek](https://stirtrek.com/) | Columbus, Ohio | April 26, 2019 | February 3, 2018 | TBD | [Yes](https://stirtrek.com/Home/CodeOfConduct) |
 
 ### May
