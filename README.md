@@ -60,7 +60,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [VueConf US](http://www.vueconf.us/) | New Orleans, Louisiana | March 25 - 27, 2019 | November 1, 2018 | Yes | [Yes](http://www.vueconf.us/codeofconduct) |
 | [Typeof](https://typeofconf.com/) | Porto, Portugal | March 27 - 29, 2019 | February 27, 2019 | Yes | [Yes](https://typeofconf.com/code-of-conduct) |
 | [#PerfMatters US](https://perfmattersconf.com/) | Redwood City, California | April 2 - 3, 2019 | October 1, 2018 | Yes | [Yes](https://perfmattersconf.com/code/) |
-| [Reactathon](https://www.reactathon.com/) | San Francisco, California | March 30 - 31, 2019 | January 15, 2019 | Yes | Unspecified |
+| [Reactathon](https://www.reactathon.com/) | San Francisco, California | March 30 - 31, 2020 | [January 15, 2020](https://docs.google.com/forms/d/e/1FAIpQLScv1vyGgoWB_B3f4BsebBUy69s3pHS9KSydPruHxgFwBSIPZw/viewform) | Yes | [Yes](https://www.reactathon.com/code-of-conduct/) |
 | [DevConf](https://www.devconf.co.za/) | Cape Town, South Africa | 31 March, 2020 | [September 14, 2019](https://sessionize.com/devconf2020/) | Yes | [Yes](https://www.devconf.co.za/codeofconduct) |
 | [CSS Dev Conf](https://css.w3ctech.com/?l=en) | XAmoy(Xiamen), China | March 31, 2018 | March 8, 2018 | Yes | Unspecified |
 
